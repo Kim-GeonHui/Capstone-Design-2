@@ -1,1201 +1,841 @@
-월,순위,타이틀,가수
-1,1,VVS (Feat. JUSTHIS) (Prod. GroovyRoom),"미란이 (Mirani), 먼치맨(MUNCHMAN), Khundi Panda, 머쉬베놈 (MUSHVENOM)"
-1,2,"내일이 오면 (Feat. 기리보이, BIG Naughty (서동현))",릴보이 (lIlBOI)
-1,3,Life Goes On,방탄소년단
-1,4,"CREDIT (Feat. 염따, 기리보이, Zion.T)",릴보이 (lIlBOI)
-1,5,"Achoo (Feat. pH-1, HAON) (Prod. GroovyRoom)",미란이 (Mirani)
-1,6,어떻게 지내 (Prod. By VAN.C),오반
-1,7,METEOR,창모 (CHANGMO)
-1,8,Freak (Prod. Slom),"릴보이 (lIlBOI), 원슈타인, Chillin Homie, 스카이민혁 (Skyminhyuk)"
-1,9,"ON AIR (Feat. 로꼬, 박재범 & GRAY)",릴보이 (lIlBOI)
-1,10,뿌리 (Feat. JUSTHIS) (Prod. GroovyRoom),Khundi Panda
-1,11,악역 (Feat. 이하이 & 사이먼 도미닉) (Prod. 코드 쿤스트),스윙스
-1,12,봄날,방탄소년단
-1,13,눈누난나 (NUNU NANA),제시 (Jessi)
-1,14,Downtown Baby,블루 (BLOO)
-1,15,고독하구만 (Feat. 수퍼비) (Prod. GroovyRoom),머쉬베놈 (MUSHVENOM)
-1,16,"여백의 미 (Feat. Jessi, JUSTHIS) (Prod. GroovyRoom)",머쉬베놈 (MUSHVENOM)
-1,17,아무노래,지코 (ZICO)
-1,18,ON,방탄소년단
-1,19,적외선 카메라,원슈타인
-1,20,원해 (Feat. 팔로알토) (Prod. 코드 쿤스트),"스윙스, 맥대디 (Mckdaddy), Khakii (카키), 래원 (Layone)"
-1,21,"가다 (Feat. 사이먼 도미닉, The Quiett) (Prod. SLO)",머쉬베놈 (MUSHVENOM)
-1,22,부어라 비워라 (Tricker) (Prod. GroovyRoom),머쉬베놈 (MUSHVENOM)
-1,23,사랑은(Feat.원슈타인),마미손
-1,24,Pretty Savage,BLACKPINK
-1,25,"Rosario (Feat. CL, ZICO)",에픽하이 (EPIK HIGH)
-1,26,축하해 (Prod. By VAN.C),오반
-1,27,내 얘기 같아 (Feat. 헤이즈),에픽하이 (EPIK HIGH)
-1,28,Summer Hate (Feat. 비),지코 (ZICO)
-1,29,잠시,방탄소년단
-1,30,사랑이었나봐,기리보이
-1,31,"윈윈 (Feat. 개코, BewhY) (Prod. BewhY)","허성현 (Huh), dsel (디젤), 가오가이 (kaogaii), Untell (언텔)"
-1,32,도망가,MINO (송민호)
-1,33,옜다,"머쉬베놈 (MUSHVENOM), 저스디스 (JUSTHIS)"
-1,34,병,방탄소년단
-1,35,"Hero (Feat. JUSTHIS, Golden) (Prod. GroovyRoom)",Khundi Panda
-1,36,Bad News Cypher vol.2 (Feat. TakeOne),릴보이 (lIlBOI)
-1,37,어떻게 지내 (답가),런치
-1,38,"Yay (Feat. 이영지, JAMIE (제이미) & 팔로알토) (Prod. 코드 쿤스트)",래원 (Layone)
-1,39,뚜두뚜두 (DDU-DU DDU-DU),BLACKPINK
-1,40,"iii (Feat. 베이식, Kid Milli & 팔로알토) (Prod. 코드 쿤스트)",래원 (Layone)
-1,41,00:00 (Zero O’Clock),방탄소년단
-1,42,Officially Missing You,긱스 (Geeks)
-1,43,시차 (We Are) (Feat. 로꼬 & GRAY),우원재
-1,44,우리서로사랑하지는말자,기리보이
-1,45,Make A Wish (Birthday Song),NCT U
-1,46,잠이 들어야 (Feat. 헤이즈),로꼬
-1,47,Kill This Love,BLACKPINK
-1,48,아름다워,창모 (CHANGMO)
-1,49,사이렌,호미들
-1,50,Black Swan,방탄소년단
-1,51,"아마두 (feat.우원재, 김효은, 넉살, Huckleberry P)","염따, 딥플로우, 팔로알토 (Paloalto), The Quiett, 사이먼 도미닉"
-1,52,친구,방탄소년단
-1,53,한량 (Feat. 비비 (BIBI)) (Prod. 딘딘),"민경훈, 김희철"
-1,54,빌었어,창모 (CHANGMO)
-1,55,보자보자,머쉬베놈 (MUSHVENOM)
-1,56,DNA,방탄소년단
-1,57,Moon,방탄소년단
-1,58,Error (Feat. Loopy),ASH ISLAND
-1,59,"Achoo Remix (Feat. 미란이(Mirani), pH-1, 먼치맨, Skinny Brown, Louie, 릴러말즈 (Leellamarz), Ourealgoat (아우릴고트), Dbo (디보), 식케이 (Sik-K), 오왼 (Owen), Kid Milli, 스윙스, Nudeboi Seo, TRADE L, 쿠기 (Coogie), Blase (블라세), sokodomo, Khundi Panda, 휘민 (Lil Moshpit), Khakii (카키))","그루비룸 (GroovyRoom), 저스디스 (JUSTHIS)"
-1,60,"Rainy day (Feat. ASH ISLAND, Skinny Brown)",PATEKO (파테코)
-1,61,Filter,방탄소년단
-1,62,IDOL,방탄소년단
-1,63,Good Day (Feat. 팔로알토) (Prod. 코드 쿤스트),"pH-1, 키드밀리 (Kid Milli), 루피 (Loopy)"
-1,64,VVS (H1GHR Remix) (Feat. JUSTHIS) (Prod. GroovyRoom),"pH-1, BIG Naughty (서동현), TRADE L, Woodie Gochild, 박재범, 키드킹 (Kidd King)"
-1,65,광장동에서,창모 (CHANGMO)
-1,66,"세상에 나쁜 개는 없다 (Feat. YDG, Zion.T) (Prod. Slom)",원슈타인
-1,67,"헤어지지 못하는 여자, 떠나가지 못하는 남자 (Feat. 정인)",리쌍
-1,68,"Daydreamin (Feat. sogumm & 우원재) (Prod. Yosi, 팔로알토 & 코드 쿤스트)",래원 (Layone)
-1,69,BAND,"창모 (CHANGMO), Hash Swan, ASH ISLAND, 김효은"
-1,70,"정당방위 (Feat. 우원재, 넉살, 창모)",에픽하이 (EPIK HIGH)
-1,71,어땠을까 (Feat. 박정현),싸이 (PSY)
-1,72,널 너무 모르고,헤이즈 (Heize)
-1,73,사랑을 했다 (LOVE SCENARIO),iKON
-1,74,Paranoid,ASH ISLAND
-1,75,SOLO,제니 (JENNIE)
-1,76,이 노래가 클럽에서 나온다면,우디 (Woody)
-1,77,영웅 (英雄; Kick It),NCT 127
-1,78,FAKE LOVE,방탄소년단
-1,79,We are Bulletproof : the Eternal,방탄소년단
-1,80,"인기 (Feat. 송가인, 챈슬러)",MC몽
-1,81,Selfmade Orange (Feat. SUPERBEE),창모 (CHANGMO)
-1,82,"And July (Feat. DEAN, DJ Friz)",헤이즈 (Heize)
-1,83,G+Jus Freestyle (Prod. GroovyRoom),저스디스 (JUSTHIS)
-1,84,시차,방탄소년단
-1,85,자니 (Feat. Dynamic Duo),프라이머리
-1,86,Trip (Feat. Hannah),릴러말즈 (Leellamarz)
-1,87,하루 하루,BIGBANG (빅뱅)
-1,88,LINDA (Feat. 윤미래),린다G
-1,89,나란히,BewhY (비와이)
-1,90,휘파람,BLACKPINK
-1,91,400km (Feat. Kid Milli),한요한
-1,92,행복,오반
-1,93,너에게 쓰는 편지 (Feat. 린),MC몽
-1,94,Inner Child,방탄소년단
-1,95,왜 이리 시끄러운 것이냐 (Prod. SLO),머쉬베놈 (MUSHVENOM)
-1,96,"아퍼 (Feat. Kid Milli, Lil tachi, 김승민, NO:EL, C JAMM)",기리보이
-1,97,우연히 봄,"로꼬, 유주 (YUJU)"
-1,98,연애소설 (Feat. 아이유),에픽하이 (EPIK HIGH)
-1,99,GONE (Feat. Paloalto) (Prod. TOIL),"릴러말즈 (Leellamarz), TOIL"
-1,100,격리해제 (CODE CLEAR),Various Artists
-2,1,VVS (Feat. JUSTHIS) (Prod. GroovyRoom),"미란이 (Mirani), 먼치맨(MUNCHMAN), Khundi Panda, 머쉬베놈 (MUSHVENOM)"
-2,2,Life Goes On,방탄소년단
-2,3,"내일이 오면 (Feat. 기리보이, BIG Naughty (서동현))",릴보이 (lIlBOI)
-2,4,METEOR,창모 (CHANGMO)
-2,5,어떻게 지내 (Prod. By VAN.C),오반
-2,6,"CREDIT (Feat. 염따, 기리보이, Zion.T)",릴보이 (lIlBOI)
-2,7,봄날,방탄소년단
-2,8,"Achoo (Feat. pH-1, HAON) (Prod. GroovyRoom)",미란이 (Mirani)
-2,9,Downtown Baby,블루 (BLOO)
-2,10,Freak (Prod. Slom),"릴보이 (lIlBOI), 원슈타인, Chillin Homie, 스카이민혁 (Skyminhyuk)"
-2,11,뿌리 (Feat. JUSTHIS) (Prod. GroovyRoom),Khundi Panda
-2,12,눈누난나 (NUNU NANA),제시 (Jessi)
-2,13,"ON AIR (Feat. 로꼬, 박재범 & GRAY)",릴보이 (lIlBOI)
-2,14,아무노래,지코 (ZICO)
-2,15,악역 (Feat. 이하이 & 사이먼 도미닉) (Prod. 코드 쿤스트),스윙스
-2,16,ON,방탄소년단
-2,17,고독하구만 (Feat. 수퍼비) (Prod. GroovyRoom),머쉬베놈 (MUSHVENOM)
-2,18,"여백의 미 (Feat. Jessi, JUSTHIS) (Prod. GroovyRoom)",머쉬베놈 (MUSHVENOM)
-2,19,"Rosario (Feat. CL, ZICO)",에픽하이 (EPIK HIGH)
-2,20,Pretty Savage,BLACKPINK
-2,21,사랑은(Feat.원슈타인),마미손
-2,22,사이렌,호미들
-2,23,원해 (Feat. 팔로알토) (Prod. 코드 쿤스트),"스윙스, 맥대디 (Mckdaddy), Khakii (카키), 래원 (Layone)"
-2,24,적외선 카메라,원슈타인
-2,25,내 얘기 같아 (Feat. 헤이즈),에픽하이 (EPIK HIGH)
-2,26,"가다 (Feat. 사이먼 도미닉, The Quiett) (Prod. SLO)",머쉬베놈 (MUSHVENOM)
-2,27,Summer Hate (Feat. 비),지코 (ZICO)
-2,28,축하해 (Prod. By VAN.C),오반
-2,29,뚜두뚜두 (DDU-DU DDU-DU),BLACKPINK
-2,30,시차 (We Are) (Feat. 로꼬 & GRAY),우원재
-2,31,부어라 비워라 (Tricker) (Prod. GroovyRoom),머쉬베놈 (MUSHVENOM)
-2,32,잠시,방탄소년단
-2,33,옜다,"머쉬베놈 (MUSHVENOM), 저스디스 (JUSTHIS)"
-2,34,Kill This Love,BLACKPINK
-2,35,어떻게 지내 (답가),런치
-2,36,"범(feat.Chillin Homie, Kid Milli)",라비 (RAVI)
-2,37,"Rainy day (Feat. ASH ISLAND, Skinny Brown)",PATEKO (파테코)
-2,38,아름다워,창모 (CHANGMO)
-2,39,도망가,MINO (송민호)
-2,40,00:00 (Zero O’Clock),방탄소년단
-2,41,우리서로사랑하지는말자,기리보이
-2,42,사랑이었나봐,기리보이
-2,43,DNA,방탄소년단
-2,44,"윈윈 (Feat. 개코, BewhY) (Prod. BewhY)","허성현 (Huh), dsel (디젤), 가오가이 (kaogaii), Untell (언텔)"
-2,45,빌었어,창모 (CHANGMO)
-2,46,병,방탄소년단
-2,47,IDOL,방탄소년단
-2,48,"헤어지지 못하는 여자, 떠나가지 못하는 남자 (Feat. 정인)",리쌍
-2,49,Officially Missing You,긱스 (Geeks)
-2,50,Make A Wish (Birthday Song),NCT U
-2,51,Error (Feat. Loopy),ASH ISLAND
-2,52,친구,방탄소년단
-2,53,"아마두 (feat.우원재, 김효은, 넉살, Huckleberry P)","염따, 딥플로우, 팔로알토 (Paloalto), The Quiett, 사이먼 도미닉"
-2,54,Black Swan,방탄소년단
-2,55,어땠을까 (Feat. 박정현),싸이 (PSY)
-2,56,Good Day (Feat. 팔로알토) (Prod. 코드 쿤스트),"pH-1, 키드밀리 (Kid Milli), 루피 (Loopy)"
-2,57,꽉 쥔 주먹속의 라이터,호미들
-2,58,BAND,"창모 (CHANGMO), Hash Swan, ASH ISLAND, 김효은"
-2,59,Paranoid,ASH ISLAND
-2,60,우연히 봄,"로꼬, 유주 (YUJU)"
-2,61,사랑을 했다 (LOVE SCENARIO),iKON
-2,62,널 너무 모르고,헤이즈 (Heize)
-2,63,SOLO,제니 (JENNIE)
-2,64,잠이 들어야 (Feat. 헤이즈),로꼬
-2,65,Moon,방탄소년단
-2,66,커피가게 아가씨 (Feat. 원슈타인) (Prod. PEEJAY),BIG Naughty (서동현)
-2,67,"And July (Feat. DEAN, DJ Friz)",헤이즈 (Heize)
-2,68,하루 하루,BIGBANG (빅뱅)
-2,69,Trip (Feat. Hannah),릴러말즈 (Leellamarz)
-2,70,"Hero (Feat. JUSTHIS, Golden) (Prod. GroovyRoom)",Khundi Panda
-2,71,Y (Please Tell Me Why),프리스타일
-2,72,Filter,방탄소년단
-2,73,FAKE LOVE,방탄소년단
-2,74,Selfmade Orange (Feat. SUPERBEE),창모 (CHANGMO)
-2,75,이 노래가 클럽에서 나온다면,우디 (Woody)
-2,76,Drama,블루 (BLOO)
-2,77,Nerdy Love (Feat. 백예린),pH-1
-2,78,"인기 (Feat. 송가인, 챈슬러)",MC몽
-2,79,너에게 쓰는 편지 (Feat. 린),MC몽
-2,80,GONE (Feat. Paloalto) (Prod. TOIL),"릴러말즈 (Leellamarz), TOIL"
-2,81,휘파람,BLACKPINK
-2,82,영웅 (英雄; Kick It),NCT 127
-2,83,300(prod. Cashbanger),호미들
-2,84,거짓말,BIGBANG (빅뱅)
-2,85,자니 (Feat. Dynamic Duo),프라이머리
-2,86,400km (Feat. Kid Milli),한요한
-2,87,악몽,ASH ISLAND
-2,88,보자보자,머쉬베놈 (MUSHVENOM)
-2,89,우산 (Feat. 윤하),에픽하이 (EPIK HIGH)
-2,90,"Yay (Feat. 이영지, JAMIE (제이미) & 팔로알토) (Prod. 코드 쿤스트)",래원 (Layone)
-2,91,Bad News Cypher vol.2 (Feat. TakeOne),릴보이 (lIlBOI)
-2,92,"iii (Feat. 베이식, Kid Milli & 팔로알토) (Prod. 코드 쿤스트)",래원 (Layone)
-2,93,한량 (Feat. 비비 (BIBI)) (Prod. 딘딘),"민경훈, 김희철"
-2,94,사임쌓임,"Chin, 수퍼비 (SUPERBEE), CK, UNEDUCATED KID"
-2,95,광장동에서,창모 (CHANGMO)
-2,96,연애소설 (Feat. 아이유),에픽하이 (EPIK HIGH)
-2,97,붐바야,BLACKPINK
-2,98,Ballerino,리쌍
-2,99,We are Bulletproof : the Eternal,방탄소년단
-2,100,"정당방위 (Feat. 우원재, 넉살, 창모)",에픽하이 (EPIK HIGH)
-3,1,VVS (Feat. JUSTHIS) (Prod. GroovyRoom),"미란이 (Mirani), 먼치맨(MUNCHMAN), Khundi Panda, 머쉬베놈 (MUSHVENOM)"
-3,2,Life Goes On,방탄소년단
-3,3,METEOR,창모 (CHANGMO)
-3,4,어떻게 지내 (Prod. By VAN.C),오반
-3,5,"내일이 오면 (Feat. 기리보이, BIG Naughty (서동현))",릴보이 (lIlBOI)
-3,6,봄날,방탄소년단
-3,7,좋은 이별이 있을 리가 없잖아 (Feat. 조현아 Of 어반자카파),MC몽
-3,8,Downtown Baby,블루 (BLOO)
-3,9,"CREDIT (Feat. 염따, 기리보이, Zion.T)",릴보이 (lIlBOI)
-3,10,아무노래,지코 (ZICO)
-3,11,멜로디,ASH ISLAND
-3,12,눈누난나 (NUNU NANA),제시 (Jessi)
-3,13,"Achoo (Feat. pH-1, HAON) (Prod. GroovyRoom)",미란이 (Mirani)
-3,14,Freak (Prod. Slom),"릴보이 (lIlBOI), 원슈타인, Chillin Homie, 스카이민혁 (Skyminhyuk)"
-3,15,뿌리 (Feat. JUSTHIS) (Prod. GroovyRoom),Khundi Panda
-3,16,"ON AIR (Feat. 로꼬, 박재범 & GRAY)",릴보이 (lIlBOI)
-3,17,FLYING HIGH WITH U,빈첸
-3,18,FRIENDS (Prod. Slom),"릴보이 (lIlBOI), 원슈타인"
-3,19,ON,방탄소년단
-3,20,눈이 멀었다,MC몽
-3,21,어떤X (What Type of X),제시 (Jessi)
-3,22,사이렌,호미들
-3,23,악역 (Feat. 이하이 & 사이먼 도미닉) (Prod. 코드 쿤스트),스윙스
-3,24,고독하구만 (Feat. 수퍼비) (Prod. GroovyRoom),머쉬베놈 (MUSHVENOM)
-3,25,우연히 봄,"로꼬, 유주 (YUJU)"
-3,26,물망초 (Feat. 신용재),MC몽
-3,27,사랑은(Feat.원슈타인),마미손
-3,28,Pretty Savage,BLACKPINK
-3,29,Beautiful (Feat. Skinny Brown),ASH ISLAND
-3,30,거북이 (Feat. 효린) (Remix Ver.),MC몽
-3,31,"여백의 미 (Feat. Jessi, JUSTHIS) (Prod. GroovyRoom)",머쉬베놈 (MUSHVENOM)
-3,32,"Rainy day (Feat. ASH ISLAND, Skinny Brown)",PATEKO (파테코)
-3,33,Joker (Feat. JAMIE),BIG Naughty (서동현)
-3,34,돌아갈 순 없을까 (Feat. 김세정),MC몽
-3,35,그랑프리 (Feat. Beenzino),ASH ISLAND
-3,36,뚜두뚜두 (DDU-DU DDU-DU),BLACKPINK
-3,37,Summer Hate (Feat. 비),지코 (ZICO)
-3,38,시차 (We Are) (Feat. 로꼬 & GRAY),우원재
-3,39,쉴 곳 (Feat. 김영흠),MC몽
-3,40,"STAR (Feat. 챈슬러, D.Ark)",MC몽
-3,41,축하해 (Prod. By VAN.C),오반
-3,42,원해 (Feat. 팔로알토) (Prod. 코드 쿤스트),"스윙스, 맥대디 (Mckdaddy), Khakii (카키), 래원 (Layone)"
-3,43,아름다워,창모 (CHANGMO)
-3,44,DNA,방탄소년단
-3,45,멜로디,ASH ISLAND
-3,46,"사이렌 Remix (Feat. UNEDUCATED KID, Paul Blanco)",호미들
-3,47,Paranoid,ASH ISLAND
-3,48,Kill This Love,BLACKPINK
-3,49,IDOL,방탄소년단
-3,50,Party Forever,사이먼 도미닉
-3,51,적외선 카메라,원슈타인
-3,52,One More Night (Feat. lIlBOI),ASH ISLAND
-3,53,Error (Feat. Loopy),ASH ISLAND
-3,54,어떻게 지내 (답가),런치
-3,55,"가다 (Feat. 사이먼 도미닉, The Quiett) (Prod. SLO)",머쉬베놈 (MUSHVENOM)
-3,56,잠시,방탄소년단
-3,57,빌었어,창모 (CHANGMO)
-3,58,우리서로사랑하지는말자,기리보이
-3,59,"Rosario (Feat. CL, ZICO)",에픽하이 (EPIK HIGH)
-3,60,꽉 쥔 주먹속의 라이터,호미들
-3,61,어땠을까 (Feat. 박정현),싸이 (PSY)
-3,62,300(prod. Cashbanger),호미들
-3,63,사랑이었나봐,기리보이
-3,64,FAKE LOVE,방탄소년단
-3,65,옜다,"머쉬베놈 (MUSHVENOM), 저스디스 (JUSTHIS)"
-3,66,사랑을 했다 (LOVE SCENARIO),iKON
-3,67,00:00 (Zero O’Clock),방탄소년단
-3,68,시공간,기리보이
-3,69,BAND,"창모 (CHANGMO), Hash Swan, ASH ISLAND, 김효은"
-3,70,"헤어지지 못하는 여자, 떠나가지 못하는 남자 (Feat. 정인)",리쌍
-3,71,SOLO,제니 (JENNIE)
-3,72,"인기 (Feat. 송가인, 챈슬러)",MC몽
-3,73,Good Day (Feat. 팔로알토) (Prod. 코드 쿤스트),"pH-1, 키드밀리 (Kid Milli), 루피 (Loopy)"
-3,74,도망가,MINO (송민호)
-3,75,너에게 쓰는 편지 (Feat. 린),MC몽
-3,76,"아마두 (feat.우원재, 김효은, 넉살, Huckleberry P)","염따, 딥플로우, 팔로알토 (Paloalto), The Quiett, 사이먼 도미닉"
-3,77,Officially Missing You,긱스 (Geeks)
-3,78,"Checks (Feat. 수퍼비, 박재범 & The Quiett)",ASH ISLAND
-3,79,부어라 비워라 (Tricker) (Prod. GroovyRoom),머쉬베놈 (MUSHVENOM)
-3,80,악몽,ASH ISLAND
-3,81,Black Swan,방탄소년단
-3,82,Trip (Feat. Hannah),릴러말즈 (Leellamarz)
-3,83,내 생애 가장 행복한 시간 (Feat. 허각),MC몽
-3,84,병,방탄소년단
-3,85,하루 하루,BIGBANG (빅뱅)
-3,86,"And July (Feat. DEAN, DJ Friz)",헤이즈 (Heize)
-3,87,Selfmade Orange (Feat. SUPERBEE),창모 (CHANGMO)
-3,88,널 너무 모르고,헤이즈 (Heize)
-3,89,친구,방탄소년단
-3,90,Make A Wish (Birthday Song),NCT U
-3,91,GONE (Feat. Paloalto) (Prod. TOIL),"릴러말즈 (Leellamarz), TOIL"
-3,92,OKAY (Feat. 스윙스),ASH ISLAND
-3,93,Nerdy Love (Feat. 백예린),pH-1
-3,94,내 얘기 같아 (Feat. 헤이즈),에픽하이 (EPIK HIGH)
-3,95,화병,MC몽
-3,96,이 노래가 클럽에서 나온다면,우디 (Woody)
-3,97,죽을 만큼 아파서 (Feat. 멜로우),MC몽
-3,98,거짓말,BIGBANG (빅뱅)
-3,99,400km (Feat. Kid Milli),한요한
-3,100,봄 같던 그녀가 춥대 (Feat. 김재환) (Piano Ver.),MC몽
-4,1,VVS (Feat. JUSTHIS) (Prod. GroovyRoom),"미란이 (Mirani), 먼치맨(MUNCHMAN), Khundi Panda, 머쉬베놈 (MUSHVENOM)"
-4,2,METEOR,창모 (CHANGMO)
-4,3,봄날,방탄소년단
-4,4,Life Goes On,방탄소년단
-4,5,어떻게 지내 (Prod. By VAN.C),오반
-4,6,멜로디,ASH ISLAND
-4,7,"내일이 오면 (Feat. 기리보이, BIG Naughty (서동현))",릴보이 (lIlBOI)
-4,8,어떤X (What Type of X),제시 (Jessi)
-4,9,Downtown Baby,블루 (BLOO)
-4,10,"사이렌 Remix (Feat. UNEDUCATED KID, Paul Blanco)",호미들
-4,11,아무노래,지코 (ZICO)
-4,12,눈누난나 (NUNU NANA),제시 (Jessi)
-4,13,"CREDIT (Feat. 염따, 기리보이, Zion.T)",릴보이 (lIlBOI)
-4,14,사이렌,호미들
-4,15,좋은 이별이 있을 리가 없잖아 (Feat. 조현아 Of 어반자카파),MC몽
-4,16,우연히 봄,"로꼬, 유주 (YUJU)"
-4,17,안아줘 (Prod. VAN.C),오반
-4,18,"Achoo (Feat. pH-1, HAON) (Prod. GroovyRoom)",미란이 (Mirani)
-4,19,ON,방탄소년단
-4,20,Freak (Prod. Slom),"릴보이 (lIlBOI), 원슈타인, Chillin Homie, 스카이민혁 (Skyminhyuk)"
-4,21,뿌리 (Feat. JUSTHIS) (Prod. GroovyRoom),Khundi Panda
-4,22,Daisy (Feat. pH-1),미란이 (Mirani)
-4,23,"ON AIR (Feat. 로꼬, 박재범 & GRAY)",릴보이 (lIlBOI)
-4,24,FLYING HIGH WITH U,빈첸
-4,25,사랑은(Feat.원슈타인),마미손
-4,26,"Rainy day (Feat. ASH ISLAND, Skinny Brown)",PATEKO (파테코)
-4,27,Beautiful (Feat. Skinny Brown),ASH ISLAND
-4,28,가습기,한요한
-4,29,Pretty Savage,BLACKPINK
-4,30,악역 (Feat. 이하이 & 사이먼 도미닉) (Prod. 코드 쿤스트),스윙스
-4,31,DNA,방탄소년단
-4,32,밤이 되면,"사이먼 도미닉, 로꼬"
-4,33,FRIENDS (Prod. Slom),"릴보이 (lIlBOI), 원슈타인"
-4,34,고독하구만 (Feat. 수퍼비) (Prod. GroovyRoom),머쉬베놈 (MUSHVENOM)
-4,35,IDOL,방탄소년단
-4,36,Paranoid,ASH ISLAND
-4,37,Cold (Feat. 수퍼비) (Prod. Way Ched),D.Ark (디아크)
-4,38,뚜두뚜두 (DDU-DU DDU-DU),BLACKPINK
-4,39,경우의 수 (Feat. CHANGMO) (Prod. Way Ched),"D.Ark (디아크), Baggie (배기)"
-4,40,아름다워,창모 (CHANGMO)
-4,41,Summer Hate (Feat. 비),지코 (ZICO)
-4,42,시차 (We Are) (Feat. 로꼬 & GRAY),우원재
-4,43,BACKPACK (Feat. CHANGMO) (Prod. Way Ched),"강서빈 (YUNG CHENS), TRADE L, Baggie (배기), D.Ark (디아크)"
-4,44,"여백의 미 (Feat. Jessi, JUSTHIS) (Prod. GroovyRoom)",머쉬베놈 (MUSHVENOM)
-4,45,FAKE LOVE,방탄소년단
-4,46,300(prod. Cashbanger),호미들
-4,47,축하해 (Prod. By VAN.C),오반
-4,48,Error (Feat. Loopy),ASH ISLAND
-4,49,Kill This Love,BLACKPINK
-4,50,시공간,기리보이
-4,51,꽉 쥔 주먹속의 라이터,호미들
-4,52,사랑을 했다 (LOVE SCENARIO),iKON
-4,53,빌었어,창모 (CHANGMO)
-4,54,거북이 (Feat. 효린) (Remix Ver.),MC몽
-4,55,도망가,MINO (송민호)
-4,56,어떻게 지내 (답가),런치
-4,57,우리서로사랑하지는말자,기리보이
-4,58,어땠을까 (Feat. 박정현),싸이 (PSY)
-4,59,BAND,"창모 (CHANGMO), Hash Swan, ASH ISLAND, 김효은"
-4,60,사임쌓임,"Chin, 수퍼비 (SUPERBEE), CK, UNEDUCATED KID"
-4,61,눈이 멀었다,MC몽
-4,62,SOLO,제니 (JENNIE)
-4,63,악몽,ASH ISLAND
-4,64,멜로디,ASH ISLAND
-4,65,너에게 쓰는 편지 (Feat. 린),MC몽
-4,66,잠시,방탄소년단
-4,67,"헤어지지 못하는 여자, 떠나가지 못하는 남자 (Feat. 정인)",리쌍
-4,68,원해 (Feat. 팔로알토) (Prod. 코드 쿤스트),"스윙스, 맥대디 (Mckdaddy), Khakii (카키), 래원 (Layone)"
-4,69,적외선 카메라,원슈타인
-4,70,"GREEN LIGHT (Feat. 박재범, pH-1) (Prod. WOOGIE)","박현진, Lil Bemo (김다현), YLN Foreign (이정운), 플루마 (PLUMA)"
-4,71,400km (Feat. Kid Milli),한요한
-4,72,하루 하루,BIGBANG (빅뱅)
-4,73,Good Day (Feat. 팔로알토) (Prod. 코드 쿤스트),"pH-1, 키드밀리 (Kid Milli), 루피 (Loopy)"
-4,74,Trip (Feat. Hannah),릴러말즈 (Leellamarz)
-4,75,Joker (Feat. JAMIE),BIG Naughty (서동현)
-4,76,피 땀 눈물,방탄소년단
-4,77,녹아줄게,"노윤하, YoBoy (강요셉)"
-4,78,I NEED U,방탄소년단
-4,79,그랑프리 (Feat. Beenzino),ASH ISLAND
-4,80,Euphoria,방탄소년단
-4,81,Selfmade Orange (Feat. SUPERBEE),창모 (CHANGMO)
-4,82,00:00 (Zero O’Clock),방탄소년단
-4,83,거짓말,BIGBANG (빅뱅)
-4,84,Officially Missing You,긱스 (Geeks)
-4,85,GONE (Feat. Paloalto) (Prod. TOIL),"릴러말즈 (Leellamarz), TOIL"
-4,86,"And July (Feat. DEAN, DJ Friz)",헤이즈 (Heize)
-4,87,Nerdy Love (Feat. 백예린),pH-1
-4,88,"아마두 (feat.우원재, 김효은, 넉살, Huckleberry P)","염따, 딥플로우, 팔로알토 (Paloalto), The Quiett, 사이먼 도미닉"
-4,89,엘리자베스,"황세현 (h3hyeon), JAEHA (재하), obiegogle(오비고글), Choo"
-4,90,Chris Brown Moves,"황세현 (h3hyeon), JAEHA (재하)"
-4,91,"인기 (Feat. 송가인, 챈슬러)",MC몽
-4,92,Answer : Love Myself,방탄소년단
-4,93,Black Swan,방탄소년단
-4,94,이모티콘,"Touch the Sky, Vapo (허원혁)"
-4,95,물망초 (Feat. 신용재),MC몽
-4,96,한여름밤의 꿀,"San E, 레이나 (Raina)"
-4,97,WORK!,"Lil Bemo (김다현), 박현진"
-4,98,Y (Please Tell Me Why),프리스타일
-4,99,우산 (Feat. 윤하),에픽하이 (EPIK HIGH)
-4,100,"가다 (Feat. 사이먼 도미닉, The Quiett) (Prod. SLO)",머쉬베놈 (MUSHVENOM)
-5,1,마.피.아. In the morning,ITZY (있지)
-5,2,멜로디,ASH ISLAND
-5,3,"사이렌 Remix (Feat. UNEDUCATED KID, Paul Blanco)",호미들
-5,4,VVS (Feat. JUSTHIS) (Prod. GroovyRoom),"미란이 (Mirani), 먼치맨(MUNCHMAN), Khundi Panda, 머쉬베놈 (MUSHVENOM)"
-5,5,METEOR,창모 (CHANGMO)
-5,6,Life Goes On,방탄소년단
-5,7,봄날,방탄소년단
-5,8,어떻게 지내 (Prod. By VAN.C),오반
-5,9,"내일이 오면 (Feat. 기리보이, BIG Naughty (서동현))",릴보이 (lIlBOI)
-5,10,Downtown Baby,블루 (BLOO)
-5,11,맛 (Hot Sauce),NCT DREAM
-5,12,사이렌,호미들
-5,13,어떤X (What Type of X),제시 (Jessi)
-5,14,아무노래,지코 (ZICO)
-5,15,ON,방탄소년단
-5,16,"Rainy day (Feat. ASH ISLAND, Skinny Brown)",PATEKO (파테코)
-5,17,눈누난나 (NUNU NANA),제시 (Jessi)
-5,18,365&7 (Feat. JAMIE),pH-1
-5,19,"CREDIT (Feat. 염따, 기리보이, Zion.T)",릴보이 (lIlBOI)
-5,20,사랑은(Feat.원슈타인),마미손
-5,21,DNA,방탄소년단
-5,22,IDOL,방탄소년단
-5,23,Freak (Prod. Slom),"릴보이 (lIlBOI), 원슈타인, Chillin Homie, 스카이민혁 (Skyminhyuk)"
-5,24,"Achoo (Feat. pH-1, HAON) (Prod. GroovyRoom)",미란이 (Mirani)
-5,25,뿌리 (Feat. JUSTHIS) (Prod. GroovyRoom),Khundi Panda
-5,26,신경꺼,ASH ISLAND
-5,27,우연히 봄,"로꼬, 유주 (YUJU)"
-5,28,FAKE LOVE,방탄소년단
-5,29,Paranoid,ASH ISLAND
-5,30,Beautiful (Feat. Skinny Brown),ASH ISLAND
-5,31,좋은 이별이 있을 리가 없잖아 (Feat. 조현아 Of 어반자카파),MC몽
-5,32,FRIENDS (Prod. Slom),"릴보이 (lIlBOI), 원슈타인"
-5,33,"Countdown (3, 2, 1)",NCT DREAM
-5,34,Pretty Savage,BLACKPINK
-5,35,300(prod. Cashbanger),호미들
-5,36,너에게 쓰는 편지 (Feat. 린),MC몽
-5,37,"ON AIR (Feat. 로꼬, 박재범 & GRAY)",릴보이 (lIlBOI)
-5,38,뚜두뚜두 (DDU-DU DDU-DU),BLACKPINK
-5,39,Do My Best (Feat. 제시) (Prod. Way Ched),D.Ark (디아크)
-5,40,시차 (We Are) (Feat. 로꼬 & GRAY),우원재
-5,41,아름다워,창모 (CHANGMO)
-5,42,Daisy (Feat. pH-1),미란이 (Mirani)
-5,43,Summer Hate (Feat. 비),지코 (ZICO)
-5,44,I NEED U,방탄소년단
-5,45,피 땀 눈물,방탄소년단
-5,46,꽉 쥔 주먹속의 라이터,호미들
-5,47,사임쌓임,"Chin, 수퍼비 (SUPERBEE), CK, UNEDUCATED KID"
-5,48,Error (Feat. Loopy),ASH ISLAND
-5,49,악역 (Feat. 이하이 & 사이먼 도미닉) (Prod. 코드 쿤스트),스윙스
-5,50,FLYING HIGH WITH U,빈첸
-5,51,고독하구만 (Feat. 수퍼비) (Prod. GroovyRoom),머쉬베놈 (MUSHVENOM)
-5,52,Kill This Love,BLACKPINK
-5,53,적외선 카메라,원슈타인
-5,54,우리서로사랑하지는말자,기리보이
-5,55,악몽,ASH ISLAND
-5,56,GENIUS (Feat. 창모),D.Ark (디아크)
-5,57,빌었어,창모 (CHANGMO)
-5,58,Cold (Feat. 수퍼비) (Prod. Way Ched),D.Ark (디아크)
-5,59,BAND,"창모 (CHANGMO), Hash Swan, ASH ISLAND, 김효은"
-5,60,어땠을까 (Feat. 박정현),싸이 (PSY)
-5,61,"헤어지지 못하는 여자, 떠나가지 못하는 남자 (Feat. 정인)",리쌍
-5,62,사랑을 했다 (LOVE SCENARIO),iKON
-5,63,안아줘 (Prod. VAN.C),오반
-5,64,축하해 (Prod. By VAN.C),오반
-5,65,"And July (Feat. DEAN, DJ Friz)",헤이즈 (Heize)
-5,66,"여백의 미 (Feat. Jessi, JUSTHIS) (Prod. GroovyRoom)",머쉬베놈 (MUSHVENOM)
-5,67,하루 하루,BIGBANG (빅뱅)
-5,68,Trip (Feat. Hannah),릴러말즈 (Leellamarz)
-5,69,널 너무 모르고,헤이즈 (Heize)
-5,70,우산 (Feat. 윤하),에픽하이 (EPIK HIGH)
-5,71,400km (Feat. Kid Milli),한요한
-5,72,Y (Please Tell Me Why),프리스타일
-5,73,한여름밤의 꿀,"San E, 레이나 (Raina)"
-5,74,자니 (Feat. Dynamic Duo),프라이머리
-5,75,굿모닝 (Feat. 원슈타인),"버벌진트, 한해"
-5,76,어떻게 지내 (답가),런치
-5,77,SOLO,제니 (JENNIE)
-5,78,Good Day (Feat. 팔로알토) (Prod. 코드 쿤스트),"pH-1, 키드밀리 (Kid Milli), 루피 (Loopy)"
-5,79,GONE (Feat. Paloalto) (Prod. TOIL),"릴러말즈 (Leellamarz), TOIL"
-5,80,거짓말,BIGBANG (빅뱅)
-5,81,멜로디,ASH ISLAND
-5,82,Nerdy Love (Feat. 백예린),pH-1
-5,83,Selfmade Orange (Feat. SUPERBEE),창모 (CHANGMO)
-5,84,Bk Love (feat. 이해리 of 다비치),MC 스나이퍼
-5,85,도망가,MINO (송민호)
-5,86,죽을 만큼 아파서 (Feat. 멜로우),MC몽
-5,87,"아마두 (feat.우원재, 김효은, 넉살, Huckleberry P)","염따, 딥플로우, 팔로알토 (Paloalto), The Quiett, 사이먼 도미닉"
-5,88,가습기,한요한
-5,89,인생은 나쁜X,비비 (BIBI)
-5,90,Officially Missing You,긱스 (Geeks)
-5,91,Sorry Not Sorry,ITZY (있지)
-5,92,Joker (Feat. JAMIE),BIG Naughty (서동현)
-5,93,루이비똥 허리 (prod. Kidstone),호미들
-5,94,"인기 (Feat. 송가인, 챈슬러)",MC몽
-5,95,I Love U Oh Thank U (Feat. 김태우 Of God),MC몽
-5,96,거북이 (Feat. 효린) (Remix Ver.),MC몽
-5,97,이 노래가 클럽에서 나온다면,우디 (Woody)
-5,98,잠시,방탄소년단
-5,99,"Ooh Wah (Feat. CHANGMO, 원슈타인) (Prod. Way Ched)",TRADE L
-5,100,원해 (Feat. 팔로알토) (Prod. 코드 쿤스트),"스윙스, 맥대디 (Mckdaddy), Khakii (카키), 래원 (Layone)"
-6,1,"사이렌 Remix (Feat. UNEDUCATED KID, Paul Blanco)",호미들
-6,2,멜로디,ASH ISLAND
-6,3,마.피.아. In the morning,ITZY (있지)
-6,4,VVS (Feat. JUSTHIS) (Prod. GroovyRoom),"미란이 (Mirani), 먼치맨(MUNCHMAN), Khundi Panda, 머쉬베놈 (MUSHVENOM)"
-6,5,Life Goes On,방탄소년단
-6,6,봄날,방탄소년단
-6,7,METEOR,창모 (CHANGMO)
-6,8,어떻게 지내 (Prod. By VAN.C),오반
-6,9,맛 (Hot Sauce),NCT DREAM
-6,10,Downtown Baby,블루 (BLOO)
-6,11,"내일이 오면 (Feat. 기리보이, BIG Naughty (서동현))",릴보이 (lIlBOI)
-6,12,사이렌,호미들
-6,13,ON,방탄소년단
-6,14,"Rainy day (Feat. ASH ISLAND, Skinny Brown)",PATEKO (파테코)
-6,15,아무노래,지코 (ZICO)
-6,16,DNA,방탄소년단
-6,17,IDOL,방탄소년단
-6,18,허리춤,오반
-6,19,FAKE LOVE,방탄소년단
-6,20,눈누난나 (NUNU NANA),제시 (Jessi)
-6,21,I NEED U,방탄소년단
-6,22,사랑은(Feat.원슈타인),마미손
-6,23,피 땀 눈물,방탄소년단
-6,24,시차 (We Are) (Feat. 로꼬 & GRAY),우원재
-6,25,어떤X (What Type of X),제시 (Jessi)
-6,26,루이비똥 허리 (prod. Kidstone),호미들
-6,27,널 너무 모르고,헤이즈 (Heize)
-6,28,"CREDIT (Feat. 염따, 기리보이, Zion.T)",릴보이 (lIlBOI)
-6,29,300(prod. Cashbanger),호미들
-6,30,Summer Hate (Feat. 비),지코 (ZICO)
-6,31,Paranoid,ASH ISLAND
-6,32,"And July (Feat. DEAN, DJ Friz)",헤이즈 (Heize)
-6,33,Beautiful (Feat. Skinny Brown),ASH ISLAND
-6,34,Freak (Prod. Slom),"릴보이 (lIlBOI), 원슈타인, Chillin Homie, 스카이민혁 (Skyminhyuk)"
-6,35,뚜두뚜두 (DDU-DU DDU-DU),BLACKPINK
-6,36,Pretty Savage,BLACKPINK
-6,37,뿌리 (Feat. JUSTHIS) (Prod. GroovyRoom),Khundi Panda
-6,38,아름다워,창모 (CHANGMO)
-6,39,사임쌓임,"Chin, 수퍼비 (SUPERBEE), CK, UNEDUCATED KID"
-6,40,"Achoo (Feat. pH-1, HAON) (Prod. GroovyRoom)",미란이 (Mirani)
-6,41,One More Night (Feat. lIlBOI),ASH ISLAND
-6,42,DIE DIE (Feat. 최엘비) (스터디그룹 X 기리보이),기리보이
-6,43,OHAYO MY NIGHT,"디핵 (D-Hack), PATEKO (파테코)"
-6,44,돌아오지마 (Feat. 용준형 Of 비스트),헤이즈 (Heize)
-6,45,GENIUS (Feat. 창모),D.Ark (디아크)
-6,46,한여름밤의 꿀,"San E, 레이나 (Raina)"
-6,47,너에게 쓰는 편지 (Feat. 린),MC몽
-6,48,FRIENDS (Prod. Slom),"릴보이 (lIlBOI), 원슈타인"
-6,49,Error (Feat. Loopy),ASH ISLAND
-6,50,꽉 쥔 주먹속의 라이터,호미들
-6,51,우연히 봄,"로꼬, 유주 (YUJU)"
-6,52,"ON AIR (Feat. 로꼬, 박재범 & GRAY)",릴보이 (lIlBOI)
-6,53,365&7 (Feat. JAMIE),pH-1
-6,54,어땠을까 (Feat. 박정현),싸이 (PSY)
-6,55,Y (Please Tell Me Why),프리스타일
-6,56,"헤어지지 못하는 여자, 떠나가지 못하는 남자 (Feat. 정인)",리쌍
-6,57,우리서로사랑하지는말자,기리보이
-6,58,HEAT,"릴보이 (lIlBOI), 원슈타인, 미란이 (Mirani)"
-6,59,Kill This Love,BLACKPINK
-6,60,궁금해 (Prod. GRAY),"쌔끈보이즈 (박재범, Don Mills, 로꼬, 넉살)"
-6,61,신경꺼,ASH ISLAND
-6,62,좋은 이별이 있을 리가 없잖아 (Feat. 조현아 Of 어반자카파),MC몽
-6,63,Trip (Feat. Hannah),릴러말즈 (Leellamarz)
-6,64,BAND,"창모 (CHANGMO), Hash Swan, ASH ISLAND, 김효은"
-6,65,빌었어,창모 (CHANGMO)
-6,66,죽을 만큼 아파서 (Feat. 멜로우),MC몽
-6,67,끝 (prod. Kidstone),호미들
-6,68,악역 (Feat. 이하이 & 사이먼 도미닉) (Prod. 코드 쿤스트),스윙스
-6,69,하루 하루,BIGBANG (빅뱅)
-6,70,악몽,ASH ISLAND
-6,71,자니 (Feat. Dynamic Duo),프라이머리
-6,72,사랑을 했다 (LOVE SCENARIO),iKON
-6,73,400km (Feat. Kid Milli),한요한
-6,74,우산 (Feat. 윤하),에픽하이 (EPIK HIGH)
-6,75,축하해 (Prod. By VAN.C),오반
-6,76,Good Day (Feat. 팔로알토) (Prod. 코드 쿤스트),"pH-1, 키드밀리 (Kid Milli), 루피 (Loopy)"
-6,77,고독하구만 (Feat. 수퍼비) (Prod. GroovyRoom),머쉬베놈 (MUSHVENOM)
-6,78,Daisy (Feat. pH-1),미란이 (Mirani)
-6,79,SOLO,제니 (JENNIE)
-6,80,Selfmade Orange (Feat. SUPERBEE),창모 (CHANGMO)
-6,81,"존시나 (Feat. Northfacegawd, JUSTHIS, 래원)",염따
-6,82,적외선 카메라,원슈타인
-6,83,FLYING HIGH WITH U,빈첸
-6,84,GONE (Feat. Paloalto) (Prod. TOIL),"릴러말즈 (Leellamarz), TOIL"
-6,85,거짓말,BIGBANG (빅뱅)
-6,86,"털어! (Feat. M1NU, Veinyfl, Swervy, 래원, 이영지, Lil Nekh, D.Ark)",BIG Naughty (서동현)
-6,87,그땐 그땐 그땐,"Supreme Team, 영준"
-6,88,Euphoria,방탄소년단
-6,89,어떻게 지내 (답가),런치
-6,90,Nerdy Love (Feat. 백예린),pH-1
-6,91,"아마두 (feat.우원재, 김효은, 넉살, Huckleberry P)","염따, 딥플로우, 팔로알토 (Paloalto), The Quiett, 사이먼 도미닉"
-6,92,"여백의 미 (Feat. Jessi, JUSTHIS) (Prod. GroovyRoom)",머쉬베놈 (MUSHVENOM)
-6,93,I Love U Oh Thank U (Feat. 김태우 Of God),MC몽
-6,94,Jenga (Feat. Gaeko),헤이즈 (Heize)
-6,95,Officially Missing You,긱스 (Geeks)
-6,96,이 노래가 클럽에서 나온다면,우디 (Woody)
-6,97,뜨거운 안녕 (Feat. 성시경),싸이 (PSY)
-6,98,교통정리 (Feat. 헤이즈),기리보이
-6,99,도망가,MINO (송민호)
-6,100,"인기 (Feat. 송가인, 챈슬러)",MC몽
-7,1,"사이렌 Remix (Feat. UNEDUCATED KID, Paul Blanco)",호미들
-7,2,멜로디,ASH ISLAND
-7,3,비 오는 날 듣기 좋은 노래 (Feat. Colde),에픽하이 (EPIK HIGH)
-7,4,마.피.아. In the morning,ITZY (있지)
-7,5,OHAYO MY NIGHT,"디핵 (D-Hack), PATEKO (파테코)"
-7,6,Life Goes On,방탄소년단
-7,7,봄날,방탄소년단
-7,8,VVS (Feat. JUSTHIS) (Prod. GroovyRoom),"미란이 (Mirani), 먼치맨(MUNCHMAN), Khundi Panda, 머쉬베놈 (MUSHVENOM)"
-7,9,METEOR,창모 (CHANGMO)
-7,10,허리춤,오반
-7,11,러브(Prod.로코베리),"로꼬, 이성경"
-7,12,어떻게 지내 (Prod. By VAN.C),오반
-7,13,한여름밤의 꿀 : 다시 여름,"San E, 레이나 (Raina)"
-7,14,Hello Future,NCT DREAM
-7,15,Downtown Baby,블루 (BLOO)
-7,16,잡아줄게 (Carabiner),"ASH ISLAND, 그루비룸 (GroovyRoom)"
-7,17,맛 (Hot Sauce),NCT DREAM
-7,18,"Rainy day (Feat. ASH ISLAND, Skinny Brown)",PATEKO (파테코)
-7,19,"내일이 오면 (Feat. 기리보이, BIG Naughty (서동현))",릴보이 (lIlBOI)
-7,20,ON,방탄소년단
-7,21,사이렌,호미들
-7,22,DNA,방탄소년단
-7,23,IDOL,방탄소년단
-7,24,아무노래,지코 (ZICO)
-7,25,FAKE LOVE,방탄소년단
-7,26,한여름밤의 꿀,"San E, 레이나 (Raina)"
-7,27,오르골 (Life Is Still Going On),NCT DREAM
-7,28,Summer Hate (Feat. 비),지코 (ZICO)
-7,29,눈누난나 (NUNU NANA),제시 (Jessi)
-7,30,사랑은(Feat.원슈타인),마미손
-7,31,시차 (We Are) (Feat. 로꼬 & GRAY),우원재
-7,32,Bk Love,임영웅
-7,33,루이비똥 허리 (prod. Kidstone),호미들
-7,34,300(prod. Cashbanger),호미들
-7,35,Paranoid,ASH ISLAND
-7,36,뚜두뚜두 (DDU-DU DDU-DU),BLACKPINK
-7,37,사임쌓임,"Chin, 수퍼비 (SUPERBEE), CK, UNEDUCATED KID"
-7,38,"And July (Feat. DEAN, DJ Friz)",헤이즈 (Heize)
-7,39,One More Night (Feat. lIlBOI),ASH ISLAND
-7,40,Beautiful (Feat. Skinny Brown),ASH ISLAND
-7,41,"CREDIT (Feat. 염따, 기리보이, Zion.T)",릴보이 (lIlBOI)
-7,42,"너랑 달라 (한림체육관 X 한요한, 저스디스 (JUSTHIS))","한요한, 저스디스 (JUSTHIS)"
-7,43,아름다워,창모 (CHANGMO)
-7,44,널 너무 모르고,헤이즈 (Heize)
-7,45,Freak (Prod. Slom),"릴보이 (lIlBOI), 원슈타인, Chillin Homie, 스카이민혁 (Skyminhyuk)"
-7,46,Pretty Savage,BLACKPINK
-7,47,뿌리 (Feat. JUSTHIS) (Prod. GroovyRoom),Khundi Panda
-7,48,우산 (Feat. 윤하),에픽하이 (EPIK HIGH)
-7,49,어떤X (What Type of X),제시 (Jessi)
-7,50,Error (Feat. Loopy),ASH ISLAND
-7,51,Kill This Love,BLACKPINK
-7,52,"Achoo (Feat. pH-1, HAON) (Prod. GroovyRoom)",미란이 (Mirani)
-7,53,어땠을까 (Feat. 박정현),싸이 (PSY)
-7,54,너에게 쓰는 편지 (Feat. 린),MC몽
-7,55,Trip (Feat. Hannah),릴러말즈 (Leellamarz)
-7,56,"헤어지지 못하는 여자, 떠나가지 못하는 남자 (Feat. 정인)",리쌍
-7,57,I NEED U,방탄소년단
-7,58,피 땀 눈물,방탄소년단
-7,59,BAND,"창모 (CHANGMO), Hash Swan, ASH ISLAND, 김효은"
-7,60,꽉 쥔 주먹속의 라이터,호미들
-7,61,우연히 봄,"로꼬, 유주 (YUJU)"
-7,62,안았어야해 (Feat. Futuristic Swaver),JAEHA (재하)
-7,63,우리서로사랑하지는말자,기리보이
-7,64,자니 (Feat. Dynamic Duo),프라이머리
-7,65,죽을 만큼 아파서 (Feat. 멜로우),MC몽
-7,66,하루 하루,BIGBANG (빅뱅)
-7,67,빌었어,창모 (CHANGMO)
-7,68,400km (Feat. Kid Milli),한요한
-7,69,Y (Please Tell Me Why),프리스타일
-7,70,"ON AIR (Feat. 로꼬, 박재범 & GRAY)",릴보이 (lIlBOI)
-7,71,HEAT,"릴보이 (lIlBOI), 원슈타인, 미란이 (Mirani)"
-7,72,돌아오지마 (Feat. 용준형 Of 비스트),헤이즈 (Heize)
-7,73,축하해 (Prod. By VAN.C),오반
-7,74,Good Day (Feat. 팔로알토) (Prod. 코드 쿤스트),"pH-1, 키드밀리 (Kid Milli), 루피 (Loopy)"
-7,75,365&7 (Feat. JAMIE),pH-1
-7,76,GONE (Feat. Paloalto) (Prod. TOIL),"릴러말즈 (Leellamarz), TOIL"
-7,77,Selfmade Orange (Feat. SUPERBEE),창모 (CHANGMO)
-7,78,사랑을 했다 (LOVE SCENARIO),iKON
-7,79,악몽,ASH ISLAND
-7,80,"이 노래가 (스터디그룹 X 김승민, Skinny Brown)","김승민, Skinny Brown"
-7,81,FRIENDS (Prod. Slom),"릴보이 (lIlBOI), 원슈타인"
-7,82,SOLO,제니 (JENNIE)
-7,83,그땐 그땐 그땐,"Supreme Team, 영준"
-7,84,어떻게 지내 (답가),런치
-7,85,거짓말,BIGBANG (빅뱅)
-7,86,신경꺼,ASH ISLAND
-7,87,GENIUS (Feat. 창모),D.Ark (디아크)
-7,88,악역 (Feat. 이하이 & 사이먼 도미닉) (Prod. 코드 쿤스트),스윙스
-7,89,좋은 이별이 있을 리가 없잖아 (Feat. 조현아 Of 어반자카파),MC몽
-7,90,도망가,MINO (송민호)
-7,91,Officially Missing You,긱스 (Geeks)
-7,92,뜨거운 안녕 (Feat. 성시경),싸이 (PSY)
-7,93,I Love U Oh Thank U (Feat. 김태우 Of God),MC몽
-7,94,Euphoria,방탄소년단
-7,95,이 노래가 클럽에서 나온다면,우디 (Woody)
-7,96,적외선 카메라,원슈타인
-7,97,고독하구만 (Feat. 수퍼비) (Prod. GroovyRoom),머쉬베놈 (MUSHVENOM)
-7,98,"아마두 (feat.우원재, 김효은, 넉살, Huckleberry P)","염따, 딥플로우, 팔로알토 (Paloalto), The Quiett, 사이먼 도미닉"
-7,99,"존시나 (Feat. Northfacegawd, JUSTHIS, 래원)",염따
-7,100,뭐 (Feat. 원슈타인),쿠기 (Coogie)
-8,1,OHAYO MY NIGHT,"디핵 (D-Hack), PATEKO (파테코)"
-8,2,"사이렌 Remix (Feat. UNEDUCATED KID, Paul Blanco)",호미들
-8,3,멜로디,ASH ISLAND
-8,4,비 오는 날 듣기 좋은 노래 (Feat. Colde),에픽하이 (EPIK HIGH)
-8,5,봄날,방탄소년단
-8,6,Life Goes On,방탄소년단
-8,7,METEOR,창모 (CHANGMO)
-8,8,허리춤,오반
-8,9,VVS (Feat. JUSTHIS) (Prod. GroovyRoom),"미란이 (Mirani), 먼치맨(MUNCHMAN), Khundi Panda, 머쉬베놈 (MUSHVENOM)"
-8,10,어떻게 지내 (Prod. By VAN.C),오반
-8,11,마.피.아. In the morning,ITZY (있지)
-8,12,러브(Prod.로코베리),"로꼬, 이성경"
-8,13,"Rainy day (Feat. ASH ISLAND, Skinny Brown)",PATEKO (파테코)
-8,14,Downtown Baby,블루 (BLOO)
-8,15,한여름밤의 꿀 : 다시 여름,"San E, 레이나 (Raina)"
-8,16,잡아줄게 (Carabiner),"ASH ISLAND, 그루비룸 (GroovyRoom)"
-8,17,Bk Love,임영웅
-8,18,Hello Future,NCT DREAM
-8,19,"내일이 오면 (Feat. 기리보이, BIG Naughty (서동현))",릴보이 (lIlBOI)
-8,20,사이렌,호미들
-8,21,ON,방탄소년단
-8,22,DNA,방탄소년단
-8,23,아무노래,지코 (ZICO)
-8,24,IDOL,방탄소년단
-8,25,I Don't Love You (Feat. 쿠기),GRAY (그레이)
-8,26,맛 (Hot Sauce),NCT DREAM
-8,27,한여름밤의 꿀,"San E, 레이나 (Raina)"
-8,28,FAKE LOVE,방탄소년단
-8,29,뚜두뚜두 (DDU-DU DDU-DU),BLACKPINK
-8,30,사랑은(Feat.원슈타인),마미손
-8,31,시차 (We Are) (Feat. 로꼬 & GRAY),우원재
-8,32,Summer Hate (Feat. 비),지코 (ZICO)
-8,33,Celebration,BewhY (비와이)
-8,34,눈누난나 (NUNU NANA),제시 (Jessi)
-8,35,그땐 어렸으니까,기리보이
-8,36,사임쌓임,"Chin, 수퍼비 (SUPERBEE), CK, UNEDUCATED KID"
-8,37,아름다워,창모 (CHANGMO)
-8,38,Paranoid,ASH ISLAND
-8,39,했던 말 (Prod. CODE KUNST),호미들
-8,40,"And July (Feat. DEAN, DJ Friz)",헤이즈 (Heize)
-8,41,Pretty Savage,BLACKPINK
-8,42,Beautiful (Feat. Skinny Brown),ASH ISLAND
-8,43,300(prod. Cashbanger),호미들
-8,44,널 너무 모르고,헤이즈 (Heize)
-8,45,"CREDIT (Feat. 염따, 기리보이, Zion.T)",릴보이 (lIlBOI)
-8,46,Kill This Love,BLACKPINK
-8,47,어땠을까 (Feat. 박정현),싸이 (PSY)
-8,48,Freak (Prod. Slom),"릴보이 (lIlBOI), 원슈타인, Chillin Homie, 스카이민혁 (Skyminhyuk)"
-8,49,루이비똥 허리 (prod. Kidstone),호미들
-8,50,"헤어지지 못하는 여자, 떠나가지 못하는 남자 (Feat. 정인)",리쌍
-8,51,우산 (Feat. 윤하),에픽하이 (EPIK HIGH)
-8,52,눈치없긴 (Feat. 유주),San E
-8,53,이대로만 (Feat. 죠지),로꼬
-8,54,오르골 (Life Is Still Going On),NCT DREAM
-8,55,안았어야해 (Feat. Futuristic Swaver),JAEHA (재하)
-8,56,Trip (Feat. Hannah),릴러말즈 (Leellamarz)
-8,57,너에게 쓰는 편지 (Feat. 린),MC몽
-8,58,우리서로사랑하지는말자,기리보이
-8,59,Error (Feat. Loopy),ASH ISLAND
-8,60,TWINTAIL20,디핵 (D-Hack)
-8,61,사랑을 했다 (LOVE SCENARIO),iKON
-8,62,뿌리 (Feat. JUSTHIS) (Prod. GroovyRoom),Khundi Panda
-8,63,BAND,"창모 (CHANGMO), Hash Swan, ASH ISLAND, 김효은"
-8,64,자니 (Feat. Dynamic Duo),프라이머리
-8,65,죽을 만큼 아파서 (Feat. 멜로우),MC몽
-8,66,GONE (Feat. Paloalto) (Prod. TOIL),"릴러말즈 (Leellamarz), TOIL"
-8,67,하루 하루,BIGBANG (빅뱅)
-8,68,Y (Please Tell Me Why),프리스타일
-8,69,Good Day (Feat. 팔로알토) (Prod. 코드 쿤스트),"pH-1, 키드밀리 (Kid Milli), 루피 (Loopy)"
-8,70,"Hula Hoops (Feat. Beenzino, 화사)",DPR LIVE
-8,71,One More Night (Feat. lIlBOI),ASH ISLAND
-8,72,빌었어,창모 (CHANGMO)
-8,73,400km (Feat. Kid Milli),한요한
-8,74,"Achoo (Feat. pH-1, HAON) (Prod. GroovyRoom)",미란이 (Mirani)
-8,75,SOLO,제니 (JENNIE)
-8,76,거짓말,BIGBANG (빅뱅)
-8,77,돌아오지마 (Feat. 용준형 Of 비스트),헤이즈 (Heize)
-8,78,ALL IN (Prod. GroovyRoom),"박재범, pH-1"
-8,79,우연히 봄,"로꼬, 유주 (YUJU)"
-8,80,별과 꿈의 이야기(Feat.한요한),"디핵 (D-Hack), PATEKO (파테코)"
-8,81,꽉 쥔 주먹속의 라이터,호미들
-8,82,Selfmade Orange (Feat. SUPERBEE),창모 (CHANGMO)
-8,83,어떤X (What Type of X),제시 (Jessi)
-8,84,"ON AIR (Feat. 로꼬, 박재범 & GRAY)",릴보이 (lIlBOI)
-8,85,죽일 놈 (Guilty),다이나믹 듀오
-8,86,그땐 그땐 그땐,"Supreme Team, 영준"
-8,87,악몽,ASH ISLAND
-8,88,피 땀 눈물,방탄소년단
-8,89,축하해 (Prod. By VAN.C),오반
-8,90,이 노래가 클럽에서 나온다면,우디 (Woody)
-8,91,365&7 (Feat. JAMIE),pH-1
-8,92,어떻게 지내 (답가),런치
-8,93,Officially Missing You,긱스 (Geeks)
-8,94,Euphoria,방탄소년단
-8,95,휘파람,BLACKPINK
-8,96,I NEED U,방탄소년단
-8,97,흑백영화 (Prod. BOYCOLD),릴러말즈 (Leellamarz)
-8,98,도망가,MINO (송민호)
-8,99,붐바야,BLACKPINK
-8,100,Martini Blue,DPR LIVE
-9,1,OHAYO MY NIGHT,"디핵 (D-Hack), PATEKO (파테코)"
-9,2,"사이렌 Remix (Feat. UNEDUCATED KID, Paul Blanco)",호미들
-9,3,멜로디,ASH ISLAND
-9,4,봄날,방탄소년단
-9,5,비 오는 날 듣기 좋은 노래 (Feat. Colde),에픽하이 (EPIK HIGH)
-9,6,METEOR,창모 (CHANGMO)
-9,7,Life Goes On,방탄소년단
-9,8,VVS (Feat. JUSTHIS) (Prod. GroovyRoom),"미란이 (Mirani), 먼치맨(MUNCHMAN), Khundi Panda, 머쉬베놈 (MUSHVENOM)"
-9,9,어떻게 지내 (Prod. By VAN.C),오반
-9,10,허리춤,오반
-9,11,Bk Love,임영웅
-9,12,마.피.아. In the morning,ITZY (있지)
-9,13,Sticker,NCT 127
-9,14,LALISA,리사 (LISA)
-9,15,"Rainy day (Feat. ASH ISLAND, Skinny Brown)",PATEKO (파테코)
-9,16,Pretty Savage,BLACKPINK
-9,17,Downtown Baby,블루 (BLOO)
-9,18,Lemonade,NCT 127
-9,19,러브(Prod.로코베리),"로꼬, 이성경"
-9,20,아무노래,지코 (ZICO)
-9,21,"내일이 오면 (Feat. 기리보이, BIG Naughty (서동현))",릴보이 (lIlBOI)
-9,22,DNA,방탄소년단
-9,23,이대로만 (Feat. 죠지),로꼬
-9,24,ON,방탄소년단
-9,25,IDOL,방탄소년단
-9,26,사이렌,호미들
-9,27,시차 (We Are) (Feat. 로꼬 & GRAY),우원재
-9,28,뚜두뚜두 (DDU-DU DDU-DU),BLACKPINK
-9,29,Hello Future,NCT DREAM
-9,30,눈누난나 (NUNU NANA),제시 (Jessi)
-9,31,잡아줄게 (Carabiner),"ASH ISLAND, 그루비룸 (GroovyRoom)"
-9,32,FAKE LOVE,방탄소년단
-9,33,Celebration,BewhY (비와이)
-9,34,사랑은(Feat.원슈타인),마미손
-9,35,사임쌓임,"Chin, 수퍼비 (SUPERBEE), CK, UNEDUCATED KID"
-9,36,아름다워,창모 (CHANGMO)
-9,37,수취인불명,"매드클라운, 이해리 (다비치)"
-9,38,"헤어지지 못하는 여자, 떠나가지 못하는 남자 (Feat. 정인)",리쌍
-9,39,맛 (Hot Sauce),NCT DREAM
-9,40,"And July (Feat. DEAN, DJ Friz)",헤이즈 (Heize)
-9,41,이게 나야 (Feat. CHANGMO (창모)),한요한
-9,42,Paranoid,ASH ISLAND
-9,43,한여름밤의 꿀 : 다시 여름,"San E, 레이나 (Raina)"
-9,44,널 너무 모르고,헤이즈 (Heize)
-9,45,Y (Please Tell Me Why),프리스타일
-9,46,Kill This Love,BLACKPINK
-9,47,너에게 쓰는 편지 (Feat. 린),MC몽
-9,48,한여름밤의 꿀,"San E, 레이나 (Raina)"
-9,49,Beautiful (Feat. Skinny Brown),ASH ISLAND
-9,50,어땠을까 (Feat. 박정현),싸이 (PSY)
-9,51,어떤X (What Type of X),제시 (Jessi)
-9,52,"CREDIT (Feat. 염따, 기리보이, Zion.T)",릴보이 (lIlBOI)
-9,53,거짓말,BIGBANG (빅뱅)
-9,54,우산 (Feat. 윤하),에픽하이 (EPIK HIGH)
-9,55,Summer Hate (Feat. 비),지코 (ZICO)
-9,56,300(prod. Cashbanger),호미들
-9,57,안았어야해 (Feat. Futuristic Swaver),JAEHA (재하)
-9,58,하루 하루,BIGBANG (빅뱅)
-9,59,죽을 만큼 아파서 (Feat. 멜로우),MC몽
-9,60,우리서로사랑하지는말자,기리보이
-9,61,Trip (Feat. Hannah),릴러말즈 (Leellamarz)
-9,62,GONE (Feat. Paloalto) (Prod. TOIL),"릴러말즈 (Leellamarz), TOIL"
-9,63,Freak (Prod. Slom),"릴보이 (lIlBOI), 원슈타인, Chillin Homie, 스카이민혁 (Skyminhyuk)"
-9,64,Bring The Noize,NCT 127
-9,65,사랑을 했다 (LOVE SCENARIO),iKON
-9,66,Good Day (Feat. 팔로알토) (Prod. 코드 쿤스트),"pH-1, 키드밀리 (Kid Milli), 루피 (Loopy)"
-9,67,BAND,"창모 (CHANGMO), Hash Swan, ASH ISLAND, 김효은"
-9,68,SOLO,제니 (JENNIE)
-9,69,TWINTAIL20,디핵 (D-Hack)
-9,70,자니 (Feat. Dynamic Duo),프라이머리
-9,71,400km (Feat. Kid Milli),한요한
-9,72,오르골 (Life Is Still Going On),NCT DREAM
-9,73,Error (Feat. Loopy),ASH ISLAND
-9,74,빌었어,창모 (CHANGMO)
-9,75,느린심장박동 (Feat. Ja Mezz),래원 (Layone)
-9,76,별과 꿈의 이야기(Feat.한요한),"디핵 (D-Hack), PATEKO (파테코)"
-9,77,Officially Missing You,긱스 (Geeks)
-9,78,뿌리 (Feat. JUSTHIS) (Prod. GroovyRoom),Khundi Panda
-9,79,돌아오지마 (Feat. 용준형 Of 비스트),헤이즈 (Heize)
-9,80,I Love U Oh Thank U (Feat. 김태우 Of God),MC몽
-9,81,KOKO NI ARU,디핵 (D-Hack)
-9,82,이 노래가 클럽에서 나온다면,우디 (Woody)
-9,83,Ballerino,리쌍
-9,84,그땐 그땐 그땐,"Supreme Team, 영준"
-9,85,"Achoo (Feat. pH-1, HAON) (Prod. GroovyRoom)",미란이 (Mirani)
-9,86,우연히 봄,"로꼬, 유주 (YUJU)"
-9,87,악몽,ASH ISLAND
-9,88,시간이 들겠지 (Feat. Colde),로꼬
-9,89,피 땀 눈물,방탄소년단
-9,90,run! (feat. JUSTHIS),나플라 (nafla)
-9,91,루이비똥 허리 (prod. Kidstone),호미들
-9,92,붐바야,BLACKPINK
-9,93,"ON AIR (Feat. 로꼬, 박재범 & GRAY)",릴보이 (lIlBOI)
-9,94,전하지 못한 진심 (Feat. Steve Aoki),방탄소년단
-9,95,몸매 (MOMMAE) (Feat. Ugly Duck),박재범
-9,96,I Don't Love You (Feat. 쿠기),GRAY (그레이)
-9,97,"아마두 (feat.우원재, 김효은, 넉살, Huckleberry P)","염따, 딥플로우, 팔로알토 (Paloalto), The Quiett, 사이먼 도미닉"
-9,98,꽉 쥔 주먹속의 라이터,호미들
-9,99,내 생애 가장 행복한 시간 (Feat. 허각),MC몽
-9,100,Jasmine,DPR LIVE
-10,1,OHAYO MY NIGHT,"디핵 (D-Hack), PATEKO (파테코)"
-10,2,"사이렌 Remix (Feat. UNEDUCATED KID, Paul Blanco)",호미들
-10,3,멜로디,ASH ISLAND
-10,4,봄날,방탄소년단
-10,5,METEOR,창모 (CHANGMO)
-10,6,Life Goes On,방탄소년단
-10,7,비 오는 날 듣기 좋은 노래 (Feat. Colde),에픽하이 (EPIK HIGH)
-10,8,Cold Blooded,제시 (Jessi)
-10,9,Sticker,NCT 127
-10,10,VVS (Feat. JUSTHIS) (Prod. GroovyRoom),"미란이 (Mirani), 먼치맨(MUNCHMAN), Khundi Panda, 머쉬베놈 (MUSHVENOM)"
-10,11,Bk Love,임영웅
-10,12,어떻게 지내 (Prod. By VAN.C),오반
-10,13,역겹겠지만 (Remember me),B.I
-10,14,허리춤,오반
-10,15,Lemonade,NCT 127
-10,16,"Rainy day (Feat. ASH ISLAND, Skinny Brown)",PATEKO (파테코)
-10,17,Play (Prod. TOIL),ASH ISLAND
-10,18,마.피.아. In the morning,ITZY (있지)
-10,19,Pretty Savage,BLACKPINK
-10,20,LALISA,리사 (LISA)
-10,21,Downtown Baby,블루 (BLOO)
-10,22,"내일이 오면 (Feat. 기리보이, BIG Naughty (서동현))",릴보이 (lIlBOI)
-10,23,Brand (Feat. 래원 (Layone)),BE'O (비오)
-10,24,아무노래,지코 (ZICO)
-10,25,DNA,방탄소년단
-10,26,ON,방탄소년단
-10,27,시차 (We Are) (Feat. 로꼬 & GRAY),우원재
-10,28,IDOL,방탄소년단
-10,29,사이렌,호미들
-10,30,눈누난나 (NUNU NANA),제시 (Jessi)
-10,31,문득,BE'O (비오)
-10,32,뚜두뚜두 (DDU-DU DDU-DU),BLACKPINK
-10,33,러브(Prod.로코베리),"로꼬, 이성경"
-10,34,"CREDIT (Feat. 염따, 기리보이, Zion.T)",릴보이 (lIlBOI)
-10,35,FAKE LOVE,방탄소년단
-10,36,"헤어지지 못하는 여자, 떠나가지 못하는 남자 (Feat. 정인)",리쌍
-10,37,아름다워,창모 (CHANGMO)
-10,38,어떤X (What Type of X),제시 (Jessi)
-10,39,사임쌓임,"Chin, 수퍼비 (SUPERBEE), CK, UNEDUCATED KID"
-10,40,사랑은(Feat.원슈타인),마미손
-10,41,Paranoid,ASH ISLAND
-10,42,Hello Future,NCT DREAM
-10,43,Y (Please Tell Me Why),프리스타일
-10,44,너에게 쓰는 편지 (Feat. 린),MC몽
-10,45,그리고 돌아섰다,기리보이
-10,46,MONEY,리사 (LISA)
-10,47,Good Day (Feat. 팔로알토) (Prod. 코드 쿤스트),"pH-1, 키드밀리 (Kid Milli), 루피 (Loopy)"
-10,48,잡아줄게 (Carabiner),"ASH ISLAND, 그루비룸 (GroovyRoom)"
-10,49,"And July (Feat. DEAN, DJ Friz)",헤이즈 (Heize)
-10,50,이게 나야 (Feat. CHANGMO (창모)),한요한
-10,51,느린심장박동 (Feat. Ja Mezz),래원 (Layone)
-10,52,어땠을까 (Feat. 박정현),싸이 (PSY)
-10,53,그리워하는 것까지,세븐틴
-10,54,GONE (Feat. Paloalto) (Prod. TOIL),"릴러말즈 (Leellamarz), TOIL"
-10,55,PANG!,세븐틴
-10,56,하루 하루,BIGBANG (빅뱅)
-10,57,거짓말,BIGBANG (빅뱅)
-10,58,Beautiful (Feat. Skinny Brown),ASH ISLAND
-10,59,Freak (Prod. Slom),"릴보이 (lIlBOI), 원슈타인, Chillin Homie, 스카이민혁 (Skyminhyuk)"
-10,60,우리서로사랑하지는말자,기리보이
-10,61,죽을 만큼 아파서 (Feat. 멜로우),MC몽
-10,62,널 너무 모르고,헤이즈 (Heize)
-10,63,I Love U Oh Thank U (Feat. 김태우 Of God),MC몽
-10,64,우산 (Feat. 윤하),에픽하이 (EPIK HIGH)
-10,65,Kill This Love,BLACKPINK
-10,66,맛 (Hot Sauce),NCT DREAM
-10,67,Officially Missing You,긱스 (Geeks)
-10,68,곡예사,조광일
-10,69,Ballerino,리쌍
-10,70,자니 (Feat. Dynamic Duo),프라이머리
-10,71,BAND,"창모 (CHANGMO), Hash Swan, ASH ISLAND, 김효은"
-10,72,오르골 (Life Is Still Going On),NCT DREAM
-10,73,Trip (Feat. Hannah),릴러말즈 (Leellamarz)
-10,74,빌었어,창모 (CHANGMO)
-10,75,"아마두 (feat.우원재, 김효은, 넉살, Huckleberry P)","염따, 딥플로우, 팔로알토 (Paloalto), The Quiett, 사이먼 도미닉"
-10,76,KOKO NI ARU,디핵 (D-Hack)
-10,77,사랑을 했다 (LOVE SCENARIO),iKON
-10,78,한여름밤의 꿀,"San E, 레이나 (Raina)"
-10,79,이대로만 (Feat. 죠지),로꼬
-10,80,Celebration,BewhY (비와이)
-10,81,Error (Feat. Loopy),ASH ISLAND
-10,82,400km (Feat. Kid Milli),한요한
-10,83,안았어야해 (Feat. Futuristic Swaver),JAEHA (재하)
-10,84,뿌리 (Feat. JUSTHIS) (Prod. GroovyRoom),Khundi Panda
-10,85,Summer Hate (Feat. 비),지코 (ZICO)
-10,86,엉망진창,기리보이
-10,87,SOLO,제니 (JENNIE)
-10,88,"내일은 없다 (Feat. lIlBOI, nafla)",기리보이
-10,89,몸매 (MOMMAE) (Feat. Ugly Duck),박재범
-10,90,그땐 그땐 그땐,"Supreme Team, 영준"
-10,91,300(prod. Cashbanger),호미들
-10,92,악몽,ASH ISLAND
-10,93,이 노래가 클럽에서 나온다면,우디 (Woody)
-10,94,시간이 들겠지 (Feat. Colde),로꼬
-10,95,TWINTAIL20,디핵 (D-Hack)
-10,96,돌아오지마 (Feat. 용준형 Of 비스트),헤이즈 (Heize)
-10,97,죽일 놈 (Guilty),다이나믹 듀오
-10,98,"ON AIR (Feat. 로꼬, 박재범 & GRAY)",릴보이 (lIlBOI)
-10,99,"Achoo (Feat. pH-1, HAON) (Prod. GroovyRoom)",미란이 (Mirani)
-10,100,BAD LOVE,BE'O (비오)
-11,1,쉬어 (Feat. MINO) (Prod. GRAY),"아넌딜라이트(Anandelight), unofficialboyy, BE'O (비오), 지구인, Mudd the student"
-11,2,"회전목마 (Feat. Zion.T, 원슈타인) (Prod. Slom)",sokodomo
-11,3,Wake Up (Prod. 코드 쿤스트),"개코, 아우릴고트 (OUREALGOAT), SINCE, 안병웅, Tabber, 조광일"
-11,4,OHAYO MY NIGHT,"디핵 (D-Hack), PATEKO (파테코)"
-11,5,리무진 (Feat. MINO) (Prod. GRAY),BE'O (비오)
-11,6,TROUBLE (Prod. Slom),"Don Mills, Northfacegawd, sokodomo, Khakii (카키), 에이체스 (A-Chess)"
-11,7,너와 나의 Memories,"염따, TOIL, KOONTA (쿤타), 베이식 (Basick), 365LIT, 황지상 (HWANG JI SANG), 송민영"
-11,8,만남은 쉽고 이별은 어려워 (Feat. Leellamarz) (Prod. TOIL),베이식 (Basick)
-11,9,"사이렌 Remix (Feat. UNEDUCATED KID, Paul Blanco)",호미들
-11,10,문득,BE'O (비오)
-11,11,멜로디,ASH ISLAND
-11,12,봄날,방탄소년단
-11,13,METEOR,창모 (CHANGMO)
-11,14,Cold Blooded,제시 (Jessi)
-11,15,Life Goes On,방탄소년단
-11,16,가시 (Prod. 코드 쿤스트),"조광일, 개코, 저스디스 (JUSTHIS)"
-11,17,"깐부 (Feat. 염따, ASH ISLAND) (Prod. TOIL)",KOONTA (쿤타)
-11,18,Bk Love,임영웅
-11,19,낮 밤 (feat. 박재범),이영지
-11,20,"Reset (Feat. 개코, Kid Milli) (Prod. 코드 쿤스트)","SINCE, Tabber"
-11,21,VVS (Feat. JUSTHIS) (Prod. GroovyRoom),"미란이 (Mirani), 먼치맨(MUNCHMAN), Khundi Panda, 머쉬베놈 (MUSHVENOM)"
-11,22,역겹겠지만 (Remember me),B.I
-11,23,비 오는 날 듣기 좋은 노래 (Feat. Colde),에픽하이 (EPIK HIGH)
-11,24,Brand (Feat. 래원 (Layone)),BE'O (비오)
-11,25,어떻게 지내 (Prod. By VAN.C),오반
-11,26,"이끼 (Feat. MINO, BOBBY) (Prod. MINO)",Mudd the student
-11,27,Sticker,NCT 127
-11,28,MBTI (Feat. 쿠기 & 로꼬) (Prod. GRAY),BE'O (비오)
-11,29,"Rainy day (Feat. ASH ISLAND, Skinny Brown)",PATEKO (파테코)
-11,30,허리춤,오반
-11,31,불협화음 (Feat. AKMU) (Prod. GRAY),Mudd the student
-11,32,Y (Please Tell Me Why),프리스타일
-11,33,"내일이 오면 (Feat. 기리보이, BIG Naughty (서동현))",릴보이 (lIlBOI)
-11,34,To the Moon (Feat. UNEDUCATED KID),"염따, TOIL"
-11,35,Downtown Baby,블루 (BLOO)
-11,36,그리워하는 것까지,세븐틴
-11,37,마.피.아. In the morning,ITZY (있지)
-11,38,Pretty Savage,BLACKPINK
-11,39,아무노래,지코 (ZICO)
-11,40,"CREDIT (Feat. 염따, 기리보이, Zion.T)",릴보이 (lIlBOI)
-11,41,PANG!,세븐틴
-11,42,시차 (We Are) (Feat. 로꼬 & GRAY),우원재
-11,43,곡예사,조광일
-11,44,산책,오반
-11,45,BAD LOVE,BE'O (비오)
-11,46,"호우주의 (Feat. 개코, 넉살 (Nucksal)) (Prod. 코드 쿤스트)",조광일
-11,47,논해 (Feat. JUSTHIS) (Prod. CODE KUNST),개코
-11,48,DNA,방탄소년단
-11,49,모래시계,창모 (CHANGMO)
-11,50,IDOL,방탄소년단
-11,51,ON,방탄소년단
-11,52,Hyperstar,창모 (CHANGMO)
-11,53,Lemonade,NCT 127
-11,54,느린심장박동 (Feat. Ja Mezz),래원 (Layone)
-11,55,"08베이식 (Feat. 염따, punchnello)",베이식 (Basick)
-11,56,사이렌,호미들
-11,57,아름다워,창모 (CHANGMO)
-11,58,LALISA,리사 (LISA)
-11,59,뚜두뚜두 (DDU-DU DDU-DU),BLACKPINK
-11,60,"헤어지지 못하는 여자, 떠나가지 못하는 남자 (Feat. 정인)",리쌍
-11,61,FAKE LOVE,방탄소년단
-11,62,눈누난나 (NUNU NANA),제시 (Jessi)
-11,63,GONE (Feat. Paloalto) (Prod. TOIL),"릴러말즈 (Leellamarz), TOIL"
-11,64,Good Day (Feat. 팔로알토) (Prod. 코드 쿤스트),"pH-1, 키드밀리 (Kid Milli), 루피 (Loopy)"
-11,65,MONEY,리사 (LISA)
-11,66,Paranoid,ASH ISLAND
-11,67,Trip (Feat. Hannah),릴러말즈 (Leellamarz)
-11,68,우산 (Feat. 윤하),에픽하이 (EPIK HIGH)
-11,69,Play (Prod. TOIL),ASH ISLAND
-11,70,사임쌓임,"Chin, 수퍼비 (SUPERBEE), CK, UNEDUCATED KID"
-11,71,새로고침 (Feat. GRAY),"지구인, 아넌딜라이트(Anandelight)"
-11,72,사랑은(Feat.원슈타인),마미손
-11,73,너에게 쓰는 편지 (Feat. 린),MC몽
-11,74,태지,창모 (CHANGMO)
-11,75,Freak (Prod. Slom),"릴보이 (lIlBOI), 원슈타인, Chillin Homie, 스카이민혁 (Skyminhyuk)"
-11,76,"And July (Feat. DEAN, DJ Friz)",헤이즈 (Heize)
-11,77,바래 (Feat. 정인) (Prod. TOIL),KOONTA (쿤타)
-11,78,Hello Future,NCT DREAM
-11,79,거짓말,BIGBANG (빅뱅)
-11,80,Ballerino,리쌍
-11,81,하루 하루,BIGBANG (빅뱅)
-11,82,NO BREAK (Prod. GooseBumps & 사이먼 도미닉),"홀리뱅 (HolyBang), 사이먼 도미닉, 로꼬"
-11,83,"아마두 (feat.우원재, 김효은, 넉살, Huckleberry P)","염따, 딥플로우, 팔로알토 (Paloalto), The Quiett, 사이먼 도미닉"
-11,84,어땠을까 (Feat. 박정현),싸이 (PSY)
-11,85,죽을 만큼 아파서 (Feat. 멜로우),MC몽
-11,86,복덕방,Northfacegawd
-11,87,오르골 (Life Is Still Going On),NCT DREAM
-11,88,러브(Prod.로코베리),"로꼬, 이성경"
-11,89,몸매 (MOMMAE) (Feat. Ugly Duck),박재범
-11,90,우리서로사랑하지는말자,기리보이
-11,91,"BE ! (Feat. 팔로알토, lIlBOI) (Prod. PEEJAY & Slom)",sokodomo
-11,92,Beautiful (Feat. Skinny Brown),ASH ISLAND
-11,93,자니 (Feat. Dynamic Duo),프라이머리
-11,94,널 너무 모르고,헤이즈 (Heize)
-11,95,Kill This Love,BLACKPINK
-11,96,BAND,"창모 (CHANGMO), Hash Swan, ASH ISLAND, 김효은"
-11,97,빌었어,창모 (CHANGMO)
-11,98,뿌리 (Feat. JUSTHIS) (Prod. GroovyRoom),Khundi Panda
-11,99,"Face ID (Feat. 기리보이, Sik-K, JUSTHIS)",에픽하이 (EPIK HIGH)
-11,100,사랑을 했다 (LOVE SCENARIO),iKON
-12,1,"회전목마 (Feat. Zion.T, 원슈타인) (Prod. Slom)",sokodomo
-12,2,리무진 (Feat. MINO) (Prod. GRAY),BE'O (비오)
-12,3,만남은 쉽고 이별은 어려워 (Feat. Leellamarz) (Prod. TOIL),베이식 (Basick)
-12,4,불협화음 (Feat. AKMU) (Prod. GRAY),Mudd the student
-12,5,Counting Stars (Feat. Beenzino),BE'O (비오)
-12,6,쉬어 (Feat. MINO) (Prod. GRAY),"아넌딜라이트(Anandelight), unofficialboyy, BE'O (비오), 지구인, Mudd the student"
-12,7,Wake Up (Prod. 코드 쿤스트),"개코, 아우릴고트 (OUREALGOAT), SINCE, 안병웅, Tabber, 조광일"
-12,8,네가 없는 밤 (Feat. ASH ISLAND) (Prod. GRAY),BE'O (비오)
-12,9,MBTI (Feat. 쿠기 & 로꼬) (Prod. GRAY),BE'O (비오)
-12,10,OHAYO MY NIGHT,"디핵 (D-Hack), PATEKO (파테코)"
-12,11,문득,BE'O (비오)
-12,12,"호우주의 (Feat. 개코, 넉살 (Nucksal)) (Prod. 코드 쿤스트)",조광일
-12,13,"깐부 (Feat. 염따, ASH ISLAND) (Prod. TOIL)",KOONTA (쿤타)
-12,14,"사이렌 Remix (Feat. UNEDUCATED KID, Paul Blanco)",호미들
-12,15,너와 나의 Memories,"염따, TOIL, KOONTA (쿤타), 베이식 (Basick), 365LIT, 황지상 (HWANG JI SANG), 송민영"
-12,16,"08베이식 (Feat. 염따, punchnello)",베이식 (Basick)
-12,17,멜로디,ASH ISLAND
-12,18,TROUBLE (Prod. Slom),"Don Mills, Northfacegawd, sokodomo, Khakii (카키), 에이체스 (A-Chess)"
-12,19,"Reset (Feat. 개코, Kid Milli) (Prod. 코드 쿤스트)","SINCE, Tabber"
-12,20,봄날,방탄소년단
-12,21,탕!♡,MINO (송민호)
-12,22,Life Goes On,방탄소년단
-12,23,METEOR,창모 (CHANGMO)
-12,24,바래 (Feat. 정인) (Prod. TOIL),KOONTA (쿤타)
-12,25,"UP해 (Feat. 박재범, 우원재) (Prod. 코드 쿤스트)",SINCE
-12,26,가리온 (Feat. 다이나믹 듀오) (Prod. Primary),조광일
-12,27,Bk Love,임영웅
-12,28,가시 (Prod. 코드 쿤스트),"조광일, 개코, 저스디스 (JUSTHIS)"
-12,29,"BE ! (Feat. 팔로알토, lIlBOI) (Prod. PEEJAY & Slom)",sokodomo
-12,30,"FACE TIME (Feat. 기리보이, pH-1, 개코) (Prod. 코드 쿤스트)",SINCE
-12,31,SIGN (Feat. 미란이) (Prod. 코드 쿤스트),SINCE
-12,32,지나고 보면 (Feat. 화사 & MINO) (Prod. GRAY),BE'O (비오)
-12,33,"이끼 (Feat. MINO, BOBBY) (Prod. MINO)",Mudd the student
-12,34,VVS (Feat. JUSTHIS) (Prod. GroovyRoom),"미란이 (Mirani), 먼치맨(MUNCHMAN), Khundi Panda, 머쉬베놈 (MUSHVENOM)"
-12,35,Cold Blooded,제시 (Jessi)
-12,36,"너의 밤,너의 별,너의 달(Prod.로코베리)","기리보이, 김유정"
-12,37,Brand (Feat. 래원 (Layone)),BE'O (비오)
-12,38,어떻게 지내 (Prod. By VAN.C),오반
-12,39,우산 (Feat. 윤하),에픽하이 (EPIK HIGH)
-12,40,비 오는 날 듣기 좋은 노래 (Feat. Colde),에픽하이 (EPIK HIGH)
-12,41,"쿠키영상 (Feat. 에일리, 행주, 개코) (Prod. 코드 쿤스트)",조광일
-12,42,Y (Please Tell Me Why),프리스타일
-12,43,"타이밍 (Feat. 염따, BIG Naughty) (Prod. TOIL)",KOONTA (쿤타)
-12,44,"Rainy day (Feat. ASH ISLAND, Skinny Brown)",PATEKO (파테코)
-12,45,"CREDIT (Feat. 염따, 기리보이, Zion.T)",릴보이 (lIlBOI)
-12,46,높이 (Feat. 이하이) (Prod. GRAY),아넌딜라이트(Anandelight)
-12,47,낮 밤 (feat. 박재범),이영지
-12,48,"내일이 오면 (Feat. 기리보이, BIG Naughty (서동현))",릴보이 (lIlBOI)
-12,49,Downtown Baby,블루 (BLOO)
-12,50,로맨틱 겨울 (Feat. 김진호 Of SG워너비),김진표
-12,51,역겹겠지만 (Remember me),B.I
-12,52,Trip (Feat. Hannah),릴러말즈 (Leellamarz)
-12,53,곡예사,조광일
-12,54,아무노래,지코 (ZICO)
-12,55,마.피.아. In the morning,ITZY (있지)
-12,56,"+82 (Prod. 다이나믹 듀오, THAMA)","팔로알토 (Paloalto), 기리보이, 다이나믹 듀오, 저스디스 (JUSTHIS), 릴보이 (lIlBOI), DJ Wegun"
-12,57,허리춤,오반
-12,58,시차 (We Are) (Feat. 로꼬 & GRAY),우원재
-12,59,"Double Up (Feat. 염따, The Quiett, 머쉬베놈, 래원)",KOONTA (쿤타)
-12,60,GENERATION (Prod. Lean$moke),호미들
-12,61,GONE (Feat. Paloalto) (Prod. TOIL),"릴러말즈 (Leellamarz), TOIL"
-12,62,OUT OF MY SIGHT,릴러말즈 (Leellamarz)
-12,63,Pretty Savage,BLACKPINK
-12,64,"헤어지지 못하는 여자, 떠나가지 못하는 남자 (Feat. 정인)",리쌍
-12,65,고생이 많아 (Feat. Zion.T) (Prod. Fisherman),"베이식 (Basick), 아넌딜라이트(Anandelight), Mudd the student, sokodomo"
-12,66,DNA,방탄소년단
-12,67,느린심장박동 (Feat. Ja Mezz),래원 (Layone)
-12,68,사이렌,호미들
-12,69,Ballerino,리쌍
-12,70,BAD LOVE,BE'O (비오)
-12,71,하루를 어떻게 써야 해 (feat. 프리든 (FR:EDEN)),줍에이 (Joob A)
-12,72,MONEY,리사 (LISA)
-12,73,Paranoid,ASH ISLAND
-12,74,IDOL,방탄소년단
-12,75,ON,방탄소년단
-12,76,너에게 쓰는 편지 (Feat. 린),MC몽
-12,77,B.O.T.B. (Prod. GRAY),"개코, 창모 (CHANGMO), Don Mills, 로스 (Los), DeVita, SOLE (쏠), SINCE, BE'O (비오)"
-12,78,아름다워,창모 (CHANGMO)
-12,79,수취인 불명,프리스타일
-12,80,Sticker,NCT 127
-12,81,Love Love Love (Feat. Yoong Jin Of Casker),에픽하이 (EPIK HIGH)
-12,82,"아마두 (feat.우원재, 김효은, 넉살, Huckleberry P)","염따, 딥플로우, 팔로알토 (Paloalto), The Quiett, 사이먼 도미닉"
-12,83,뚜두뚜두 (DDU-DU DDU-DU),BLACKPINK
-12,84,산책,오반
-12,85,죽을 만큼 아파서 (Feat. 멜로우),MC몽
-12,86,FAKE LOVE,방탄소년단
-12,87,새로고침 (Feat. GRAY),"지구인, 아넌딜라이트(Anandelight)"
-12,88,Good Day (Feat. 팔로알토) (Prod. 코드 쿤스트),"pH-1, 키드밀리 (Kid Milli), 루피 (Loopy)"
-12,89,"08베이식 REMIX (Feat. 365LIT, CHANGMO, CROWN J, DON MILLS, FANA, GAEKO, LAYONE, lIlBOI, MYUNDO, PAUL BLANCO, SAN E, SWINGS, SKINNY BROWN, VERBAL JINT, YUMDDA)",베이식 (Basick)
-12,90,거짓말,BIGBANG (빅뱅)
-12,91,어땠을까 (Feat. 박정현),싸이 (PSY)
-12,92,사임쌓임,"Chin, 수퍼비 (SUPERBEE), CK, UNEDUCATED KID"
-12,93,BUSINESS MAN,호미들
-12,94,하루 하루,BIGBANG (빅뱅)
-12,95,눈누난나 (NUNU NANA),제시 (Jessi)
-12,96,Beautiful (Feat. Skinny Brown),ASH ISLAND
-12,97,Hyperstar,창모 (CHANGMO)
-12,98,우리서로사랑하지는말자,기리보이
-12,99,"And July (Feat. DEAN, DJ Friz)",헤이즈 (Heize)
-12,100,자니 (Feat. Dynamic Duo),프라이머리
+년도,월,순위,타이틀,가수,프로듀서
+2021,1,1,VVS (Feat. JUSTHIS) (Prod. GroovyRoom),"미란이 (Mirani), 먼치맨(MUNCHMAN), Khundi Panda (쿤디판다), 머쉬베놈 (MUSHVENOM)","GroovyRoom, JUSTHIS, Sik-K"
+2021,1,2,"내일이 오면 (Feat. 기리보이, BIG Naughty (서동현))",릴보이 (lIlBOI),"Minit, GIRIBOY, lIlBOI, BIG Naughty, Slom, 박준우, Fisherman"
+2021,1,4,"CREDIT (Feat. 염따, 기리보이, Zion.T)",릴보이 (lIlBOI),"Slom, Fisherman, lIlBOI, YUMDDA, Zion.T"
+2021,1,5,"Achoo (Feat. pH-1, HAON) (Prod. GroovyRoom)",미란이 (Mirani),"GroovyRoom, pH-1, Mirani"
+2021,1,7,METEOR,창모 (CHANGMO),CHANGMO
+2021,1,8,Freak (Prod. Slom),"릴보이 (lIlBOI), 원슈타인 (Wonstein), Chillin Homie (칠린호미), 스카이민혁 (Skyminhyuk)","Slom, Zion.T, GIRIBOY, 박준우"
+2021,1,9,"ON AIR (Feat. 로꼬, 박재범 & GRAY)",릴보이 (lIlBOI),GRAY
+2021,1,10,뿌리 (Feat. JUSTHIS) (Prod. GroovyRoom),Khundi Panda (쿤디판다),"GroovyRoom, JUSTHIS"
+2021,1,11,악역 (Feat. 이하이 & 사이먼 도미닉) (Prod. 코드 쿤스트),스윙스 (Swings),"CODE KUNST, Pick!, Simon Dominic, 이하이"
+2021,1,13,눈누난나 (NUNU NANA),제시 (Jessi),"유건형, PENOMECO, 전병일, PHILL"
+2021,1,14,Downtown Baby,블루 (BLOO),"ROCK IT PRODUCTIONS, BLOO"
+2021,1,15,고독하구만 (Feat. 수퍼비) (Prod. GroovyRoom),머쉬베놈 (MUSHVENOM),"GroovyRoom, MUSHVENOM"
+2021,1,16,"여백의 미 (Feat. Jessi, JUSTHIS) (Prod. GroovyRoom)",머쉬베놈 (MUSHVENOM),"GroovyRoom, MUSHVENOM, Jessi"
+2021,1,17,아무노래,지코 (ZICO),"ZICO, Poptime"
+2021,1,19,적외선 카메라,원슈타인 (Wonstein),"Slom, Fisherman, Wonstein, Zion.T"
+2021,1,20,원해 (Feat. 팔로알토) (Prod. 코드 쿤스트),"스윙스 (Swings), 맥대디 (Mckdaddy), Khakii (카키), 래원 (Layone)","CODE KUNST, Paloalto, Pick!"
+2021,1,21,"가다 (Feat. 사이먼 도미닉, The Quiett) (Prod. SLO)",머쉬베놈 (MUSHVENOM),"SLO, MUSHVENOM, TOIL"
+2021,1,22,부어라 비워라 (Tricker) (Prod. GroovyRoom),머쉬베놈 (MUSHVENOM),"GroovyRoom, MUSHVENOM"
+2021,1,23,사랑은(Feat.원슈타인),마미손 (Mommy Son),"권한얼, Wonstein, Mommy Son"
+2021,1,25,"Rosario (Feat. CL, ZICO)",에픽하이 (EPIK HIGH),"DJ 투컷, Tablo, Mighty Mike, KETA McCUE"
+2021,1,27,내 얘기 같아 (Feat. 헤이즈),에픽하이 (EPIK HIGH),"Tablo, DJ 투컷, RYU YOUNG MIN"
+2021,1,28,Summer Hate (Feat. 비),지코 (ZICO),"ZICO, Poptime"
+2021,1,30,사랑이었나봐,기리보이 (GIRIBOY),"GIRIBOY, basecamp"
+2021,1,31,"윈윈 (Feat. 개코, BewhY) (Prod. BewhY)","허성현 (Huh), dsel (디젤), 가오가이 (kaogaii), Untell (언텔)","BewhY, GAEKO"
+2021,1,32,도망가,MINO (송민호),"MINO, 강욱진, Diggy"
+2021,1,33,옜다,"머쉬베놈 (MUSHVENOM), 저스디스 (JUSTHIS)","GroovyRoom, MUSHVENOM"
+2021,1,35,"Hero (Feat. JUSTHIS, Golden) (Prod. GroovyRoom)",Khundi Panda (쿤디판다),GroovyRoom
+2021,1,36,Bad News Cypher vol.2 (Feat. TakeOne),릴보이 (lIlBOI),"Slom, ganguk, Konquest"
+2021,1,38,"Yay (Feat. 이영지, JAMIE (제이미) & 팔로알토) (Prod. 코드 쿤스트)",래원 (Layone),"CODE KUNST, Paloalto, Lee Young-ji, JAMIE"
+2021,1,40,"iii (Feat. 베이식, Kid Milli & 팔로알토) (Prod. 코드 쿤스트)",래원 (Layone),"CODE KUNST, Paloalto"
+2021,1,42,Officially Missing You,긱스 (Geeks),7 Aurelius
+2021,1,43,시차 (We Are) (Feat. 로꼬 & GRAY),우원재 (Woo Wonjae),GRAY
+2021,1,44,우리서로사랑하지는말자,기리보이 (GIRIBOY),"GIRIBOY, vibin"
+2021,1,46,잠이 들어야 (Feat. 헤이즈),로꼬 (Loco),"CODE KUNST, Loco, Heize, Pick!"
+2021,1,48,아름다워,창모 (CHANGMO),CHANGMO
+2021,1,49,사이렌,호미들 (Homies),"27 corazones, CK, Chin, Louie"
+2021,1,51,"아마두 (feat.우원재, 김효은, 넉살, Huckleberry P)","염따 (YUMDDA), 딥플로우 (Deepflow), 팔로알토 (Paloalto), The Quiett (더 콰이엇), 사이먼 도미닉 (Simon Dominic)","noisemasterminsu, YUMDDA, Deepflow, 김효은, Huckleberry P"
+2021,1,54,빌었어,창모 (CHANGMO),CHANGMO
+2021,1,55,보자보자,머쉬베놈 (MUSHVENOM),"SLO, MUSHVENOM"
+2021,1,58,Error (Feat. Loopy),ASH ISLAND (애쉬 아일랜드),"TOIL, ASH ISLAND, Skinny Brown"
+2021,1,59,"Achoo Remix (Feat. 미란이(Mirani), pH-1, 먼치맨, Skinny Brown, Louie, 릴러말즈 (Leellamarz), Ourealgoat (아우릴고트), Dbo (디보), 식케이 (Sik-K), 오왼 (Owen), Kid Milli, 스윙스, Nudeboi Seo, TRADE L, 쿠기 (Coogie), Blase (블라세), sokodomo, Khundi Panda, 휘민 (Lil Moshpit), Khakii (카키))","그루비룸 (GroovyRoom), 저스디스 (JUSTHIS)","GroovyRoom, Mirani, pH-1"
+2021,1,60,"Rainy day (Feat. ASH ISLAND, Skinny Brown)",PATEKO (파테코),"PATEKO, ASH ISLAND, Skinny Brown"
+2021,1,63,Good Day (Feat. 팔로알토) (Prod. 코드 쿤스트),"pH-1 (피에이치원), 키드밀리 (Kid Milli), 루피 (Loopy)","CODE KUNST, Paloalto, pH-1, Kid Milli, Loopy"
+2021,1,64,VVS (H1GHR Remix) (Feat. JUSTHIS) (Prod. GroovyRoom),"pH-1 (피에이치원), BIG Naughty (서동현), TRADE L (트레이드 엘), Woodie Gochild (우디 고차일드), 박재범 (Jay Park), 키드킹 (Kidd King)","GroovyRoom, JUSTHIS"
+2021,1,65,광장동에서,창모 (CHANGMO),"CHANGMO, Panda Gomm, Catchup"
+2021,1,66,"세상에 나쁜 개는 없다 (Feat. YDG, Zion.T) (Prod. Slom)",원슈타인 (Wonstein),"Slom, 박종우, Wonstein, Zion.T"
+2021,1,67,"헤어지지 못하는 여자, 떠나가지 못하는 남자 (Feat. 정인)",리쌍 (LEESSANG),"Leon Russell, Bonnie Bramlett, Delaney Bramlett, 길, PEEJAY"
+2021,1,68,"Daydreamin (Feat. sogumm & 우원재) (Prod. Yosi, 팔로알토 & 코드 쿤스트)",래원 (Layone),"CODE KUNST, Paloalto, sogumm, Yosi"
+2021,1,69,BAND,"창모 (CHANGMO), Hash Swan (해쉬스완), ASH ISLAND (애쉬 아일랜드), 김효은 (Keemhyoeun)",Cashbanger
+2021,1,70,"정당방위 (Feat. 우원재, 넉살, 창모)",에픽하이 (EPIK HIGH),"CODE KUNST, Tablo"
+2021,1,71,어땠을까 (Feat. 박정현),싸이 (PSY),"PSY, 유건형"
+2021,1,72,널 너무 모르고,헤이즈 (Heize),GroovyRoom
+2021,1,74,Paranoid,ASH ISLAND (애쉬 아일랜드),"ASH ISLAND, TOIL"
+2021,1,81,Selfmade Orange (Feat. SUPERBEE),창모 (CHANGMO),CHANGMO
+2021,1,82,"And July (Feat. DEAN, DJ Friz)",헤이즈 (Heize),"Deanfluenza, Hyuk Shin, J Bird, Esta, Delly Boi, DK"
+2021,1,83,G+Jus Freestyle (Prod. GroovyRoom),저스디스 (JUSTHIS),"GroovyRoom, JUSTHIS"
+2021,1,85,자니 (Feat. Dynamic Duo),프라이머리 (Primary),"GAEKO, Primary"
+2021,1,86,Trip (Feat. Hannah),릴러말즈 (Leellamarz),"TOIL, Leellamarz, Smob"
+2021,1,88,LINDA (Feat. 윤미래),린다G (Linda G),"CODE KUNST, Pick!, devita, 윤미래"
+2021,1,89,나란히,BewhY (비와이),BewhY
+2021,1,91,400km (Feat. Kid Milli),한요한 (HANYOHAN),"Minit, HANYOHAN"
+2021,1,95,왜 이리 시끄러운 것이냐 (Prod. SLO),머쉬베놈 (MUSHVENOM),"SLO, MUSHVENOM"
+2021,1,96,"아퍼 (Feat. Kid Milli, Lil tachi, 김승민, NO:EL, C JAMM)",기리보이 (GIRIBOY),"GIRIBOY, CODE KUNST"
+2021,1,97,우연히 봄,"로꼬 (Loco), 유주 (YUJU)","똘아이박, 피터팬, Noheul"
+2021,1,98,연애소설 (Feat. 아이유),에픽하이 (EPIK HIGH),"Tablo, DJ 투컷"
+2021,1,99,GONE (Feat. Paloalto) (Prod. TOIL),"릴러말즈 (Leellamarz), TOIL (토일)","TOIL, Leellamarz, J Way"
+2021,2,1,VVS (Feat. JUSTHIS) (Prod. GroovyRoom),"미란이 (Mirani), 먼치맨(MUNCHMAN), Khundi Panda (쿤디판다), 머쉬베놈 (MUSHVENOM)","GroovyRoom, JUSTHIS, Sik-K"
+2021,2,3,"내일이 오면 (Feat. 기리보이, BIG Naughty (서동현))",릴보이 (lIlBOI),"Minit, GIRIBOY, lIlBOI, BIG Naughty, Slom, 박준우, Fisherman"
+2021,2,4,METEOR,창모 (CHANGMO),CHANGMO
+2021,2,6,"CREDIT (Feat. 염따, 기리보이, Zion.T)",릴보이 (lIlBOI),"Slom, Fisherman, lIlBOI, YUMDDA, Zion.T"
+2021,2,8,"Achoo (Feat. pH-1, HAON) (Prod. GroovyRoom)",미란이 (Mirani),"GroovyRoom, pH-1, Mirani"
+2021,2,9,Downtown Baby,블루 (BLOO),"ROCK IT PRODUCTIONS, BLOO"
+2021,2,10,Freak (Prod. Slom),"릴보이 (lIlBOI), 원슈타인 (Wonstein), Chillin Homie (칠린호미), 스카이민혁 (Skyminhyuk)","Slom, Zion.T, GIRIBOY, 박준우"
+2021,2,11,뿌리 (Feat. JUSTHIS) (Prod. GroovyRoom),Khundi Panda (쿤디판다),"GroovyRoom, JUSTHIS"
+2021,2,12,눈누난나 (NUNU NANA),제시 (Jessi),"유건형, PENOMECO, 전병일, PHILL"
+2021,2,13,"ON AIR (Feat. 로꼬, 박재범 & GRAY)",릴보이 (lIlBOI),GRAY
+2021,2,14,아무노래,지코 (ZICO),"ZICO, Poptime"
+2021,2,15,악역 (Feat. 이하이 & 사이먼 도미닉) (Prod. 코드 쿤스트),스윙스 (Swings),"CODE KUNST, Pick!, Simon Dominic, 이하이"
+2021,2,17,고독하구만 (Feat. 수퍼비) (Prod. GroovyRoom),머쉬베놈 (MUSHVENOM),"GroovyRoom, MUSHVENOM"
+2021,2,18,"여백의 미 (Feat. Jessi, JUSTHIS) (Prod. GroovyRoom)",머쉬베놈 (MUSHVENOM),"GroovyRoom, MUSHVENOM, Jessi"
+2021,2,19,"Rosario (Feat. CL, ZICO)",에픽하이 (EPIK HIGH),"DJ 투컷, Tablo, Mighty Mike, KETA McCUE"
+2021,2,21,사랑은(Feat.원슈타인),마미손 (Mommy Son),"권한얼, Wonstein, Mommy Son"
+2021,2,22,사이렌,호미들 (Homies),"27 corazones, CK, Chin, Louie"
+2021,2,23,원해 (Feat. 팔로알토) (Prod. 코드 쿤스트),"스윙스 (Swings), 맥대디 (Mckdaddy), Khakii (카키), 래원 (Layone)","CODE KUNST, Paloalto, Pick!"
+2021,2,24,적외선 카메라,원슈타인 (Wonstein),"Slom, Fisherman, Wonstein, Zion.T"
+2021,2,25,내 얘기 같아 (Feat. 헤이즈),에픽하이 (EPIK HIGH),"Tablo, DJ 투컷, RYU YOUNG MIN"
+2021,2,26,"가다 (Feat. 사이먼 도미닉, The Quiett) (Prod. SLO)",머쉬베놈 (MUSHVENOM),"SLO, MUSHVENOM, TOIL"
+2021,2,27,Summer Hate (Feat. 비),지코 (ZICO),"ZICO, Poptime"
+2021,2,30,시차 (We Are) (Feat. 로꼬 & GRAY),우원재 (Woo Wonjae),GRAY
+2021,2,31,부어라 비워라 (Tricker) (Prod. GroovyRoom),머쉬베놈 (MUSHVENOM),"GroovyRoom, MUSHVENOM"
+2021,2,33,옜다,"머쉬베놈 (MUSHVENOM), 저스디스 (JUSTHIS)","GroovyRoom, MUSHVENOM"
+2021,2,36,"범(feat.Chillin Homie, Kid Milli)",라비 (RAVI),"RAVI, Chillin Homie, Kid Milli, QUIZQUIZ"
+2021,2,37,"Rainy day (Feat. ASH ISLAND, Skinny Brown)",PATEKO (파테코),"PATEKO, ASH ISLAND, Skinny Brown"
+2021,2,38,아름다워,창모 (CHANGMO),CHANGMO
+2021,2,39,도망가,MINO (송민호),"MINO, 강욱진, Diggy"
+2021,2,41,우리서로사랑하지는말자,기리보이 (GIRIBOY),"GIRIBOY, vibin"
+2021,2,42,사랑이었나봐,기리보이 (GIRIBOY),"GIRIBOY, basecamp"
+2021,2,44,"윈윈 (Feat. 개코, BewhY) (Prod. BewhY)","허성현 (Huh), dsel (디젤), 가오가이 (kaogaii), Untell (언텔)","BewhY, GAEKO"
+2021,2,45,빌었어,창모 (CHANGMO),CHANGMO
+2021,2,48,"헤어지지 못하는 여자, 떠나가지 못하는 남자 (Feat. 정인)",리쌍 (LEESSANG),"Leon Russell, Bonnie Bramlett, Delaney Bramlett, 길, PEEJAY"
+2021,2,49,Officially Missing You,긱스 (Geeks),7 Aurelius
+2021,2,51,Error (Feat. Loopy),ASH ISLAND (애쉬 아일랜드),"TOIL, ASH ISLAND, Skinny Brown"
+2021,2,53,"아마두 (feat.우원재, 김효은, 넉살, Huckleberry P)","염따 (YUMDDA), 딥플로우 (Deepflow), 팔로알토 (Paloalto), The Quiett (더 콰이엇), 사이먼 도미닉 (Simon Dominic)","noisemasterminsu, YUMDDA, Deepflow, 김효은, Huckleberry P"
+2021,2,55,어땠을까 (Feat. 박정현),싸이 (PSY),"PSY, 유건형"
+2021,2,56,Good Day (Feat. 팔로알토) (Prod. 코드 쿤스트),"pH-1 (피에이치원), 키드밀리 (Kid Milli), 루피 (Loopy)","CODE KUNST, Paloalto, pH-1, Kid Milli, Loopy"
+2021,2,57,꽉 쥔 주먹속의 라이터,호미들 (Homies),"deemarc, CK, Chin, Louie"
+2021,2,58,BAND,"창모 (CHANGMO), Hash Swan (해쉬스완), ASH ISLAND (애쉬 아일랜드), 김효은 (Keemhyoeun)",Cashbanger
+2021,2,59,Paranoid,ASH ISLAND (애쉬 아일랜드),"ASH ISLAND, TOIL"
+2021,2,60,우연히 봄,"로꼬 (Loco), 유주 (YUJU)","똘아이박, 피터팬, Noheul"
+2021,2,62,널 너무 모르고,헤이즈 (Heize),GroovyRoom
+2021,2,64,잠이 들어야 (Feat. 헤이즈),로꼬 (Loco),"CODE KUNST, Loco, Heize, Pick!"
+2021,2,66,커피가게 아가씨 (Feat. 원슈타인) (Prod. PEEJAY),BIG Naughty (서동현),"PEEJAY, BIG Naughty, Wonstein"
+2021,2,67,"And July (Feat. DEAN, DJ Friz)",헤이즈 (Heize),"Deanfluenza, Hyuk Shin, J Bird, Esta, Delly Boi, DK"
+2021,2,69,Trip (Feat. Hannah),릴러말즈 (Leellamarz),"TOIL, Leellamarz, Smob"
+2021,2,70,"Hero (Feat. JUSTHIS, Golden) (Prod. GroovyRoom)",Khundi Panda (쿤디판다),GroovyRoom
+2021,2,71,Y (Please Tell Me Why),프리스타일 (Free Style),지오
+2021,2,74,Selfmade Orange (Feat. SUPERBEE),창모 (CHANGMO),CHANGMO
+2021,2,76,Drama,블루 (BLOO),"BLOO, NERD, Cribs"
+2021,2,77,Nerdy Love (Feat. 백예린),pH-1 (피에이치원),"Mokyo, Jetti, pH-1, Yerin Baek"
+2021,2,80,GONE (Feat. Paloalto) (Prod. TOIL),"릴러말즈 (Leellamarz), TOIL (토일)","TOIL, Leellamarz, J Way"
+2021,2,83,300(prod. Cashbanger),호미들 (Homies),"CK, Chin, Louie, Cashbanger"
+2021,2,85,자니 (Feat. Dynamic Duo),프라이머리 (Primary),"GAEKO, Primary"
+2021,2,86,400km (Feat. Kid Milli),한요한 (HANYOHAN),"Minit, HANYOHAN"
+2021,2,87,악몽,ASH ISLAND (애쉬 아일랜드),TOIL
+2021,2,88,보자보자,머쉬베놈 (MUSHVENOM),"SLO, MUSHVENOM"
+2021,2,89,우산 (Feat. 윤하),에픽하이 (EPIK HIGH),Tablo
+2021,2,90,"Yay (Feat. 이영지, JAMIE (제이미) & 팔로알토) (Prod. 코드 쿤스트)",래원 (Layone),"CODE KUNST, Paloalto, Lee Young-ji, JAMIE"
+2021,2,91,Bad News Cypher vol.2 (Feat. TakeOne),릴보이 (lIlBOI),"Slom, ganguk, Konquest"
+2021,2,92,"iii (Feat. 베이식, Kid Milli & 팔로알토) (Prod. 코드 쿤스트)",래원 (Layone),"CODE KUNST, Paloalto"
+2021,2,94,사임쌓임,"Chin (친), 수퍼비 (SUPERBEE), CK (씨케이), UNEDUCATED KID (언에듀케이티드 키드)","ross gossage, Chin"
+2021,2,95,광장동에서,창모 (CHANGMO),"CHANGMO, Panda Gomm, Catchup"
+2021,2,96,연애소설 (Feat. 아이유),에픽하이 (EPIK HIGH),"Tablo, DJ 투컷"
+2021,2,98,Ballerino,리쌍 (LEESSANG),길
+2021,2,100,"정당방위 (Feat. 우원재, 넉살, 창모)",에픽하이 (EPIK HIGH),"CODE KUNST, Tablo"
+2021,3,1,VVS (Feat. JUSTHIS) (Prod. GroovyRoom),"미란이 (Mirani), 먼치맨(MUNCHMAN), Khundi Panda (쿤디판다), 머쉬베놈 (MUSHVENOM)","GroovyRoom, JUSTHIS, Sik-K"
+2021,3,3,METEOR,창모 (CHANGMO),CHANGMO
+2021,3,5,"내일이 오면 (Feat. 기리보이, BIG Naughty (서동현))",릴보이 (lIlBOI),"Minit, GIRIBOY, lIlBOI, BIG Naughty, Slom, 박준우, Fisherman"
+2021,3,8,Downtown Baby,블루 (BLOO),"ROCK IT PRODUCTIONS, BLOO"
+2021,3,9,"CREDIT (Feat. 염따, 기리보이, Zion.T)",릴보이 (lIlBOI),"Slom, Fisherman, lIlBOI, YUMDDA, Zion.T"
+2021,3,10,아무노래,지코 (ZICO),"ZICO, Poptime"
+2021,3,11,멜로디,ASH ISLAND (애쉬 아일랜드),"TOIL, ASH ISLAND, Skinny Brown"
+2021,3,12,눈누난나 (NUNU NANA),제시 (Jessi),"유건형, PENOMECO, 전병일, PHILL"
+2021,3,13,"Achoo (Feat. pH-1, HAON) (Prod. GroovyRoom)",미란이 (Mirani),"GroovyRoom, pH-1, Mirani"
+2021,3,14,Freak (Prod. Slom),"릴보이 (lIlBOI), 원슈타인 (Wonstein), Chillin Homie (칠린호미), 스카이민혁 (Skyminhyuk)","Slom, Zion.T, GIRIBOY, 박준우"
+2021,3,15,뿌리 (Feat. JUSTHIS) (Prod. GroovyRoom),Khundi Panda (쿤디판다),"GroovyRoom, JUSTHIS"
+2021,3,16,"ON AIR (Feat. 로꼬, 박재범 & GRAY)",릴보이 (lIlBOI),GRAY
+2021,3,17,FLYING HIGH WITH U,빈첸 (VINXEN),안성현
+2021,3,18,FRIENDS (Prod. Slom),"릴보이 (lIlBOI), 원슈타인 (Wonstein)","Slom, lIlBOI, Wonstein"
+2021,3,21,어떤X (What Type of X),제시 (Jessi),"PSY, Jessi, 유건형, 커즈디, JohnJohn, Jaero, DONNA, SPACE ONE"
+2021,3,22,사이렌,호미들 (Homies),"27 corazones, CK, Chin, Louie"
+2021,3,23,악역 (Feat. 이하이 & 사이먼 도미닉) (Prod. 코드 쿤스트),스윙스 (Swings),"CODE KUNST, Pick!, Simon Dominic, 이하이"
+2021,3,24,고독하구만 (Feat. 수퍼비) (Prod. GroovyRoom),머쉬베놈 (MUSHVENOM),"GroovyRoom, MUSHVENOM"
+2021,3,25,우연히 봄,"로꼬 (Loco), 유주 (YUJU)","똘아이박, 피터팬, Noheul"
+2021,3,27,사랑은(Feat.원슈타인),마미손 (Mommy Son),"권한얼, Wonstein, Mommy Son"
+2021,3,29,Beautiful (Feat. Skinny Brown),ASH ISLAND (애쉬 아일랜드),"TOIL, ASH ISLAND, Skinny Brown"
+2021,3,31,"여백의 미 (Feat. Jessi, JUSTHIS) (Prod. GroovyRoom)",머쉬베놈 (MUSHVENOM),"GroovyRoom, MUSHVENOM, Jessi"
+2021,3,32,"Rainy day (Feat. ASH ISLAND, Skinny Brown)",PATEKO (파테코),"PATEKO, ASH ISLAND, Skinny Brown"
+2021,3,33,Joker (Feat. JAMIE),BIG Naughty (서동현),"Noden, hoiwave, BIG Naughty, Sound Kim, JAMIE"
+2021,3,35,그랑프리 (Feat. Beenzino),ASH ISLAND (애쉬 아일랜드),"TOIL, ASH ISLAND, Skinny Brown"
+2021,3,37,Summer Hate (Feat. 비),지코 (ZICO),"ZICO, Poptime"
+2021,3,38,시차 (We Are) (Feat. 로꼬 & GRAY),우원재 (Woo Wonjae),GRAY
+2021,3,42,원해 (Feat. 팔로알토) (Prod. 코드 쿤스트),"스윙스 (Swings), 맥대디 (Mckdaddy), Khakii (카키), 래원 (Layone)","CODE KUNST, Paloalto, Pick!"
+2021,3,43,아름다워,창모 (CHANGMO),CHANGMO
+2021,3,45,멜로디,ASH ISLAND (애쉬 아일랜드),"TOIL, ASH ISLAND, Skinny Brown"
+2021,3,46,"사이렌 Remix (Feat. UNEDUCATED KID, Paul Blanco)",호미들 (Homies),"Chin, 27 corazones"
+2021,3,47,Paranoid,ASH ISLAND (애쉬 아일랜드),"ASH ISLAND, TOIL"
+2021,3,50,Party Forever,사이먼 도미닉 (Simon Dominic),"Slom, Simon Dominic"
+2021,3,51,적외선 카메라,원슈타인 (Wonstein),"Slom, Fisherman, Wonstein, Zion.T"
+2021,3,52,One More Night (Feat. lIlBOI),ASH ISLAND (애쉬 아일랜드),"TOIL, ASH ISLAND, Skinny Brown"
+2021,3,53,Error (Feat. Loopy),ASH ISLAND (애쉬 아일랜드),"TOIL, ASH ISLAND, Skinny Brown"
+2021,3,55,"가다 (Feat. 사이먼 도미닉, The Quiett) (Prod. SLO)",머쉬베놈 (MUSHVENOM),"SLO, MUSHVENOM, TOIL"
+2021,3,57,빌었어,창모 (CHANGMO),CHANGMO
+2021,3,58,우리서로사랑하지는말자,기리보이 (GIRIBOY),"GIRIBOY, vibin"
+2021,3,59,"Rosario (Feat. CL, ZICO)",에픽하이 (EPIK HIGH),"DJ 투컷, Tablo, Mighty Mike, KETA McCUE"
+2021,3,60,꽉 쥔 주먹속의 라이터,호미들 (Homies),"deemarc, CK, Chin, Louie"
+2021,3,61,어땠을까 (Feat. 박정현),싸이 (PSY),"PSY, 유건형"
+2021,3,62,300(prod. Cashbanger),호미들 (Homies),"CK, Chin, Louie, Cashbanger"
+2021,3,63,사랑이었나봐,기리보이 (GIRIBOY),"GIRIBOY, basecamp"
+2021,3,65,옜다,"머쉬베놈 (MUSHVENOM), 저스디스 (JUSTHIS)","GroovyRoom, MUSHVENOM"
+2021,3,68,시공간,기리보이 (GIRIBOY),"GIRIBOY, Fisherman, IOAH"
+2021,3,69,BAND,"창모 (CHANGMO), Hash Swan (해쉬스완), ASH ISLAND (애쉬 아일랜드), 김효은 (Keemhyoeun)",Cashbanger
+2021,3,70,"헤어지지 못하는 여자, 떠나가지 못하는 남자 (Feat. 정인)",리쌍 (LEESSANG),"Leon Russell, Bonnie Bramlett, Delaney Bramlett, 길, PEEJAY"
+2021,3,73,Good Day (Feat. 팔로알토) (Prod. 코드 쿤스트),"pH-1 (피에이치원), 키드밀리 (Kid Milli), 루피 (Loopy)","CODE KUNST, Paloalto, pH-1, Kid Milli, Loopy"
+2021,3,74,도망가,MINO (송민호),"MINO, 강욱진, Diggy"
+2021,3,76,"아마두 (feat.우원재, 김효은, 넉살, Huckleberry P)","염따 (YUMDDA), 딥플로우 (Deepflow), 팔로알토 (Paloalto), The Quiett (더 콰이엇), 사이먼 도미닉 (Simon Dominic)","noisemasterminsu, YUMDDA, Deepflow, 김효은, Huckleberry P"
+2021,3,77,Officially Missing You,긱스 (Geeks),7 Aurelius
+2021,3,78,"Checks (Feat. 수퍼비, 박재범 & The Quiett)",ASH ISLAND (애쉬 아일랜드),"TOIL, ASH ISLAND, Skinny Brown"
+2021,3,79,부어라 비워라 (Tricker) (Prod. GroovyRoom),머쉬베놈 (MUSHVENOM),"GroovyRoom, MUSHVENOM"
+2021,3,80,악몽,ASH ISLAND (애쉬 아일랜드),TOIL
+2021,3,82,Trip (Feat. Hannah),릴러말즈 (Leellamarz),"TOIL, Leellamarz, Smob"
+2021,3,86,"And July (Feat. DEAN, DJ Friz)",헤이즈 (Heize),"Deanfluenza, Hyuk Shin, J Bird, Esta, Delly Boi, DK"
+2021,3,87,Selfmade Orange (Feat. SUPERBEE),창모 (CHANGMO),CHANGMO
+2021,3,88,널 너무 모르고,헤이즈 (Heize),GroovyRoom
+2021,3,91,GONE (Feat. Paloalto) (Prod. TOIL),"릴러말즈 (Leellamarz), TOIL (토일)","TOIL, Leellamarz, J Way"
+2021,3,92,OKAY (Feat. 스윙스),ASH ISLAND (애쉬 아일랜드),"TOIL, ASH ISLAND, Skinny Brown"
+2021,3,93,Nerdy Love (Feat. 백예린),pH-1 (피에이치원),"Mokyo, Jetti, pH-1, Yerin Baek"
+2021,3,94,내 얘기 같아 (Feat. 헤이즈),에픽하이 (EPIK HIGH),"Tablo, DJ 투컷, RYU YOUNG MIN"
+2021,3,99,400km (Feat. Kid Milli),한요한 (HANYOHAN),"Minit, HANYOHAN"
+2021,4,1,VVS (Feat. JUSTHIS) (Prod. GroovyRoom),"미란이 (Mirani), 먼치맨(MUNCHMAN), Khundi Panda (쿤디판다), 머쉬베놈 (MUSHVENOM)","GroovyRoom, JUSTHIS, Sik-K"
+2021,4,2,METEOR,창모 (CHANGMO),CHANGMO
+2021,4,6,멜로디,ASH ISLAND (애쉬 아일랜드),"TOIL, ASH ISLAND, Skinny Brown"
+2021,4,7,"내일이 오면 (Feat. 기리보이, BIG Naughty (서동현))",릴보이 (lIlBOI),"Minit, GIRIBOY, lIlBOI, BIG Naughty, Slom, 박준우, Fisherman"
+2021,4,8,어떤X (What Type of X),제시 (Jessi),"PSY, Jessi, 유건형, 커즈디, JohnJohn, Jaero, DONNA, SPACE ONE"
+2021,4,9,Downtown Baby,블루 (BLOO),"ROCK IT PRODUCTIONS, BLOO"
+2021,4,10,"사이렌 Remix (Feat. UNEDUCATED KID, Paul Blanco)",호미들 (Homies),"Chin, 27 corazones"
+2021,4,11,아무노래,지코 (ZICO),"ZICO, Poptime"
+2021,4,12,눈누난나 (NUNU NANA),제시 (Jessi),"유건형, PENOMECO, 전병일, PHILL"
+2021,4,13,"CREDIT (Feat. 염따, 기리보이, Zion.T)",릴보이 (lIlBOI),"Slom, Fisherman, lIlBOI, YUMDDA, Zion.T"
+2021,4,14,사이렌,호미들 (Homies),"27 corazones, CK, Chin, Louie"
+2021,4,16,우연히 봄,"로꼬 (Loco), 유주 (YUJU)","똘아이박, 피터팬, Noheul"
+2021,4,18,"Achoo (Feat. pH-1, HAON) (Prod. GroovyRoom)",미란이 (Mirani),"GroovyRoom, pH-1, Mirani"
+2021,4,20,Freak (Prod. Slom),"릴보이 (lIlBOI), 원슈타인 (Wonstein), Chillin Homie (칠린호미), 스카이민혁 (Skyminhyuk)","Slom, Zion.T, GIRIBOY, 박준우"
+2021,4,21,뿌리 (Feat. JUSTHIS) (Prod. GroovyRoom),Khundi Panda (쿤디판다),"GroovyRoom, JUSTHIS"
+2021,4,22,Daisy (Feat. pH-1),미란이 (Mirani),"Mirani, The Kontrabandz, Moon Sujin, GroovyRoom"
+2021,4,23,"ON AIR (Feat. 로꼬, 박재범 & GRAY)",릴보이 (lIlBOI),GRAY
+2021,4,24,FLYING HIGH WITH U,빈첸 (VINXEN),안성현
+2021,4,25,사랑은(Feat.원슈타인),마미손 (Mommy Son),"권한얼, Wonstein, Mommy Son"
+2021,4,26,"Rainy day (Feat. ASH ISLAND, Skinny Brown)",PATEKO (파테코),"PATEKO, ASH ISLAND, Skinny Brown"
+2021,4,27,Beautiful (Feat. Skinny Brown),ASH ISLAND (애쉬 아일랜드),"TOIL, ASH ISLAND, Skinny Brown"
+2021,4,28,가습기,한요한 (HANYOHAN),"HANYOHAN, Heondred, Minit"
+2021,4,30,악역 (Feat. 이하이 & 사이먼 도미닉) (Prod. 코드 쿤스트),스윙스 (Swings),"CODE KUNST, Pick!, Simon Dominic, 이하이"
+2021,4,32,밤이 되면,"사이먼 도미닉 (Simon Dominic), 로꼬 (Loco)","noisemasterminsu, IMEANSEOUL, FLIP_00, Hyeon, Sean, Simon Dominic, Loco"
+2021,4,33,FRIENDS (Prod. Slom),"릴보이 (lIlBOI), 원슈타인 (Wonstein)","Slom, lIlBOI, Wonstein"
+2021,4,34,고독하구만 (Feat. 수퍼비) (Prod. GroovyRoom),머쉬베놈 (MUSHVENOM),"GroovyRoom, MUSHVENOM"
+2021,4,36,Paranoid,ASH ISLAND (애쉬 아일랜드),"ASH ISLAND, TOIL"
+2021,4,37,Cold (Feat. 수퍼비) (Prod. Way Ched),D.Ark (디아크),"Way Ched, D.Ark"
+2021,4,39,경우의 수 (Feat. CHANGMO) (Prod. Way Ched),"D.Ark (디아크), Baggie (배기)","Way Ched, CHANGMO, D.Ark, Baggie"
+2021,4,40,아름다워,창모 (CHANGMO),CHANGMO
+2021,4,41,Summer Hate (Feat. 비),지코 (ZICO),"ZICO, Poptime"
+2021,4,42,시차 (We Are) (Feat. 로꼬 & GRAY),우원재 (Woo Wonjae),GRAY
+2021,4,43,BACKPACK (Feat. CHANGMO) (Prod. Way Ched),"강서빈 (YUNG CHENS), TRADE L (트레이드 엘), Baggie (배기), D.Ark (디아크)","CHANGMO, Way Ched"
+2021,4,44,"여백의 미 (Feat. Jessi, JUSTHIS) (Prod. GroovyRoom)",머쉬베놈 (MUSHVENOM),"GroovyRoom, MUSHVENOM, Jessi"
+2021,4,46,300(prod. Cashbanger),호미들 (Homies),"CK, Chin, Louie, Cashbanger"
+2021,4,48,Error (Feat. Loopy),ASH ISLAND (애쉬 아일랜드),"TOIL, ASH ISLAND, Skinny Brown"
+2021,4,50,시공간,기리보이 (GIRIBOY),"GIRIBOY, Fisherman, IOAH"
+2021,4,51,꽉 쥔 주먹속의 라이터,호미들 (Homies),"deemarc, CK, Chin, Louie"
+2021,4,53,빌었어,창모 (CHANGMO),CHANGMO
+2021,4,55,도망가,MINO (송민호),"MINO, 강욱진, Diggy"
+2021,4,57,우리서로사랑하지는말자,기리보이 (GIRIBOY),"GIRIBOY, vibin"
+2021,4,58,어땠을까 (Feat. 박정현),싸이 (PSY),"PSY, 유건형"
+2021,4,59,BAND,"창모 (CHANGMO), Hash Swan (해쉬스완), ASH ISLAND (애쉬 아일랜드), 김효은 (Keemhyoeun)",Cashbanger
+2021,4,60,사임쌓임,"Chin (친), 수퍼비 (SUPERBEE), CK (씨케이), UNEDUCATED KID (언에듀케이티드 키드)","ross gossage, Chin"
+2021,4,63,악몽,ASH ISLAND (애쉬 아일랜드),TOIL
+2021,4,64,멜로디,ASH ISLAND (애쉬 아일랜드),"TOIL, ASH ISLAND, Skinny Brown"
+2021,4,67,"헤어지지 못하는 여자, 떠나가지 못하는 남자 (Feat. 정인)",리쌍 (LEESSANG),"Leon Russell, Bonnie Bramlett, Delaney Bramlett, 길, PEEJAY"
+2021,4,68,원해 (Feat. 팔로알토) (Prod. 코드 쿤스트),"스윙스 (Swings), 맥대디 (Mckdaddy), Khakii (카키), 래원 (Layone)","CODE KUNST, Paloalto, Pick!"
+2021,4,69,적외선 카메라,원슈타인 (Wonstein),"Slom, Fisherman, Wonstein, Zion.T"
+2021,4,70,"GREEN LIGHT (Feat. 박재범, pH-1) (Prod. WOOGIE)","박현진 (PARK HYEON JIN), Lil Bemo (김다현), YLN Foreign (이정운), 플루마 (PLUMA)","Jay Park, pH-1, WOOGIE"
+2021,4,71,400km (Feat. Kid Milli),한요한 (HANYOHAN),"Minit, HANYOHAN"
+2021,4,73,Good Day (Feat. 팔로알토) (Prod. 코드 쿤스트),"pH-1 (피에이치원), 키드밀리 (Kid Milli), 루피 (Loopy)","CODE KUNST, Paloalto, pH-1, Kid Milli, Loopy"
+2021,4,74,Trip (Feat. Hannah),릴러말즈 (Leellamarz),"TOIL, Leellamarz, Smob"
+2021,4,75,Joker (Feat. JAMIE),BIG Naughty (서동현),"Noden, hoiwave, BIG Naughty, Sound Kim, JAMIE"
+2021,4,77,녹아줄게,"노윤하 (Roh Yoonha), YoBoy (강요셉)","GRAY, DAX, FIFTYFIVE, Roh Yoonha, YoBoy, Simon Dominic"
+2021,4,79,그랑프리 (Feat. Beenzino),ASH ISLAND (애쉬 아일랜드),"TOIL, ASH ISLAND, Skinny Brown"
+2021,4,81,Selfmade Orange (Feat. SUPERBEE),창모 (CHANGMO),CHANGMO
+2021,4,84,Officially Missing You,긱스 (Geeks),7 Aurelius
+2021,4,85,GONE (Feat. Paloalto) (Prod. TOIL),"릴러말즈 (Leellamarz), TOIL (토일)","TOIL, Leellamarz, J Way"
+2021,4,86,"And July (Feat. DEAN, DJ Friz)",헤이즈 (Heize),"Deanfluenza, Hyuk Shin, J Bird, Esta, Delly Boi, DK"
+2021,4,87,Nerdy Love (Feat. 백예린),pH-1 (피에이치원),"Mokyo, Jetti, pH-1, Yerin Baek"
+2021,4,88,"아마두 (feat.우원재, 김효은, 넉살, Huckleberry P)","염따 (YUMDDA), 딥플로우 (Deepflow), 팔로알토 (Paloalto), The Quiett (더 콰이엇), 사이먼 도미닉 (Simon Dominic)","noisemasterminsu, YUMDDA, Deepflow, 김효은, Huckleberry P"
+2021,4,89,엘리자베스,"황세현 (h3hyeon), JAEHA (재하), obiegogle(오비고글), Choo (추)","Kid Wine, h3hyeon, YUMDDA, The Quiett"
+2021,4,90,Chris Brown Moves,"황세현 (h3hyeon), JAEHA (재하)","anti social kid, Theevoni, FRANKIEONTHEGUITAR, h3hyeon, JAEHA, The Quiett"
+2021,4,94,이모티콘,"Touch the Sky (터치더스카이), Vapo (허원혁)","GRAY, DAX, Chrli, Touch the Sky"
+2021,4,96,한여름밤의 꿀,"San E (산이), 레이나 (Raina)","San E, 코스믹 사운드"
+2021,4,97,WORK!,"Lil Bemo (김다현), 박현진 (PARK HYEON JIN)","WOOGIE, Jay Park, pH-1"
+2021,4,98,Y (Please Tell Me Why),프리스타일 (Free Style),지오
+2021,4,99,우산 (Feat. 윤하),에픽하이 (EPIK HIGH),Tablo
+2021,4,100,"가다 (Feat. 사이먼 도미닉, The Quiett) (Prod. SLO)",머쉬베놈 (MUSHVENOM),"SLO, MUSHVENOM, TOIL"
+2021,5,2,멜로디,ASH ISLAND (애쉬 아일랜드),"TOIL, ASH ISLAND, Skinny Brown"
+2021,5,3,"사이렌 Remix (Feat. UNEDUCATED KID, Paul Blanco)",호미들 (Homies),"Chin, 27 corazones"
+2021,5,4,VVS (Feat. JUSTHIS) (Prod. GroovyRoom),"미란이 (Mirani), 먼치맨(MUNCHMAN), Khundi Panda (쿤디판다), 머쉬베놈 (MUSHVENOM)","GroovyRoom, JUSTHIS, Sik-K"
+2021,5,5,METEOR,창모 (CHANGMO),CHANGMO
+2021,5,9,"내일이 오면 (Feat. 기리보이, BIG Naughty (서동현))",릴보이 (lIlBOI),"Minit, GIRIBOY, lIlBOI, BIG Naughty, Slom, 박준우, Fisherman"
+2021,5,10,Downtown Baby,블루 (BLOO),"ROCK IT PRODUCTIONS, BLOO"
+2021,5,12,사이렌,호미들 (Homies),"27 corazones, CK, Chin, Louie"
+2021,5,13,어떤X (What Type of X),제시 (Jessi),"PSY, Jessi, 유건형, 커즈디, JohnJohn, Jaero, DONNA, SPACE ONE"
+2021,5,14,아무노래,지코 (ZICO),"ZICO, Poptime"
+2021,5,16,"Rainy day (Feat. ASH ISLAND, Skinny Brown)",PATEKO (파테코),"PATEKO, ASH ISLAND, Skinny Brown"
+2021,5,17,눈누난나 (NUNU NANA),제시 (Jessi),"유건형, PENOMECO, 전병일, PHILL"
+2021,5,18,365&7 (Feat. JAMIE),pH-1 (피에이치원),"TOIL, pH-1, JAMIE"
+2021,5,19,"CREDIT (Feat. 염따, 기리보이, Zion.T)",릴보이 (lIlBOI),"Slom, Fisherman, lIlBOI, YUMDDA, Zion.T"
+2021,5,20,사랑은(Feat.원슈타인),마미손 (Mommy Son),"권한얼, Wonstein, Mommy Son"
+2021,5,23,Freak (Prod. Slom),"릴보이 (lIlBOI), 원슈타인 (Wonstein), Chillin Homie (칠린호미), 스카이민혁 (Skyminhyuk)","Slom, Zion.T, GIRIBOY, 박준우"
+2021,5,24,"Achoo (Feat. pH-1, HAON) (Prod. GroovyRoom)",미란이 (Mirani),"GroovyRoom, pH-1, Mirani"
+2021,5,25,뿌리 (Feat. JUSTHIS) (Prod. GroovyRoom),Khundi Panda (쿤디판다),"GroovyRoom, JUSTHIS"
+2021,5,26,신경꺼,ASH ISLAND (애쉬 아일랜드),"TOIL, HIPPO, ASH ISLAND, Skinny Brown"
+2021,5,27,우연히 봄,"로꼬 (Loco), 유주 (YUJU)","똘아이박, 피터팬, Noheul"
+2021,5,29,Paranoid,ASH ISLAND (애쉬 아일랜드),"ASH ISLAND, TOIL"
+2021,5,30,Beautiful (Feat. Skinny Brown),ASH ISLAND (애쉬 아일랜드),"TOIL, ASH ISLAND, Skinny Brown"
+2021,5,32,FRIENDS (Prod. Slom),"릴보이 (lIlBOI), 원슈타인 (Wonstein)","Slom, lIlBOI, Wonstein"
+2021,5,35,300(prod. Cashbanger),호미들 (Homies),"CK, Chin, Louie, Cashbanger"
+2021,5,37,"ON AIR (Feat. 로꼬, 박재범 & GRAY)",릴보이 (lIlBOI),GRAY
+2021,5,39,Do My Best (Feat. 제시) (Prod. Way Ched),D.Ark (디아크),"Way Ched, CHANGMO, D.Ark"
+2021,5,40,시차 (We Are) (Feat. 로꼬 & GRAY),우원재 (Woo Wonjae),GRAY
+2021,5,41,아름다워,창모 (CHANGMO),CHANGMO
+2021,5,42,Daisy (Feat. pH-1),미란이 (Mirani),"Mirani, The Kontrabandz, Moon Sujin, GroovyRoom"
+2021,5,43,Summer Hate (Feat. 비),지코 (ZICO),"ZICO, Poptime"
+2021,5,46,꽉 쥔 주먹속의 라이터,호미들 (Homies),"deemarc, CK, Chin, Louie"
+2021,5,47,사임쌓임,"Chin (친), 수퍼비 (SUPERBEE), CK (씨케이), UNEDUCATED KID (언에듀케이티드 키드)","ross gossage, Chin"
+2021,5,48,Error (Feat. Loopy),ASH ISLAND (애쉬 아일랜드),"TOIL, ASH ISLAND, Skinny Brown"
+2021,5,49,악역 (Feat. 이하이 & 사이먼 도미닉) (Prod. 코드 쿤스트),스윙스 (Swings),"CODE KUNST, Pick!, Simon Dominic, 이하이"
+2021,5,50,FLYING HIGH WITH U,빈첸 (VINXEN),안성현
+2021,5,51,고독하구만 (Feat. 수퍼비) (Prod. GroovyRoom),머쉬베놈 (MUSHVENOM),"GroovyRoom, MUSHVENOM"
+2021,5,53,적외선 카메라,원슈타인 (Wonstein),"Slom, Fisherman, Wonstein, Zion.T"
+2021,5,54,우리서로사랑하지는말자,기리보이 (GIRIBOY),"GIRIBOY, vibin"
+2021,5,55,악몽,ASH ISLAND (애쉬 아일랜드),TOIL
+2021,5,56,GENIUS (Feat. 창모),D.Ark (디아크),"D.Ark, PSY, 유건형, APRO"
+2021,5,57,빌었어,창모 (CHANGMO),CHANGMO
+2021,5,58,Cold (Feat. 수퍼비) (Prod. Way Ched),D.Ark (디아크),"Way Ched, D.Ark"
+2021,5,59,BAND,"창모 (CHANGMO), Hash Swan (해쉬스완), ASH ISLAND (애쉬 아일랜드), 김효은 (Keemhyoeun)",Cashbanger
+2021,5,60,어땠을까 (Feat. 박정현),싸이 (PSY),"PSY, 유건형"
+2021,5,61,"헤어지지 못하는 여자, 떠나가지 못하는 남자 (Feat. 정인)",리쌍 (LEESSANG),"Leon Russell, Bonnie Bramlett, Delaney Bramlett, 길, PEEJAY"
+2021,5,65,"And July (Feat. DEAN, DJ Friz)",헤이즈 (Heize),"Deanfluenza, Hyuk Shin, J Bird, Esta, Delly Boi, DK"
+2021,5,66,"여백의 미 (Feat. Jessi, JUSTHIS) (Prod. GroovyRoom)",머쉬베놈 (MUSHVENOM),"GroovyRoom, MUSHVENOM, Jessi"
+2021,5,68,Trip (Feat. Hannah),릴러말즈 (Leellamarz),"TOIL, Leellamarz, Smob"
+2021,5,69,널 너무 모르고,헤이즈 (Heize),GroovyRoom
+2021,5,70,우산 (Feat. 윤하),에픽하이 (EPIK HIGH),Tablo
+2021,5,71,400km (Feat. Kid Milli),한요한 (HANYOHAN),"Minit, HANYOHAN"
+2021,5,72,Y (Please Tell Me Why),프리스타일 (Free Style),지오
+2021,5,73,한여름밤의 꿀,"San E (산이), 레이나 (Raina)","San E, 코스믹 사운드"
+2021,5,74,자니 (Feat. Dynamic Duo),프라이머리 (Primary),"GAEKO, Primary"
+2021,5,75,굿모닝 (Feat. 원슈타인),"버벌진트 (Verbal Jint), 한해 (HANHAE)","Verbal Jint, 리시"
+2021,5,78,Good Day (Feat. 팔로알토) (Prod. 코드 쿤스트),"pH-1 (피에이치원), 키드밀리 (Kid Milli), 루피 (Loopy)","CODE KUNST, Paloalto, pH-1, Kid Milli, Loopy"
+2021,5,79,GONE (Feat. Paloalto) (Prod. TOIL),"릴러말즈 (Leellamarz), TOIL (토일)","TOIL, Leellamarz, J Way"
+2021,5,81,멜로디,ASH ISLAND (애쉬 아일랜드),"TOIL, ASH ISLAND, Skinny Brown"
+2021,5,82,Nerdy Love (Feat. 백예린),pH-1 (피에이치원),"Mokyo, Jetti, pH-1, Yerin Baek"
+2021,5,83,Selfmade Orange (Feat. SUPERBEE),창모 (CHANGMO),CHANGMO
+2021,5,84,Bk Love (feat. 이해리 of 다비치),MC 스나이퍼 (MC Sniper),"MC Sniper, Acade"
+2021,5,85,도망가,MINO (송민호),"MINO, 강욱진, Diggy"
+2021,5,87,"아마두 (feat.우원재, 김효은, 넉살, Huckleberry P)","염따 (YUMDDA), 딥플로우 (Deepflow), 팔로알토 (Paloalto), The Quiett (더 콰이엇), 사이먼 도미닉 (Simon Dominic)","noisemasterminsu, YUMDDA, Deepflow, 김효은, Huckleberry P"
+2021,5,88,가습기,한요한 (HANYOHAN),"HANYOHAN, Heondred, Minit"
+2021,5,89,인생은 나쁜X,비비 (BIBI),"stevenc4stle, BIBI"
+2021,5,90,Officially Missing You,긱스 (Geeks),7 Aurelius
+2021,5,92,Joker (Feat. JAMIE),BIG Naughty (서동현),"Noden, hoiwave, BIG Naughty, Sound Kim, JAMIE"
+2021,5,93,루이비똥 허리 (prod. Kidstone),호미들 (Homies),"CK, Chin, Louie, Kidstone"
+2021,5,99,"Ooh Wah (Feat. CHANGMO, 원슈타인) (Prod. Way Ched)",TRADE L (트레이드 엘),"Way Ched, CHANGMO"
+2021,5,100,원해 (Feat. 팔로알토) (Prod. 코드 쿤스트),"스윙스 (Swings), 맥대디 (Mckdaddy), Khakii (카키), 래원 (Layone)","CODE KUNST, Paloalto, Pick!"
+2021,6,1,"사이렌 Remix (Feat. UNEDUCATED KID, Paul Blanco)",호미들 (Homies),"Chin, 27 corazones"
+2021,6,2,멜로디,ASH ISLAND (애쉬 아일랜드),"TOIL, ASH ISLAND, Skinny Brown"
+2021,6,4,VVS (Feat. JUSTHIS) (Prod. GroovyRoom),"미란이 (Mirani), 먼치맨(MUNCHMAN), Khundi Panda (쿤디판다), 머쉬베놈 (MUSHVENOM)","GroovyRoom, JUSTHIS, Sik-K"
+2021,6,7,METEOR,창모 (CHANGMO),CHANGMO
+2021,6,10,Downtown Baby,블루 (BLOO),"ROCK IT PRODUCTIONS, BLOO"
+2021,6,11,"내일이 오면 (Feat. 기리보이, BIG Naughty (서동현))",릴보이 (lIlBOI),"Minit, GIRIBOY, lIlBOI, BIG Naughty, Slom, 박준우, Fisherman"
+2021,6,12,사이렌,호미들 (Homies),"27 corazones, CK, Chin, Louie"
+2021,6,14,"Rainy day (Feat. ASH ISLAND, Skinny Brown)",PATEKO (파테코),"PATEKO, ASH ISLAND, Skinny Brown"
+2021,6,15,아무노래,지코 (ZICO),"ZICO, Poptime"
+2021,6,20,눈누난나 (NUNU NANA),제시 (Jessi),"유건형, PENOMECO, 전병일, PHILL"
+2021,6,22,사랑은(Feat.원슈타인),마미손 (Mommy Son),"권한얼, Wonstein, Mommy Son"
+2021,6,24,시차 (We Are) (Feat. 로꼬 & GRAY),우원재 (Woo Wonjae),GRAY
+2021,6,25,어떤X (What Type of X),제시 (Jessi),"PSY, Jessi, 유건형, 커즈디, JohnJohn, Jaero, DONNA, SPACE ONE"
+2021,6,26,루이비똥 허리 (prod. Kidstone),호미들 (Homies),"CK, Chin, Louie, Kidstone"
+2021,6,27,널 너무 모르고,헤이즈 (Heize),GroovyRoom
+2021,6,28,"CREDIT (Feat. 염따, 기리보이, Zion.T)",릴보이 (lIlBOI),"Slom, Fisherman, lIlBOI, YUMDDA, Zion.T"
+2021,6,29,300(prod. Cashbanger),호미들 (Homies),"CK, Chin, Louie, Cashbanger"
+2021,6,30,Summer Hate (Feat. 비),지코 (ZICO),"ZICO, Poptime"
+2021,6,31,Paranoid,ASH ISLAND (애쉬 아일랜드),"ASH ISLAND, TOIL"
+2021,6,32,"And July (Feat. DEAN, DJ Friz)",헤이즈 (Heize),"Deanfluenza, Hyuk Shin, J Bird, Esta, Delly Boi, DK"
+2021,6,33,Beautiful (Feat. Skinny Brown),ASH ISLAND (애쉬 아일랜드),"TOIL, ASH ISLAND, Skinny Brown"
+2021,6,34,Freak (Prod. Slom),"릴보이 (lIlBOI), 원슈타인 (Wonstein), Chillin Homie (칠린호미), 스카이민혁 (Skyminhyuk)","Slom, Zion.T, GIRIBOY, 박준우"
+2021,6,37,뿌리 (Feat. JUSTHIS) (Prod. GroovyRoom),Khundi Panda (쿤디판다),"GroovyRoom, JUSTHIS"
+2021,6,38,아름다워,창모 (CHANGMO),CHANGMO
+2021,6,39,사임쌓임,"Chin (친), 수퍼비 (SUPERBEE), CK (씨케이), UNEDUCATED KID (언에듀케이티드 키드)","ross gossage, Chin"
+2021,6,40,"Achoo (Feat. pH-1, HAON) (Prod. GroovyRoom)",미란이 (Mirani),"GroovyRoom, pH-1, Mirani"
+2021,6,41,One More Night (Feat. lIlBOI),ASH ISLAND (애쉬 아일랜드),"TOIL, ASH ISLAND, Skinny Brown"
+2021,6,42,DIE DIE (Feat. 최엘비) (스터디그룹 X 기리보이),기리보이 (GIRIBOY),"GIRIBOY, vibin"
+2021,6,43,OHAYO MY NIGHT,"디핵 (D-Hack), PATEKO (파테코)","PATEKO, D-Hack"
+2021,6,44,돌아오지마 (Feat. 용준형 Of 비스트),헤이즈 (Heize),"Heize, 브라더수"
+2021,6,45,GENIUS (Feat. 창모),D.Ark (디아크),"D.Ark, PSY, 유건형, APRO"
+2021,6,46,한여름밤의 꿀,"San E (산이), 레이나 (Raina)","San E, 코스믹 사운드"
+2021,6,48,FRIENDS (Prod. Slom),"릴보이 (lIlBOI), 원슈타인 (Wonstein)","Slom, lIlBOI, Wonstein"
+2021,6,49,Error (Feat. Loopy),ASH ISLAND (애쉬 아일랜드),"TOIL, ASH ISLAND, Skinny Brown"
+2021,6,50,꽉 쥔 주먹속의 라이터,호미들 (Homies),"deemarc, CK, Chin, Louie"
+2021,6,51,우연히 봄,"로꼬 (Loco), 유주 (YUJU)","똘아이박, 피터팬, Noheul"
+2021,6,52,"ON AIR (Feat. 로꼬, 박재범 & GRAY)",릴보이 (lIlBOI),GRAY
+2021,6,53,365&7 (Feat. JAMIE),pH-1 (피에이치원),"TOIL, pH-1, JAMIE"
+2021,6,54,어땠을까 (Feat. 박정현),싸이 (PSY),"PSY, 유건형"
+2021,6,55,Y (Please Tell Me Why),프리스타일 (Free Style),지오
+2021,6,56,"헤어지지 못하는 여자, 떠나가지 못하는 남자 (Feat. 정인)",리쌍 (LEESSANG),"Leon Russell, Bonnie Bramlett, Delaney Bramlett, 길, PEEJAY"
+2021,6,57,우리서로사랑하지는말자,기리보이 (GIRIBOY),"GIRIBOY, vibin"
+2021,6,58,HEAT,"릴보이 (lIlBOI), 원슈타인 (Wonstein), 미란이 (Mirani)",Slom
+2021,6,60,궁금해 (Prod. GRAY),"박재범 (Jay Park), Don Mills (던밀스), 로꼬 (Loco), 넉살 (Nucksal)","GRAY, Jay Park, DAX, Chrli, Don Mills, Loco, Nucksal"
+2021,6,61,신경꺼,ASH ISLAND (애쉬 아일랜드),"TOIL, HIPPO, ASH ISLAND, Skinny Brown"
+2021,6,63,Trip (Feat. Hannah),릴러말즈 (Leellamarz),"TOIL, Leellamarz, Smob"
+2021,6,64,BAND,"창모 (CHANGMO), Hash Swan (해쉬스완), ASH ISLAND (애쉬 아일랜드), 김효은 (Keemhyoeun)",Cashbanger
+2021,6,65,빌었어,창모 (CHANGMO),CHANGMO
+2021,6,67,끝 (prod. Kidstone),호미들 (Homies),"CK, Chin, Louie, Kidstone"
+2021,6,68,악역 (Feat. 이하이 & 사이먼 도미닉) (Prod. 코드 쿤스트),스윙스 (Swings),"CODE KUNST, Pick!, Simon Dominic, 이하이"
+2021,6,70,악몽,ASH ISLAND (애쉬 아일랜드),TOIL
+2021,6,71,자니 (Feat. Dynamic Duo),프라이머리 (Primary),"GAEKO, Primary"
+2021,6,73,400km (Feat. Kid Milli),한요한 (HANYOHAN),"Minit, HANYOHAN"
+2021,6,74,우산 (Feat. 윤하),에픽하이 (EPIK HIGH),Tablo
+2021,6,76,Good Day (Feat. 팔로알토) (Prod. 코드 쿤스트),"pH-1 (피에이치원), 키드밀리 (Kid Milli), 루피 (Loopy)","CODE KUNST, Paloalto, pH-1, Kid Milli, Loopy"
+2021,6,77,고독하구만 (Feat. 수퍼비) (Prod. GroovyRoom),머쉬베놈 (MUSHVENOM),"GroovyRoom, MUSHVENOM"
+2021,6,78,Daisy (Feat. pH-1),미란이 (Mirani),"Mirani, The Kontrabandz, Moon Sujin, GroovyRoom"
+2021,6,80,Selfmade Orange (Feat. SUPERBEE),창모 (CHANGMO),CHANGMO
+2021,6,81,"존시나 (Feat. Northfacegawd, JUSTHIS, 래원)",염따 (YUMDDA),"YUMDDA, DJ co.kr, VENKO, H4RDY"
+2021,6,82,적외선 카메라,원슈타인 (Wonstein),"Slom, Fisherman, Wonstein, Zion.T"
+2021,6,83,FLYING HIGH WITH U,빈첸 (VINXEN),안성현
+2021,6,84,GONE (Feat. Paloalto) (Prod. TOIL),"릴러말즈 (Leellamarz), TOIL (토일)","TOIL, Leellamarz, J Way"
+2021,6,86,"털어! (Feat. M1NU, Veinyfl, Swervy, 래원, 이영지, Lil Nekh, D.Ark)",BIG Naughty (서동현),"BMTJ, BIG Naughty"
+2021,6,87,그땐 그땐 그땐,"Supreme Team (슈프림팀), 영준 (YOUNG JUN)","김건우, 송기홍"
+2021,6,90,Nerdy Love (Feat. 백예린),pH-1 (피에이치원),"Mokyo, Jetti, pH-1, Yerin Baek"
+2021,6,91,"아마두 (feat.우원재, 김효은, 넉살, Huckleberry P)","염따 (YUMDDA), 딥플로우 (Deepflow), 팔로알토 (Paloalto), The Quiett (더 콰이엇), 사이먼 도미닉 (Simon Dominic)","noisemasterminsu, YUMDDA, Deepflow, 김효은, Huckleberry P"
+2021,6,92,"여백의 미 (Feat. Jessi, JUSTHIS) (Prod. GroovyRoom)",머쉬베놈 (MUSHVENOM),"GroovyRoom, MUSHVENOM, Jessi"
+2021,6,94,Jenga (Feat. Gaeko),헤이즈 (Heize),"Heize, DAVII"
+2021,6,95,Officially Missing You,긱스 (Geeks),7 Aurelius
+2021,6,97,뜨거운 안녕 (Feat. 성시경),싸이 (PSY),"유희열, 김태훈, 유건형"
+2021,6,98,교통정리 (Feat. 헤이즈),기리보이 (GIRIBOY),"GIRIBOY, Heize, basecamp"
+2021,6,99,도망가,MINO (송민호),"MINO, 강욱진, Diggy"
+2021,7,1,"사이렌 Remix (Feat. UNEDUCATED KID, Paul Blanco)",호미들 (Homies),"Chin, 27 corazones"
+2021,7,2,멜로디,ASH ISLAND (애쉬 아일랜드),"TOIL, ASH ISLAND, Skinny Brown"
+2021,7,3,비 오는 날 듣기 좋은 노래 (Feat. Colde),에픽하이 (EPIK HIGH),"Tablo, DJ 투컷"
+2021,7,5,OHAYO MY NIGHT,"디핵 (D-Hack), PATEKO (파테코)","PATEKO, D-Hack"
+2021,7,8,VVS (Feat. JUSTHIS) (Prod. GroovyRoom),"미란이 (Mirani), 먼치맨(MUNCHMAN), Khundi Panda (쿤디판다), 머쉬베놈 (MUSHVENOM)","GroovyRoom, JUSTHIS, Sik-K"
+2021,7,9,METEOR,창모 (CHANGMO),CHANGMO
+2021,7,11,러브(Prod.로코베리),"로꼬 (Loco), 이성경 (Lee sung kyung)","로코, 베리, Loco, 로코베리"
+2021,7,13,한여름밤의 꿀 : 다시 여름,"San E (산이), 레이나 (Raina)","코스믹 사운드, San E, nomad, On the road"
+2021,7,15,Downtown Baby,블루 (BLOO),"ROCK IT PRODUCTIONS, BLOO"
+2021,7,16,잡아줄게 (Carabiner),"ASH ISLAND (애쉬 아일랜드), 그루비룸 (GroovyRoom)","ASH ISLAND, GroovyRoom, GEMINI"
+2021,7,18,"Rainy day (Feat. ASH ISLAND, Skinny Brown)",PATEKO (파테코),"PATEKO, ASH ISLAND, Skinny Brown"
+2021,7,19,"내일이 오면 (Feat. 기리보이, BIG Naughty (서동현))",릴보이 (lIlBOI),"Minit, GIRIBOY, lIlBOI, BIG Naughty, Slom, 박준우, Fisherman"
+2021,7,21,사이렌,호미들 (Homies),"27 corazones, CK, Chin, Louie"
+2021,7,24,아무노래,지코 (ZICO),"ZICO, Poptime"
+2021,7,26,한여름밤의 꿀,"San E (산이), 레이나 (Raina)","San E, 코스믹 사운드"
+2021,7,28,Summer Hate (Feat. 비),지코 (ZICO),"ZICO, Poptime"
+2021,7,29,눈누난나 (NUNU NANA),제시 (Jessi),"유건형, PENOMECO, 전병일, PHILL"
+2021,7,30,사랑은(Feat.원슈타인),마미손 (Mommy Son),"권한얼, Wonstein, Mommy Son"
+2021,7,31,시차 (We Are) (Feat. 로꼬 & GRAY),우원재 (Woo Wonjae),GRAY
+2021,7,33,루이비똥 허리 (prod. Kidstone),호미들 (Homies),"CK, Chin, Louie, Kidstone"
+2021,7,34,300(prod. Cashbanger),호미들 (Homies),"CK, Chin, Louie, Cashbanger"
+2021,7,35,Paranoid,ASH ISLAND (애쉬 아일랜드),"ASH ISLAND, TOIL"
+2021,7,37,사임쌓임,"Chin (친), 수퍼비 (SUPERBEE), CK (씨케이), UNEDUCATED KID (언에듀케이티드 키드)","ross gossage, Chin"
+2021,7,38,"And July (Feat. DEAN, DJ Friz)",헤이즈 (Heize),"Deanfluenza, Hyuk Shin, J Bird, Esta, Delly Boi, DK"
+2021,7,39,One More Night (Feat. lIlBOI),ASH ISLAND (애쉬 아일랜드),"TOIL, ASH ISLAND, Skinny Brown"
+2021,7,40,Beautiful (Feat. Skinny Brown),ASH ISLAND (애쉬 아일랜드),"TOIL, ASH ISLAND, Skinny Brown"
+2021,7,41,"CREDIT (Feat. 염따, 기리보이, Zion.T)",릴보이 (lIlBOI),"Slom, Fisherman, lIlBOI, YUMDDA, Zion.T"
+2021,7,42,"너랑 달라 (한림체육관 X 한요한, 저스디스 (JUSTHIS))","한요한 (HANYOHAN), 저스디스 (JUSTHIS)","Stally, Minit, Heondred, HANYOHAN"
+2021,7,43,아름다워,창모 (CHANGMO),CHANGMO
+2021,7,44,널 너무 모르고,헤이즈 (Heize),GroovyRoom
+2021,7,45,Freak (Prod. Slom),"릴보이 (lIlBOI), 원슈타인 (Wonstein), Chillin Homie (칠린호미), 스카이민혁 (Skyminhyuk)","Slom, Zion.T, GIRIBOY, 박준우"
+2021,7,47,뿌리 (Feat. JUSTHIS) (Prod. GroovyRoom),Khundi Panda (쿤디판다),"GroovyRoom, JUSTHIS"
+2021,7,48,우산 (Feat. 윤하),에픽하이 (EPIK HIGH),Tablo
+2021,7,49,어떤X (What Type of X),제시 (Jessi),"PSY, Jessi, 유건형, 커즈디, JohnJohn, Jaero, DONNA, SPACE ONE"
+2021,7,50,Error (Feat. Loopy),ASH ISLAND (애쉬 아일랜드),"TOIL, ASH ISLAND, Skinny Brown"
+2021,7,52,"Achoo (Feat. pH-1, HAON) (Prod. GroovyRoom)",미란이 (Mirani),"GroovyRoom, pH-1, Mirani"
+2021,7,53,어땠을까 (Feat. 박정현),싸이 (PSY),"PSY, 유건형"
+2021,7,55,Trip (Feat. Hannah),릴러말즈 (Leellamarz),"TOIL, Leellamarz, Smob"
+2021,7,56,"헤어지지 못하는 여자, 떠나가지 못하는 남자 (Feat. 정인)",리쌍 (LEESSANG),"Leon Russell, Bonnie Bramlett, Delaney Bramlett, 길, PEEJAY"
+2021,7,59,BAND,"창모 (CHANGMO), Hash Swan (해쉬스완), ASH ISLAND (애쉬 아일랜드), 김효은 (Keemhyoeun)",Cashbanger
+2021,7,60,꽉 쥔 주먹속의 라이터,호미들 (Homies),"deemarc, CK, Chin, Louie"
+2021,7,61,우연히 봄,"로꼬 (Loco), 유주 (YUJU)","똘아이박, 피터팬, Noheul"
+2021,7,62,안았어야해 (Feat. Futuristic Swaver),JAEHA (재하),"youngkimj, JAEHA"
+2021,7,63,우리서로사랑하지는말자,기리보이 (GIRIBOY),"GIRIBOY, vibin"
+2021,7,64,자니 (Feat. Dynamic Duo),프라이머리 (Primary),"GAEKO, Primary"
+2021,7,67,빌었어,창모 (CHANGMO),CHANGMO
+2021,7,68,400km (Feat. Kid Milli),한요한 (HANYOHAN),"Minit, HANYOHAN"
+2021,7,69,Y (Please Tell Me Why),프리스타일 (Free Style),지오
+2021,7,70,"ON AIR (Feat. 로꼬, 박재범 & GRAY)",릴보이 (lIlBOI),GRAY
+2021,7,71,HEAT,"릴보이 (lIlBOI), 원슈타인 (Wonstein), 미란이 (Mirani)",Slom
+2021,7,72,돌아오지마 (Feat. 용준형 Of 비스트),헤이즈 (Heize),"Heize, 브라더수"
+2021,7,74,Good Day (Feat. 팔로알토) (Prod. 코드 쿤스트),"pH-1 (피에이치원), 키드밀리 (Kid Milli), 루피 (Loopy)","CODE KUNST, Paloalto, pH-1, Kid Milli, Loopy"
+2021,7,75,365&7 (Feat. JAMIE),pH-1 (피에이치원),"TOIL, pH-1, JAMIE"
+2021,7,76,GONE (Feat. Paloalto) (Prod. TOIL),"릴러말즈 (Leellamarz), TOIL (토일)","TOIL, Leellamarz, J Way"
+2021,7,77,Selfmade Orange (Feat. SUPERBEE),창모 (CHANGMO),CHANGMO
+2021,7,79,악몽,ASH ISLAND (애쉬 아일랜드),TOIL
+2021,7,80,"이 노래가 (스터디그룹 X 김승민, Skinny Brown)","김승민 (Kim Seungmin), Skinny Brown (스키니브라운)","Kim Seungmin, Skinny Brown, basecamp, DEREK"
+2021,7,81,FRIENDS (Prod. Slom),"릴보이 (lIlBOI), 원슈타인 (Wonstein)","Slom, lIlBOI, Wonstein"
+2021,7,83,그땐 그땐 그땐,"Supreme Team (슈프림팀), 영준 (YOUNG JUN)","김건우, 송기홍"
+2021,7,86,신경꺼,ASH ISLAND (애쉬 아일랜드),"TOIL, HIPPO, ASH ISLAND, Skinny Brown"
+2021,7,87,GENIUS (Feat. 창모),D.Ark (디아크),"D.Ark, PSY, 유건형, APRO"
+2021,7,88,악역 (Feat. 이하이 & 사이먼 도미닉) (Prod. 코드 쿤스트),스윙스 (Swings),"CODE KUNST, Pick!, Simon Dominic, 이하이"
+2021,7,90,도망가,MINO (송민호),"MINO, 강욱진, Diggy"
+2021,7,91,Officially Missing You,긱스 (Geeks),7 Aurelius
+2021,7,92,뜨거운 안녕 (Feat. 성시경),싸이 (PSY),"유희열, 김태훈, 유건형"
+2021,7,96,적외선 카메라,원슈타인 (Wonstein),"Slom, Fisherman, Wonstein, Zion.T"
+2021,7,97,고독하구만 (Feat. 수퍼비) (Prod. GroovyRoom),머쉬베놈 (MUSHVENOM),"GroovyRoom, MUSHVENOM"
+2021,7,98,"아마두 (feat.우원재, 김효은, 넉살, Huckleberry P)","염따 (YUMDDA), 딥플로우 (Deepflow), 팔로알토 (Paloalto), The Quiett (더 콰이엇), 사이먼 도미닉 (Simon Dominic)","noisemasterminsu, YUMDDA, Deepflow, 김효은, Huckleberry P"
+2021,7,99,"존시나 (Feat. Northfacegawd, JUSTHIS, 래원)",염따 (YUMDDA),"YUMDDA, DJ co.kr, VENKO, H4RDY"
+2021,7,100,뭐 (Feat. 원슈타인),쿠기 (Coogie),"Vangdale, 권세영, Coogie, Wonstein"
+2021,8,1,OHAYO MY NIGHT,"디핵 (D-Hack), PATEKO (파테코)","PATEKO, D-Hack"
+2021,8,2,"사이렌 Remix (Feat. UNEDUCATED KID, Paul Blanco)",호미들 (Homies),"Chin, 27 corazones"
+2021,8,3,멜로디,ASH ISLAND (애쉬 아일랜드),"TOIL, ASH ISLAND, Skinny Brown"
+2021,8,4,비 오는 날 듣기 좋은 노래 (Feat. Colde),에픽하이 (EPIK HIGH),"Tablo, DJ 투컷"
+2021,8,7,METEOR,창모 (CHANGMO),CHANGMO
+2021,8,9,VVS (Feat. JUSTHIS) (Prod. GroovyRoom),"미란이 (Mirani), 먼치맨(MUNCHMAN), Khundi Panda (쿤디판다), 머쉬베놈 (MUSHVENOM)","GroovyRoom, JUSTHIS, Sik-K"
+2021,8,12,러브(Prod.로코베리),"로꼬 (Loco), 이성경 (Lee sung kyung)","로코, 베리, Loco, 로코베리"
+2021,8,13,"Rainy day (Feat. ASH ISLAND, Skinny Brown)",PATEKO (파테코),"PATEKO, ASH ISLAND, Skinny Brown"
+2021,8,14,Downtown Baby,블루 (BLOO),"ROCK IT PRODUCTIONS, BLOO"
+2021,8,15,한여름밤의 꿀 : 다시 여름,"San E (산이), 레이나 (Raina)","코스믹 사운드, San E, nomad, On the road"
+2021,8,16,잡아줄게 (Carabiner),"ASH ISLAND (애쉬 아일랜드), 그루비룸 (GroovyRoom)","ASH ISLAND, GroovyRoom, GEMINI"
+2021,8,19,"내일이 오면 (Feat. 기리보이, BIG Naughty (서동현))",릴보이 (lIlBOI),"Minit, GIRIBOY, lIlBOI, BIG Naughty, Slom, 박준우, Fisherman"
+2021,8,20,사이렌,호미들 (Homies),"27 corazones, CK, Chin, Louie"
+2021,8,23,아무노래,지코 (ZICO),"ZICO, Poptime"
+2021,8,25,I Don't Love You (Feat. 쿠기),GRAY (그레이),"GRAY, Coogie"
+2021,8,27,한여름밤의 꿀,"San E (산이), 레이나 (Raina)","San E, 코스믹 사운드"
+2021,8,30,사랑은(Feat.원슈타인),마미손 (Mommy Son),"권한얼, Wonstein, Mommy Son"
+2021,8,31,시차 (We Are) (Feat. 로꼬 & GRAY),우원재 (Woo Wonjae),GRAY
+2021,8,32,Summer Hate (Feat. 비),지코 (ZICO),"ZICO, Poptime"
+2021,8,33,Celebration,BewhY (비와이),BewhY
+2021,8,34,눈누난나 (NUNU NANA),제시 (Jessi),"유건형, PENOMECO, 전병일, PHILL"
+2021,8,35,그땐 어렸으니까,기리보이 (GIRIBOY),"GIRIBOY, Fisherman, haventseenyou"
+2021,8,36,사임쌓임,"Chin (친), 수퍼비 (SUPERBEE), CK (씨케이), UNEDUCATED KID (언에듀케이티드 키드)","ross gossage, Chin"
+2021,8,37,아름다워,창모 (CHANGMO),CHANGMO
+2021,8,38,Paranoid,ASH ISLAND (애쉬 아일랜드),"ASH ISLAND, TOIL"
+2021,8,39,했던 말 (Prod. CODE KUNST),호미들 (Homies),"CODE KUNST, CK, Chin, Louie"
+2021,8,40,"And July (Feat. DEAN, DJ Friz)",헤이즈 (Heize),"Deanfluenza, Hyuk Shin, J Bird, Esta, Delly Boi, DK"
+2021,8,42,Beautiful (Feat. Skinny Brown),ASH ISLAND (애쉬 아일랜드),"TOIL, ASH ISLAND, Skinny Brown"
+2021,8,43,300(prod. Cashbanger),호미들 (Homies),"CK, Chin, Louie, Cashbanger"
+2021,8,44,널 너무 모르고,헤이즈 (Heize),GroovyRoom
+2021,8,45,"CREDIT (Feat. 염따, 기리보이, Zion.T)",릴보이 (lIlBOI),"Slom, Fisherman, lIlBOI, YUMDDA, Zion.T"
+2021,8,47,어땠을까 (Feat. 박정현),싸이 (PSY),"PSY, 유건형"
+2021,8,48,Freak (Prod. Slom),"릴보이 (lIlBOI), 원슈타인 (Wonstein), Chillin Homie (칠린호미), 스카이민혁 (Skyminhyuk)","Slom, Zion.T, GIRIBOY, 박준우"
+2021,8,49,루이비똥 허리 (prod. Kidstone),호미들 (Homies),"CK, Chin, Louie, Kidstone"
+2021,8,50,"헤어지지 못하는 여자, 떠나가지 못하는 남자 (Feat. 정인)",리쌍 (LEESSANG),"Leon Russell, Bonnie Bramlett, Delaney Bramlett, 길, PEEJAY"
+2021,8,51,우산 (Feat. 윤하),에픽하이 (EPIK HIGH),Tablo
+2021,8,52,눈치없긴 (Feat. 유주),San E (산이),"San E, SIU, ZZINSOO, Big$hot, i, 전홍준"
+2021,8,53,이대로만 (Feat. 죠지),로꼬 (Loco),"george, Loco, moocean"
+2021,8,55,안았어야해 (Feat. Futuristic Swaver),JAEHA (재하),"youngkimj, JAEHA"
+2021,8,56,Trip (Feat. Hannah),릴러말즈 (Leellamarz),"TOIL, Leellamarz, Smob"
+2021,8,58,우리서로사랑하지는말자,기리보이 (GIRIBOY),"GIRIBOY, vibin"
+2021,8,59,Error (Feat. Loopy),ASH ISLAND (애쉬 아일랜드),"TOIL, ASH ISLAND, Skinny Brown"
+2021,8,60,TWINTAIL20,디핵 (D-Hack),J;KEY
+2021,8,62,뿌리 (Feat. JUSTHIS) (Prod. GroovyRoom),Khundi Panda (쿤디판다),"GroovyRoom, JUSTHIS"
+2021,8,63,BAND,"창모 (CHANGMO), Hash Swan (해쉬스완), ASH ISLAND (애쉬 아일랜드), 김효은 (Keemhyoeun)",Cashbanger
+2021,8,64,자니 (Feat. Dynamic Duo),프라이머리 (Primary),"GAEKO, Primary"
+2021,8,66,GONE (Feat. Paloalto) (Prod. TOIL),"릴러말즈 (Leellamarz), TOIL (토일)","TOIL, Leellamarz, J Way"
+2021,8,68,Y (Please Tell Me Why),프리스타일 (Free Style),지오
+2021,8,69,Good Day (Feat. 팔로알토) (Prod. 코드 쿤스트),"pH-1 (피에이치원), 키드밀리 (Kid Milli), 루피 (Loopy)","CODE KUNST, Paloalto, pH-1, Kid Milli, Loopy"
+2021,8,70,"Hula Hoops (Feat. Beenzino, 화사)",DPR LIVE (디피알 라이브),"DPR CREAM, DPR LIVE"
+2021,8,71,One More Night (Feat. lIlBOI),ASH ISLAND (애쉬 아일랜드),"TOIL, ASH ISLAND, Skinny Brown"
+2021,8,72,빌었어,창모 (CHANGMO),CHANGMO
+2021,8,73,400km (Feat. Kid Milli),한요한 (HANYOHAN),"Minit, HANYOHAN"
+2021,8,74,"Achoo (Feat. pH-1, HAON) (Prod. GroovyRoom)",미란이 (Mirani),"GroovyRoom, pH-1, Mirani"
+2021,8,77,돌아오지마 (Feat. 용준형 Of 비스트),헤이즈 (Heize),"Heize, 브라더수"
+2021,8,78,ALL IN (Prod. GroovyRoom),"박재범 (Jay Park), pH-1 (피에이치원)","GroovyRoom, Jay Park, pH-1"
+2021,8,79,우연히 봄,"로꼬 (Loco), 유주 (YUJU)","똘아이박, 피터팬, Noheul"
+2021,8,80,별과 꿈의 이야기(Feat.한요한),"디핵 (D-Hack), PATEKO (파테코)",PATEKO
+2021,8,81,꽉 쥔 주먹속의 라이터,호미들 (Homies),"deemarc, CK, Chin, Louie"
+2021,8,82,Selfmade Orange (Feat. SUPERBEE),창모 (CHANGMO),CHANGMO
+2021,8,83,어떤X (What Type of X),제시 (Jessi),"PSY, Jessi, 유건형, 커즈디, JohnJohn, Jaero, DONNA, SPACE ONE"
+2021,8,84,"ON AIR (Feat. 로꼬, 박재범 & GRAY)",릴보이 (lIlBOI),GRAY
+2021,8,85,죽일 놈 (Guilty),다이나믹 듀오 (Dynamicduo),"GAEKO, Choiza, Primary"
+2021,8,86,그땐 그땐 그땐,"Supreme Team (슈프림팀), 영준 (YOUNG JUN)","김건우, 송기홍"
+2021,8,87,악몽,ASH ISLAND (애쉬 아일랜드),TOIL
+2021,8,91,365&7 (Feat. JAMIE),pH-1 (피에이치원),"TOIL, pH-1, JAMIE"
+2021,8,93,Officially Missing You,긱스 (Geeks),7 Aurelius
+2021,8,97,흑백영화 (Prod. BOYCOLD),릴러말즈 (Leellamarz),"BOYCOLD, Leellamarz"
+2021,8,98,도망가,MINO (송민호),"MINO, 강욱진, Diggy"
+2021,8,100,Martini Blue,DPR LIVE (디피알 라이브),"DPR LIVE, DPR CREAM"
+2021,9,1,OHAYO MY NIGHT,"디핵 (D-Hack), PATEKO (파테코)","PATEKO, D-Hack"
+2021,9,2,"사이렌 Remix (Feat. UNEDUCATED KID, Paul Blanco)",호미들 (Homies),"Chin, 27 corazones"
+2021,9,3,멜로디,ASH ISLAND (애쉬 아일랜드),"TOIL, ASH ISLAND, Skinny Brown"
+2021,9,5,비 오는 날 듣기 좋은 노래 (Feat. Colde),에픽하이 (EPIK HIGH),"Tablo, DJ 투컷"
+2021,9,6,METEOR,창모 (CHANGMO),CHANGMO
+2021,9,8,VVS (Feat. JUSTHIS) (Prod. GroovyRoom),"미란이 (Mirani), 먼치맨(MUNCHMAN), Khundi Panda (쿤디판다), 머쉬베놈 (MUSHVENOM)","GroovyRoom, JUSTHIS, Sik-K"
+2021,9,15,"Rainy day (Feat. ASH ISLAND, Skinny Brown)",PATEKO (파테코),"PATEKO, ASH ISLAND, Skinny Brown"
+2021,9,17,Downtown Baby,블루 (BLOO),"ROCK IT PRODUCTIONS, BLOO"
+2021,9,19,러브(Prod.로코베리),"로꼬 (Loco), 이성경 (Lee sung kyung)","로코, 베리, Loco, 로코베리"
+2021,9,20,아무노래,지코 (ZICO),"ZICO, Poptime"
+2021,9,21,"내일이 오면 (Feat. 기리보이, BIG Naughty (서동현))",릴보이 (lIlBOI),"Minit, GIRIBOY, lIlBOI, BIG Naughty, Slom, 박준우, Fisherman"
+2021,9,23,이대로만 (Feat. 죠지),로꼬 (Loco),"george, Loco, moocean"
+2021,9,26,사이렌,호미들 (Homies),"27 corazones, CK, Chin, Louie"
+2021,9,27,시차 (We Are) (Feat. 로꼬 & GRAY),우원재 (Woo Wonjae),GRAY
+2021,9,30,눈누난나 (NUNU NANA),제시 (Jessi),"유건형, PENOMECO, 전병일, PHILL"
+2021,9,31,잡아줄게 (Carabiner),"ASH ISLAND (애쉬 아일랜드), 그루비룸 (GroovyRoom)","ASH ISLAND, GroovyRoom, GEMINI"
+2021,9,33,Celebration,BewhY (비와이),BewhY
+2021,9,34,사랑은(Feat.원슈타인),마미손 (Mommy Son),"권한얼, Wonstein, Mommy Son"
+2021,9,35,사임쌓임,"Chin (친), 수퍼비 (SUPERBEE), CK (씨케이), UNEDUCATED KID (언에듀케이티드 키드)","ross gossage, Chin"
+2021,9,36,아름다워,창모 (CHANGMO),CHANGMO
+2021,9,37,수취인불명,"매드클라운 (Mad Clown), 이해리 (다비치)","최지호, 민켄"
+2021,9,38,"헤어지지 못하는 여자, 떠나가지 못하는 남자 (Feat. 정인)",리쌍 (LEESSANG),"Leon Russell, Bonnie Bramlett, Delaney Bramlett, 길, PEEJAY"
+2021,9,40,"And July (Feat. DEAN, DJ Friz)",헤이즈 (Heize),"Deanfluenza, Hyuk Shin, J Bird, Esta, Delly Boi, DK"
+2021,9,41,이게 나야 (Feat. CHANGMO (창모)),한요한 (HANYOHAN),"Heondred, Minit, HANYOHAN, D.Owner, 0set, CHANGMO"
+2021,9,42,Paranoid,ASH ISLAND (애쉬 아일랜드),"ASH ISLAND, TOIL"
+2021,9,43,한여름밤의 꿀 : 다시 여름,"San E (산이), 레이나 (Raina)","코스믹 사운드, San E, nomad, On the road"
+2021,9,44,널 너무 모르고,헤이즈 (Heize),GroovyRoom
+2021,9,45,Y (Please Tell Me Why),프리스타일 (Free Style),지오
+2021,9,48,한여름밤의 꿀,"San E (산이), 레이나 (Raina)","San E, 코스믹 사운드"
+2021,9,49,Beautiful (Feat. Skinny Brown),ASH ISLAND (애쉬 아일랜드),"TOIL, ASH ISLAND, Skinny Brown"
+2021,9,50,어땠을까 (Feat. 박정현),싸이 (PSY),"PSY, 유건형"
+2021,9,51,어떤X (What Type of X),제시 (Jessi),"PSY, Jessi, 유건형, 커즈디, JohnJohn, Jaero, DONNA, SPACE ONE"
+2021,9,52,"CREDIT (Feat. 염따, 기리보이, Zion.T)",릴보이 (lIlBOI),"Slom, Fisherman, lIlBOI, YUMDDA, Zion.T"
+2021,9,54,우산 (Feat. 윤하),에픽하이 (EPIK HIGH),Tablo
+2021,9,55,Summer Hate (Feat. 비),지코 (ZICO),"ZICO, Poptime"
+2021,9,56,300(prod. Cashbanger),호미들 (Homies),"CK, Chin, Louie, Cashbanger"
+2021,9,57,안았어야해 (Feat. Futuristic Swaver),JAEHA (재하),"youngkimj, JAEHA"
+2021,9,60,우리서로사랑하지는말자,기리보이 (GIRIBOY),"GIRIBOY, vibin"
+2021,9,61,Trip (Feat. Hannah),릴러말즈 (Leellamarz),"TOIL, Leellamarz, Smob"
+2021,9,62,GONE (Feat. Paloalto) (Prod. TOIL),"릴러말즈 (Leellamarz), TOIL (토일)","TOIL, Leellamarz, J Way"
+2021,9,63,Freak (Prod. Slom),"릴보이 (lIlBOI), 원슈타인 (Wonstein), Chillin Homie (칠린호미), 스카이민혁 (Skyminhyuk)","Slom, Zion.T, GIRIBOY, 박준우"
+2021,9,66,Good Day (Feat. 팔로알토) (Prod. 코드 쿤스트),"pH-1 (피에이치원), 키드밀리 (Kid Milli), 루피 (Loopy)","CODE KUNST, Paloalto, pH-1, Kid Milli, Loopy"
+2021,9,67,BAND,"창모 (CHANGMO), Hash Swan (해쉬스완), ASH ISLAND (애쉬 아일랜드), 김효은 (Keemhyoeun)",Cashbanger
+2021,9,69,TWINTAIL20,디핵 (D-Hack),J;KEY
+2021,9,70,자니 (Feat. Dynamic Duo),프라이머리 (Primary),"GAEKO, Primary"
+2021,9,71,400km (Feat. Kid Milli),한요한 (HANYOHAN),"Minit, HANYOHAN"
+2021,9,73,Error (Feat. Loopy),ASH ISLAND (애쉬 아일랜드),"TOIL, ASH ISLAND, Skinny Brown"
+2021,9,74,빌었어,창모 (CHANGMO),CHANGMO
+2021,9,75,느린심장박동 (Feat. Ja Mezz),래원 (Layone),Clayheart
+2021,9,76,별과 꿈의 이야기(Feat.한요한),"디핵 (D-Hack), PATEKO (파테코)",PATEKO
+2021,9,77,Officially Missing You,긱스 (Geeks),7 Aurelius
+2021,9,78,뿌리 (Feat. JUSTHIS) (Prod. GroovyRoom),Khundi Panda (쿤디판다),"GroovyRoom, JUSTHIS"
+2021,9,79,돌아오지마 (Feat. 용준형 Of 비스트),헤이즈 (Heize),"Heize, 브라더수"
+2021,9,81,KOKO NI ARU,디핵 (D-Hack),J;KEY
+2021,9,83,Ballerino,리쌍 (LEESSANG),길
+2021,9,84,그땐 그땐 그땐,"Supreme Team (슈프림팀), 영준 (YOUNG JUN)","김건우, 송기홍"
+2021,9,85,"Achoo (Feat. pH-1, HAON) (Prod. GroovyRoom)",미란이 (Mirani),"GroovyRoom, pH-1, Mirani"
+2021,9,86,우연히 봄,"로꼬 (Loco), 유주 (YUJU)","똘아이박, 피터팬, Noheul"
+2021,9,87,악몽,ASH ISLAND (애쉬 아일랜드),TOIL
+2021,9,88,시간이 들겠지 (Feat. Colde),로꼬 (Loco),"APRO, Loco, Colde"
+2021,9,90,run! (feat. JUSTHIS),나플라 (nafla),"nafla, JUSTHIS, HD BL4CK"
+2021,9,91,루이비똥 허리 (prod. Kidstone),호미들 (Homies),"CK, Chin, Louie, Kidstone"
+2021,9,93,"ON AIR (Feat. 로꼬, 박재범 & GRAY)",릴보이 (lIlBOI),GRAY
+2021,9,95,몸매 (MOMMAE) (Feat. Ugly Duck),박재범 (Jay Park),"Jay Park, GRAY"
+2021,9,96,I Don't Love You (Feat. 쿠기),GRAY (그레이),"GRAY, Coogie"
+2021,9,97,"아마두 (feat.우원재, 김효은, 넉살, Huckleberry P)","염따 (YUMDDA), 딥플로우 (Deepflow), 팔로알토 (Paloalto), The Quiett (더 콰이엇), 사이먼 도미닉 (Simon Dominic)","noisemasterminsu, YUMDDA, Deepflow, 김효은, Huckleberry P"
+2021,9,98,꽉 쥔 주먹속의 라이터,호미들 (Homies),"deemarc, CK, Chin, Louie"
+2021,9,100,Jasmine,DPR LIVE (디피알 라이브),"DPR LIVE, CODE KUNST"
+2021,10,1,OHAYO MY NIGHT,"디핵 (D-Hack), PATEKO (파테코)","PATEKO, D-Hack"
+2021,10,2,"사이렌 Remix (Feat. UNEDUCATED KID, Paul Blanco)",호미들 (Homies),"Chin, 27 corazones"
+2021,10,3,멜로디,ASH ISLAND (애쉬 아일랜드),"TOIL, ASH ISLAND, Skinny Brown"
+2021,10,5,METEOR,창모 (CHANGMO),CHANGMO
+2021,10,7,비 오는 날 듣기 좋은 노래 (Feat. Colde),에픽하이 (EPIK HIGH),"Tablo, DJ 투컷"
+2021,10,8,Cold Blooded,제시 (Jessi),"Bobblehead, 커즈디, bayb, JohnJohn"
+2021,10,10,VVS (Feat. JUSTHIS) (Prod. GroovyRoom),"미란이 (Mirani), 먼치맨(MUNCHMAN), Khundi Panda (쿤디판다), 머쉬베놈 (MUSHVENOM)","GroovyRoom, JUSTHIS, Sik-K"
+2021,10,13,역겹겠지만 (Remember me),B.I (비아이),"B.I, MILLENNIUM"
+2021,10,16,"Rainy day (Feat. ASH ISLAND, Skinny Brown)",PATEKO (파테코),"PATEKO, ASH ISLAND, Skinny Brown"
+2021,10,17,Play (Prod. TOIL),ASH ISLAND (애쉬 아일랜드),"TOIL, ASH ISLAND"
+2021,10,21,Downtown Baby,블루 (BLOO),"ROCK IT PRODUCTIONS, BLOO"
+2021,10,22,"내일이 오면 (Feat. 기리보이, BIG Naughty (서동현))",릴보이 (lIlBOI),"Minit, GIRIBOY, lIlBOI, BIG Naughty, Slom, 박준우, Fisherman"
+2021,10,23,Brand (Feat. 래원 (Layone)),BE'O (비오),willy
+2021,10,24,아무노래,지코 (ZICO),"ZICO, Poptime"
+2021,10,27,시차 (We Are) (Feat. 로꼬 & GRAY),우원재 (Woo Wonjae),GRAY
+2021,10,29,사이렌,호미들 (Homies),"27 corazones, CK, Chin, Louie"
+2021,10,30,눈누난나 (NUNU NANA),제시 (Jessi),"유건형, PENOMECO, 전병일, PHILL"
+2021,10,31,문득,BE'O (비오),"BE'O, rubyboyyisthegenius, Mantra"
+2021,10,33,러브(Prod.로코베리),"로꼬 (Loco), 이성경 (Lee sung kyung)","로코, 베리, Loco, 로코베리"
+2021,10,34,"CREDIT (Feat. 염따, 기리보이, Zion.T)",릴보이 (lIlBOI),"Slom, Fisherman, lIlBOI, YUMDDA, Zion.T"
+2021,10,36,"헤어지지 못하는 여자, 떠나가지 못하는 남자 (Feat. 정인)",리쌍 (LEESSANG),"Leon Russell, Bonnie Bramlett, Delaney Bramlett, 길, PEEJAY"
+2021,10,37,아름다워,창모 (CHANGMO),CHANGMO
+2021,10,38,어떤X (What Type of X),제시 (Jessi),"PSY, Jessi, 유건형, 커즈디, JohnJohn, Jaero, DONNA, SPACE ONE"
+2021,10,39,사임쌓임,"Chin (친), 수퍼비 (SUPERBEE), CK (씨케이), UNEDUCATED KID (언에듀케이티드 키드)","ross gossage, Chin"
+2021,10,40,사랑은(Feat.원슈타인),마미손 (Mommy Son),"권한얼, Wonstein, Mommy Son"
+2021,10,41,Paranoid,ASH ISLAND (애쉬 아일랜드),"ASH ISLAND, TOIL"
+2021,10,43,Y (Please Tell Me Why),프리스타일 (Free Style),지오
+2021,10,45,그리고 돌아섰다,기리보이 (GIRIBOY),"GIRIBOY, GRAY, DAX"
+2021,10,47,Good Day (Feat. 팔로알토) (Prod. 코드 쿤스트),"pH-1 (피에이치원), 키드밀리 (Kid Milli), 루피 (Loopy)","CODE KUNST, Paloalto, pH-1, Kid Milli, Loopy"
+2021,10,48,잡아줄게 (Carabiner),"ASH ISLAND (애쉬 아일랜드), 그루비룸 (GroovyRoom)","ASH ISLAND, GroovyRoom, GEMINI"
+2021,10,49,"And July (Feat. DEAN, DJ Friz)",헤이즈 (Heize),"Deanfluenza, Hyuk Shin, J Bird, Esta, Delly Boi, DK"
+2021,10,50,이게 나야 (Feat. CHANGMO (창모)),한요한 (HANYOHAN),"Heondred, Minit, HANYOHAN, D.Owner, 0set, CHANGMO"
+2021,10,51,느린심장박동 (Feat. Ja Mezz),래원 (Layone),Clayheart
+2021,10,52,어땠을까 (Feat. 박정현),싸이 (PSY),"PSY, 유건형"
+2021,10,54,GONE (Feat. Paloalto) (Prod. TOIL),"릴러말즈 (Leellamarz), TOIL (토일)","TOIL, Leellamarz, J Way"
+2021,10,58,Beautiful (Feat. Skinny Brown),ASH ISLAND (애쉬 아일랜드),"TOIL, ASH ISLAND, Skinny Brown"
+2021,10,59,Freak (Prod. Slom),"릴보이 (lIlBOI), 원슈타인 (Wonstein), Chillin Homie (칠린호미), 스카이민혁 (Skyminhyuk)","Slom, Zion.T, GIRIBOY, 박준우"
+2021,10,60,우리서로사랑하지는말자,기리보이 (GIRIBOY),"GIRIBOY, vibin"
+2021,10,62,널 너무 모르고,헤이즈 (Heize),GroovyRoom
+2021,10,64,우산 (Feat. 윤하),에픽하이 (EPIK HIGH),Tablo
+2021,10,67,Officially Missing You,긱스 (Geeks),7 Aurelius
+2021,10,68,곡예사,조광일 (Gwangil Jo),AHWU
+2021,10,69,Ballerino,리쌍 (LEESSANG),길
+2021,10,70,자니 (Feat. Dynamic Duo),프라이머리 (Primary),"GAEKO, Primary"
+2021,10,71,BAND,"창모 (CHANGMO), Hash Swan (해쉬스완), ASH ISLAND (애쉬 아일랜드), 김효은 (Keemhyoeun)",Cashbanger
+2021,10,73,Trip (Feat. Hannah),릴러말즈 (Leellamarz),"TOIL, Leellamarz, Smob"
+2021,10,74,빌었어,창모 (CHANGMO),CHANGMO
+2021,10,75,"아마두 (feat.우원재, 김효은, 넉살, Huckleberry P)","염따 (YUMDDA), 딥플로우 (Deepflow), 팔로알토 (Paloalto), The Quiett (더 콰이엇), 사이먼 도미닉 (Simon Dominic)","noisemasterminsu, YUMDDA, Deepflow, 김효은, Huckleberry P"
+2021,10,76,KOKO NI ARU,디핵 (D-Hack),J;KEY
+2021,10,78,한여름밤의 꿀,"San E (산이), 레이나 (Raina)","San E, 코스믹 사운드"
+2021,10,79,이대로만 (Feat. 죠지),로꼬 (Loco),"george, Loco, moocean"
+2021,10,80,Celebration,BewhY (비와이),BewhY
+2021,10,81,Error (Feat. Loopy),ASH ISLAND (애쉬 아일랜드),"TOIL, ASH ISLAND, Skinny Brown"
+2021,10,82,400km (Feat. Kid Milli),한요한 (HANYOHAN),"Minit, HANYOHAN"
+2021,10,83,안았어야해 (Feat. Futuristic Swaver),JAEHA (재하),"youngkimj, JAEHA"
+2021,10,84,뿌리 (Feat. JUSTHIS) (Prod. GroovyRoom),Khundi Panda (쿤디판다),"GroovyRoom, JUSTHIS"
+2021,10,85,Summer Hate (Feat. 비),지코 (ZICO),"ZICO, Poptime"
+2021,10,86,엉망진창,기리보이 (GIRIBOY),"GIRIBOY, Kim Seungmin, vibin"
+2021,10,88,"내일은 없다 (Feat. lIlBOI, nafla)",기리보이 (GIRIBOY),"GRAY, DAX, Off"
+2021,10,89,몸매 (MOMMAE) (Feat. Ugly Duck),박재범 (Jay Park),"Jay Park, GRAY"
+2021,10,90,그땐 그땐 그땐,"Supreme Team (슈프림팀), 영준 (YOUNG JUN)","김건우, 송기홍"
+2021,10,91,300(prod. Cashbanger),호미들 (Homies),"CK, Chin, Louie, Cashbanger"
+2021,10,92,악몽,ASH ISLAND (애쉬 아일랜드),TOIL
+2021,10,94,시간이 들겠지 (Feat. Colde),로꼬 (Loco),"APRO, Loco, Colde"
+2021,10,95,TWINTAIL20,디핵 (D-Hack),J;KEY
+2021,10,96,돌아오지마 (Feat. 용준형 Of 비스트),헤이즈 (Heize),"Heize, 브라더수"
+2021,10,97,죽일 놈 (Guilty),다이나믹 듀오 (Dynamicduo),"GAEKO, Choiza, Primary"
+2021,10,98,"ON AIR (Feat. 로꼬, 박재범 & GRAY)",릴보이 (lIlBOI),GRAY
+2021,10,99,"Achoo (Feat. pH-1, HAON) (Prod. GroovyRoom)",미란이 (Mirani),"GroovyRoom, pH-1, Mirani"
+2021,10,100,BAD LOVE,BE'O (비오),"BE'O, Zbeatz, Mantra"
+2021,11,1,쉬어 (Feat. MINO) (Prod. GRAY),"아넌딜라이트(Anandelight), unofficialboyy (언오피셜보이), BE'O (비오), 지구인 (Geegooin), Mudd the student (머드 더 스튜던트)","GRAY, MINO, DAX, TREVOR"
+2021,11,2,"회전목마 (Feat. Zion.T, 원슈타인) (Prod. Slom)",sokodomo (소코도모),"Slom, Zion.T, sokodomo, 박준우, Fisherman, Wonstein"
+2021,11,3,Wake Up (Prod. 코드 쿤스트),"개코 (GAEKO), 아우릴고트 (OUREALGOAT), SINCE (신스), 안병웅 (Ahn Byeong Woong), Tabber (태버), 조광일 (Gwangil Jo)","CODE KUNST, GAEKO, Pick!"
+2021,11,4,OHAYO MY NIGHT,"디핵 (D-Hack), PATEKO (파테코)","PATEKO, D-Hack"
+2021,11,5,리무진 (Feat. MINO) (Prod. GRAY),BE'O (비오),"BE'O, GRAY"
+2021,11,6,TROUBLE (Prod. Slom),"Don Mills (던밀스), Northfacegawd (노스페이스갓), sokodomo (소코도모), Khakii (카키), 에이체스 (A-Chess)","Slom, Zion.T, PJNOTREBLE, Shyun"
+2021,11,7,너와 나의 Memories,"염따 (YUMDDA), TOIL (토일), KOONTA (쿤타), 베이식 (Basick), 365LIT (365릿), 황지상 (HWANG JI SANG), 송민영 (Kid M)","YUMDDA, TOIL"
+2021,11,8,만남은 쉽고 이별은 어려워 (Feat. Leellamarz) (Prod. TOIL),베이식 (Basick),"TOIL, Kleine, Leellamarz, JAEHA"
+2021,11,9,"사이렌 Remix (Feat. UNEDUCATED KID, Paul Blanco)",호미들 (Homies),"Chin, 27 corazones"
+2021,11,10,문득,BE'O (비오),"BE'O, rubyboyyisthegenius, Mantra"
+2021,11,11,멜로디,ASH ISLAND (애쉬 아일랜드),"TOIL, ASH ISLAND, Skinny Brown"
+2021,11,13,METEOR,창모 (CHANGMO),CHANGMO
+2021,11,14,Cold Blooded,제시 (Jessi),"Bobblehead, 커즈디, bayb, JohnJohn"
+2021,11,16,가시 (Prod. 코드 쿤스트),"조광일 (Gwangil Jo), 개코 (GAEKO), 저스디스 (JUSTHIS)","CODE KUNST, GAEKO, Pick!"
+2021,11,17,"깐부 (Feat. 염따, ASH ISLAND) (Prod. TOIL)",KOONTA (쿤타),"TOIL, YUMDDA, KOONTA, ASH ISLAND"
+2021,11,19,낮 밤 (feat. 박재범),이영지 (Lee Young-ji),"Lee Young-ji, Jay Park, AVERZI, DAUL"
+2021,11,20,"Reset (Feat. 개코, Kid Milli) (Prod. 코드 쿤스트)","SINCE (신스), Tabber (태버)","CODE KUNST, GAEKO, Pick!"
+2021,11,21,VVS (Feat. JUSTHIS) (Prod. GroovyRoom),"미란이 (Mirani), 먼치맨(MUNCHMAN), Khundi Panda (쿤디판다), 머쉬베놈 (MUSHVENOM)","GroovyRoom, JUSTHIS, Sik-K"
+2021,11,22,역겹겠지만 (Remember me),B.I (비아이),"B.I, MILLENNIUM"
+2021,11,23,비 오는 날 듣기 좋은 노래 (Feat. Colde),에픽하이 (EPIK HIGH),"Tablo, DJ 투컷"
+2021,11,24,Brand (Feat. 래원 (Layone)),BE'O (비오),willy
+2021,11,26,"이끼 (Feat. MINO, BOBBY) (Prod. MINO)",Mudd the student (머드 더 스튜던트),"MINO, Mudd the student, GRAY, No Identity"
+2021,11,28,MBTI (Feat. 쿠기 & 로꼬) (Prod. GRAY),BE'O (비오),"GRAY, DAX, FIFTYFIVE, BE'O, Coogie, Loco"
+2021,11,29,"Rainy day (Feat. ASH ISLAND, Skinny Brown)",PATEKO (파테코),"PATEKO, ASH ISLAND, Skinny Brown"
+2021,11,31,불협화음 (Feat. AKMU) (Prod. GRAY),Mudd the student (머드 더 스튜던트),"GRAY, Mudd the student, 이찬혁"
+2021,11,32,Y (Please Tell Me Why),프리스타일 (Free Style),지오
+2021,11,33,"내일이 오면 (Feat. 기리보이, BIG Naughty (서동현))",릴보이 (lIlBOI),"Minit, GIRIBOY, lIlBOI, BIG Naughty, Slom, 박준우, Fisherman"
+2021,11,34,To the Moon (Feat. UNEDUCATED KID),"염따 (YUMDDA), TOIL (토일)","TOIL, YUMDDA, UNEDUCATED KID"
+2021,11,35,Downtown Baby,블루 (BLOO),"ROCK IT PRODUCTIONS, BLOO"
+2021,11,39,아무노래,지코 (ZICO),"ZICO, Poptime"
+2021,11,40,"CREDIT (Feat. 염따, 기리보이, Zion.T)",릴보이 (lIlBOI),"Slom, Fisherman, lIlBOI, YUMDDA, Zion.T"
+2021,11,42,시차 (We Are) (Feat. 로꼬 & GRAY),우원재 (Woo Wonjae),GRAY
+2021,11,43,곡예사,조광일 (Gwangil Jo),AHWU
+2021,11,45,BAD LOVE,BE'O (비오),"BE'O, Zbeatz, Mantra"
+2021,11,46,"호우주의 (Feat. 개코, 넉살 (Nucksal)) (Prod. 코드 쿤스트)",조광일 (Gwangil Jo),"CODE KUNST, GAEKO, Pick!"
+2021,11,47,논해 (Feat. JUSTHIS) (Prod. CODE KUNST),개코 (GAEKO),"CODE KUNST, GAEKO"
+2021,11,49,모래시계,창모 (CHANGMO),"CHANGMO, 박인영"
+2021,11,52,Hyperstar,창모 (CHANGMO),CHANGMO
+2021,11,54,느린심장박동 (Feat. Ja Mezz),래원 (Layone),Clayheart
+2021,11,55,"08베이식 (Feat. 염따, punchnello)",베이식 (Basick),"TOIL, YUMDDA, SMH Of SMGS, KVHN"
+2021,11,56,사이렌,호미들 (Homies),"27 corazones, CK, Chin, Louie"
+2021,11,57,아름다워,창모 (CHANGMO),CHANGMO
+2021,11,60,"헤어지지 못하는 여자, 떠나가지 못하는 남자 (Feat. 정인)",리쌍 (LEESSANG),"Leon Russell, Bonnie Bramlett, Delaney Bramlett, 길, PEEJAY"
+2021,11,62,눈누난나 (NUNU NANA),제시 (Jessi),"유건형, PENOMECO, 전병일, PHILL"
+2021,11,63,GONE (Feat. Paloalto) (Prod. TOIL),"릴러말즈 (Leellamarz), TOIL (토일)","TOIL, Leellamarz, J Way"
+2021,11,64,Good Day (Feat. 팔로알토) (Prod. 코드 쿤스트),"pH-1 (피에이치원), 키드밀리 (Kid Milli), 루피 (Loopy)","CODE KUNST, Paloalto, pH-1, Kid Milli, Loopy"
+2021,11,66,Paranoid,ASH ISLAND (애쉬 아일랜드),"ASH ISLAND, TOIL"
+2021,11,67,Trip (Feat. Hannah),릴러말즈 (Leellamarz),"TOIL, Leellamarz, Smob"
+2021,11,68,우산 (Feat. 윤하),에픽하이 (EPIK HIGH),Tablo
+2021,11,69,Play (Prod. TOIL),ASH ISLAND (애쉬 아일랜드),"TOIL, ASH ISLAND"
+2021,11,70,사임쌓임,"Chin (친), 수퍼비 (SUPERBEE), CK (씨케이), UNEDUCATED KID (언에듀케이티드 키드)","ross gossage, Chin"
+2021,11,71,새로고침 (Feat. GRAY),"지구인 (Geegooin), 아넌딜라이트(Anandelight)",GRAY
+2021,11,72,사랑은(Feat.원슈타인),마미손 (Mommy Son),"권한얼, Wonstein, Mommy Son"
+2021,11,74,태지,창모 (CHANGMO),"CHANGMO, 서태지"
+2021,11,75,Freak (Prod. Slom),"릴보이 (lIlBOI), 원슈타인 (Wonstein), Chillin Homie (칠린호미), 스카이민혁 (Skyminhyuk)","Slom, Zion.T, GIRIBOY, 박준우"
+2021,11,76,"And July (Feat. DEAN, DJ Friz)",헤이즈 (Heize),"Deanfluenza, Hyuk Shin, J Bird, Esta, Delly Boi, DK"
+2021,11,77,바래 (Feat. 정인) (Prod. TOIL),KOONTA (쿤타),"TOIL, KOONTA, YUMDDA, 정인"
+2021,11,80,Ballerino,리쌍 (LEESSANG),길
+2021,11,82,NO BREAK (Prod. GooseBumps & 사이먼 도미닉),"홀리뱅 (HolyBang), 사이먼 도미닉 (Simon Dominic), 로꼬 (Loco)","Simon Dominic, GooseBumps"
+2021,11,83,"아마두 (feat.우원재, 김효은, 넉살, Huckleberry P)","염따 (YUMDDA), 딥플로우 (Deepflow), 팔로알토 (Paloalto), The Quiett (더 콰이엇), 사이먼 도미닉 (Simon Dominic)","noisemasterminsu, YUMDDA, Deepflow, 김효은, Huckleberry P"
+2021,11,84,어땠을까 (Feat. 박정현),싸이 (PSY),"PSY, 유건형"
+2021,11,86,복덕방,Northfacegawd (노스페이스갓),606 gus
+2021,11,88,러브(Prod.로코베리),"로꼬 (Loco), 이성경 (Lee sung kyung)","로코, 베리, Loco, 로코베리"
+2021,11,89,몸매 (MOMMAE) (Feat. Ugly Duck),박재범 (Jay Park),"Jay Park, GRAY"
+2021,11,90,우리서로사랑하지는말자,기리보이 (GIRIBOY),"GIRIBOY, vibin"
+2021,11,91,"BE ! (Feat. 팔로알토, lIlBOI) (Prod. PEEJAY & Slom)",sokodomo (소코도모),"PEEJAY, Slom, Zion.T"
+2021,11,92,Beautiful (Feat. Skinny Brown),ASH ISLAND (애쉬 아일랜드),"TOIL, ASH ISLAND, Skinny Brown"
+2021,11,93,자니 (Feat. Dynamic Duo),프라이머리 (Primary),"GAEKO, Primary"
+2021,11,94,널 너무 모르고,헤이즈 (Heize),GroovyRoom
+2021,11,96,BAND,"창모 (CHANGMO), Hash Swan (해쉬스완), ASH ISLAND (애쉬 아일랜드), 김효은 (Keemhyoeun)",Cashbanger
+2021,11,97,빌었어,창모 (CHANGMO),CHANGMO
+2021,11,98,뿌리 (Feat. JUSTHIS) (Prod. GroovyRoom),Khundi Panda (쿤디판다),"GroovyRoom, JUSTHIS"
+2021,11,99,"Face ID (Feat. 기리보이, Sik-K, JUSTHIS)",에픽하이 (EPIK HIGH),"DJ 투컷, Tablo, Mighty Mike, Sik-K"
+2021,12,1,"회전목마 (Feat. Zion.T, 원슈타인) (Prod. Slom)",sokodomo (소코도모),"Slom, Zion.T, sokodomo, 박준우, Fisherman, Wonstein"
+2021,12,2,리무진 (Feat. MINO) (Prod. GRAY),BE'O (비오),"BE'O, GRAY"
+2021,12,3,만남은 쉽고 이별은 어려워 (Feat. Leellamarz) (Prod. TOIL),베이식 (Basick),"TOIL, Kleine, Leellamarz, JAEHA"
+2021,12,4,불협화음 (Feat. AKMU) (Prod. GRAY),Mudd the student (머드 더 스튜던트),"GRAY, Mudd the student, 이찬혁"
+2021,12,5,Counting Stars (Feat. Beenzino),BE'O (비오),"BE'O, Kevin Jacoutot"
+2021,12,6,쉬어 (Feat. MINO) (Prod. GRAY),"아넌딜라이트(Anandelight), unofficialboyy (언오피셜보이), BE'O (비오), 지구인 (Geegooin), Mudd the student (머드 더 스튜던트)","GRAY, MINO, DAX, TREVOR"
+2021,12,7,Wake Up (Prod. 코드 쿤스트),"개코 (GAEKO), 아우릴고트 (OUREALGOAT), SINCE (신스), 안병웅 (Ahn Byeong Woong), Tabber (태버), 조광일 (Gwangil Jo)","CODE KUNST, GAEKO, Pick!"
+2021,12,8,네가 없는 밤 (Feat. ASH ISLAND) (Prod. GRAY),BE'O (비오),"GRAY, BE'O, ASH ISLAND"
+2021,12,9,MBTI (Feat. 쿠기 & 로꼬) (Prod. GRAY),BE'O (비오),"GRAY, DAX, FIFTYFIVE, BE'O, Coogie, Loco"
+2021,12,10,OHAYO MY NIGHT,"디핵 (D-Hack), PATEKO (파테코)","PATEKO, D-Hack"
+2021,12,11,문득,BE'O (비오),"BE'O, rubyboyyisthegenius, Mantra"
+2021,12,12,"호우주의 (Feat. 개코, 넉살 (Nucksal)) (Prod. 코드 쿤스트)",조광일 (Gwangil Jo),"CODE KUNST, GAEKO, Pick!"
+2021,12,13,"깐부 (Feat. 염따, ASH ISLAND) (Prod. TOIL)",KOONTA (쿤타),"TOIL, YUMDDA, KOONTA, ASH ISLAND"
+2021,12,14,"사이렌 Remix (Feat. UNEDUCATED KID, Paul Blanco)",호미들 (Homies),"Chin, 27 corazones"
+2021,12,15,너와 나의 Memories,"염따 (YUMDDA), TOIL (토일), KOONTA (쿤타), 베이식 (Basick), 365LIT (365릿), 황지상 (HWANG JI SANG), 송민영 (Kid M)","YUMDDA, TOIL"
+2021,12,16,"08베이식 (Feat. 염따, punchnello)",베이식 (Basick),"TOIL, YUMDDA, SMH Of SMGS, KVHN"
+2021,12,17,멜로디,ASH ISLAND (애쉬 아일랜드),"TOIL, ASH ISLAND, Skinny Brown"
+2021,12,18,TROUBLE (Prod. Slom),"Don Mills (던밀스), Northfacegawd (노스페이스갓), sokodomo (소코도모), Khakii (카키), 에이체스 (A-Chess)","Slom, Zion.T, PJNOTREBLE, Shyun"
+2021,12,19,"Reset (Feat. 개코, Kid Milli) (Prod. 코드 쿤스트)","SINCE (신스), Tabber (태버)","CODE KUNST, GAEKO, Pick!"
+2021,12,21,탕!♡,MINO (송민호),"MINO, AiRPLAY, Illjun"
+2021,12,23,METEOR,창모 (CHANGMO),CHANGMO
+2021,12,24,바래 (Feat. 정인) (Prod. TOIL),KOONTA (쿤타),"TOIL, KOONTA, YUMDDA, 정인"
+2021,12,25,"UP해 (Feat. 박재범, 우원재) (Prod. 코드 쿤스트)",SINCE (신스),"CODE KUNST, Pick!"
+2021,12,26,가리온 (Feat. 다이나믹 듀오) (Prod. Primary),조광일 (Gwangil Jo),"Primary, GAEKO"
+2021,12,28,가시 (Prod. 코드 쿤스트),"조광일 (Gwangil Jo), 개코 (GAEKO), 저스디스 (JUSTHIS)","CODE KUNST, GAEKO, Pick!"
+2021,12,29,"BE ! (Feat. 팔로알토, lIlBOI) (Prod. PEEJAY & Slom)",sokodomo (소코도모),"PEEJAY, Slom, Zion.T"
+2021,12,30,"FACE TIME (Feat. 기리보이, pH-1, 개코) (Prod. 코드 쿤스트)",SINCE (신스),"CODE KUNST, GAEKO, Pick!"
+2021,12,31,SIGN (Feat. 미란이) (Prod. 코드 쿤스트),SINCE (신스),"CODE KUNST, Pick!"
+2021,12,32,지나고 보면 (Feat. 화사 & MINO) (Prod. GRAY),BE'O (비오),"GRAY, DAX, Perro, BE'O"
+2021,12,33,"이끼 (Feat. MINO, BOBBY) (Prod. MINO)",Mudd the student (머드 더 스튜던트),"MINO, Mudd the student, GRAY, No Identity"
+2021,12,34,VVS (Feat. JUSTHIS) (Prod. GroovyRoom),"미란이 (Mirani), 먼치맨(MUNCHMAN), Khundi Panda (쿤디판다), 머쉬베놈 (MUSHVENOM)","GroovyRoom, JUSTHIS, Sik-K"
+2021,12,35,Cold Blooded,제시 (Jessi),"Bobblehead, 커즈디, bayb, JohnJohn"
+2021,12,36,"너의 밤,너의 별,너의 달(Prod.로코베리)","기리보이 (GIRIBOY), 김유정 (Kim Youjung)","로코, 베리, GIRIBOY, KWAK Z"
+2021,12,37,Brand (Feat. 래원 (Layone)),BE'O (비오),willy
+2021,12,39,우산 (Feat. 윤하),에픽하이 (EPIK HIGH),Tablo
+2021,12,40,비 오는 날 듣기 좋은 노래 (Feat. Colde),에픽하이 (EPIK HIGH),"Tablo, DJ 투컷"
+2021,12,41,"쿠키영상 (Feat. 에일리, 행주, 개코) (Prod. 코드 쿤스트)",조광일 (Gwangil Jo),"CODE KUNST, SOLE, GAEKO, Pick!"
+2021,12,42,Y (Please Tell Me Why),프리스타일 (Free Style),지오
+2021,12,43,"타이밍 (Feat. 염따, BIG Naughty) (Prod. TOIL)",KOONTA (쿤타),"TOIL, KOONTA, YUMDDA, BIG Naughty, Leellamarz"
+2021,12,44,"Rainy day (Feat. ASH ISLAND, Skinny Brown)",PATEKO (파테코),"PATEKO, ASH ISLAND, Skinny Brown"
+2021,12,45,"CREDIT (Feat. 염따, 기리보이, Zion.T)",릴보이 (lIlBOI),"Slom, Fisherman, lIlBOI, YUMDDA, Zion.T"
+2021,12,46,높이 (Feat. 이하이) (Prod. GRAY),아넌딜라이트(Anandelight),"GRAY, DAX, 이하이"
+2021,12,47,낮 밤 (feat. 박재범),이영지 (Lee Young-ji),"Lee Young-ji, Jay Park, AVERZI, DAUL"
+2021,12,48,"내일이 오면 (Feat. 기리보이, BIG Naughty (서동현))",릴보이 (lIlBOI),"Minit, GIRIBOY, lIlBOI, BIG Naughty, Slom, 박준우, Fisherman"
+2021,12,49,Downtown Baby,블루 (BLOO),"ROCK IT PRODUCTIONS, BLOO"
+2021,12,50,로맨틱 겨울 (Feat. 김진호 Of SG워너비),김진표 (JP),"PSY, 유건형"
+2021,12,51,역겹겠지만 (Remember me),B.I (비아이),"B.I, MILLENNIUM"
+2021,12,52,Trip (Feat. Hannah),릴러말즈 (Leellamarz),"TOIL, Leellamarz, Smob"
+2021,12,53,곡예사,조광일 (Gwangil Jo),AHWU
+2021,12,54,아무노래,지코 (ZICO),"ZICO, Poptime"
+2021,12,56,"+82 (Prod. 다이나믹 듀오, THAMA)","팔로알토 (Paloalto), 기리보이 (GIRIBOY), 다이나믹 듀오 (Dynamicduo), 저스디스 (JUSTHIS), 릴보이 (lIlBOI), DJ Wegun (DJ 웨건)","THAMA, GAEKO"
+2021,12,58,시차 (We Are) (Feat. 로꼬 & GRAY),우원재 (Woo Wonjae),GRAY
+2021,12,59,"Double Up (Feat. 염따, The Quiett, 머쉬베놈, 래원)",KOONTA (쿤타),"TOIL, Jumal of SMGS, YUMDDA"
+2021,12,60,GENERATION (Prod. Lean$moke),호미들 (Homies),"CK, Louie, Chin, Lean$moke"
+2021,12,61,GONE (Feat. Paloalto) (Prod. TOIL),"릴러말즈 (Leellamarz), TOIL (토일)","TOIL, Leellamarz, J Way"
+2021,12,62,OUT OF MY SIGHT,릴러말즈 (Leellamarz),"PATEKO, TOIL, Leellamarz"
+2021,12,64,"헤어지지 못하는 여자, 떠나가지 못하는 남자 (Feat. 정인)",리쌍 (LEESSANG),"Leon Russell, Bonnie Bramlett, Delaney Bramlett, 길, PEEJAY"
+2021,12,65,고생이 많아 (Feat. Zion.T) (Prod. Fisherman),"베이식 (Basick), 아넌딜라이트(Anandelight), Mudd the student (머드 더 스튜던트), sokodomo (소코도모)","Fisherman, Zion.T, Slom"
+2021,12,67,느린심장박동 (Feat. Ja Mezz),래원 (Layone),Clayheart
+2021,12,68,사이렌,호미들 (Homies),"27 corazones, CK, Chin, Louie"
+2021,12,69,Ballerino,리쌍 (LEESSANG),길
+2021,12,70,BAD LOVE,BE'O (비오),"BE'O, Zbeatz, Mantra"
+2021,12,73,Paranoid,ASH ISLAND (애쉬 아일랜드),"ASH ISLAND, TOIL"
+2021,12,77,B.O.T.B. (Prod. GRAY),"개코 (GAEKO), 창모 (CHANGMO), Don Mills (던밀스), 로스 (Los), DeVita (드비타), SOLE (쏠), SINCE (신스), BE'O (비오)","GRAY, DAX, DeVita, SOLE"
+2021,12,78,아름다워,창모 (CHANGMO),CHANGMO
+2021,12,79,수취인 불명,프리스타일 (Free Style),지오
+2021,12,81,Love Love Love (Feat. Yoong Jin Of Casker),에픽하이 (EPIK HIGH),Tablo
+2021,12,82,"아마두 (feat.우원재, 김효은, 넉살, Huckleberry P)","염따 (YUMDDA), 딥플로우 (Deepflow), 팔로알토 (Paloalto), The Quiett (더 콰이엇), 사이먼 도미닉 (Simon Dominic)","noisemasterminsu, YUMDDA, Deepflow, 김효은, Huckleberry P"
+2021,12,87,새로고침 (Feat. GRAY),"지구인 (Geegooin), 아넌딜라이트(Anandelight)",GRAY
+2021,12,88,Good Day (Feat. 팔로알토) (Prod. 코드 쿤스트),"pH-1 (피에이치원), 키드밀리 (Kid Milli), 루피 (Loopy)","CODE KUNST, Paloalto, pH-1, Kid Milli, Loopy"
+2021,12,89,"08베이식 REMIX (Feat. 365LIT, CHANGMO, CROWN J, DON MILLS, FANA, GAEKO, LAYONE, lIlBOI, MYUNDO, PAUL BLANCO, SAN E, SWINGS, SKINNY BROWN, VERBAL JINT, YUMDDA)",베이식 (Basick),"TOIL, YUMDDA, SMH Of SMGS"
+2021,12,91,어땠을까 (Feat. 박정현),싸이 (PSY),"PSY, 유건형"
+2021,12,92,사임쌓임,"Chin (친), 수퍼비 (SUPERBEE), CK (씨케이), UNEDUCATED KID (언에듀케이티드 키드)","ross gossage, Chin"
+2021,12,93,BUSINESS MAN,호미들 (Homies),"CK, Louie, Chin, Kidstone"
+2021,12,95,눈누난나 (NUNU NANA),제시 (Jessi),"유건형, PENOMECO, 전병일, PHILL"
+2021,12,96,Beautiful (Feat. Skinny Brown),ASH ISLAND (애쉬 아일랜드),"TOIL, ASH ISLAND, Skinny Brown"
+2021,12,97,Hyperstar,창모 (CHANGMO),CHANGMO
+2021,12,98,우리서로사랑하지는말자,기리보이 (GIRIBOY),"GIRIBOY, vibin"
+2021,12,99,"And July (Feat. DEAN, DJ Friz)",헤이즈 (Heize),"Deanfluenza, Hyuk Shin, J Bird, Esta, Delly Boi, DK"
+2021,12,100,자니 (Feat. Dynamic Duo),프라이머리 (Primary),"GAEKO, Primary"
