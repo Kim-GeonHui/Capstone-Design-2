@@ -76,7 +76,7 @@ def calculateEdgeWeight(Edge_List):
 
 ArtistList = ProducerList = NodeList = EdgeList = MonthList = RankList = weightList = []
 
-df = pd.read_csv("melonhiphop2021.csv", encoding='cp949')
+df = pd.read_csv("melonindie2021.csv", encoding='cp949')
 
 ArtistList = df['가수'].apply(csvStrtoList)
 ProducerList = df['프로듀서'].apply(csvStrtoList)
@@ -90,4 +90,4 @@ GraphResult = nx.Graph()
 GraphResult.add_nodes_from(NodeList)
 for i in range(0, len(weightList)):
     GraphResult.add_edge(weightList[i][0], weightList[i][1], weight = weightList[i][2])
-nx.write_gexf(GraphResult, "Hiphop2021WeightedDegree.gexf")
+nx.write_gexf(GraphResult, "Indie2021WeightedDegree.gexf")
