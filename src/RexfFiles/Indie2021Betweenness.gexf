@@ -1,0 +1,458 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2022-10-20">
+    <creator>NetworkX 2.8.7</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <nodes>
+      <node id="김C" label="김C" />
+      <node id="달총" label="달총" />
+      <node id="순순희(SOONSOONHEE)" label="순순희(SOONSOONHEE)" />
+      <node id="BLANCC" label="BLANCC" />
+      <node id="런치" label="런치" />
+      <node id="보라미유(BORAMIYU)" label="보라미유(BORAMIYU)" />
+      <node id="박종득" label="박종득" />
+      <node id="유현진" label="유현진" />
+      <node id="SweetPumpkin" label="SweetPumpkin" />
+      <node id="고범준" label="고범준" />
+      <node id="Egg2" label="Egg2" />
+      <node id="J.Litz" label="J.Litz" />
+      <node id="StandingEgg" label="StandingEgg" />
+      <node id="추대관" label="추대관" />
+      <node id="이아일" label="이아일" />
+      <node id="10CM(십센치)" label="10CM(십센치)" />
+      <node id="윤딴딴" label="윤딴딴" />
+      <node id="#안녕" label="#안녕" />
+      <node id="조영수" label="조영수" />
+      <node id="김선민" label="김선민" />
+      <node id="이날치(LEENALCHI)" label="이날치(LEENALCHI)" />
+      <node id="VIP" label="VIP" />
+      <node id="강화성" label="강화성" />
+      <node id="오왠(O.WHEN)" label="오왠(O.WHEN)" />
+      <node id="Sukiee" label="Sukiee" />
+      <node id="Egg1" label="Egg1" />
+      <node id="이현정" label="이현정" />
+      <node id="혁오(HYUKOH)" label="혁오(HYUKOH)" />
+      <node id="Noise_bo2" label="Noise_bo2" />
+      <node id="뜨거운감자(HotPotato)" label="뜨거운감자(HotPotato)" />
+      <node id="김지용" label="김지용" />
+      <node id="리트너" label="리트너" />
+      <node id="ASHLEYALISHA" label="ASHLEYALISHA" />
+      <node id="김도형" label="김도형" />
+      <node id="김홍준" label="김홍준" />
+      <node id="적재" label="적재" />
+      <node id="nineoff" label="nineoff" />
+      <node id="낯선아이" label="낯선아이" />
+      <node id="Vovo" label="Vovo" />
+      <node id="권혁호" label="권혁호" />
+      <node id="덕인" label="덕인" />
+      <node id="2soo" label="2soo" />
+      <node id="이승윤" label="이승윤" />
+      <node id="성수용" label="성수용" />
+      <node id="이날치" label="이날치" />
+      <node id="김민규" label="김민규" />
+      <node id="제인스" label="제인스" />
+      <node id="임정규" label="임정규" />
+      <node id="문문" label="문문" />
+      <node id="또라이박" label="또라이박" />
+      <node id="임재현(LimJaeHyun)" label="임재현(LimJaeHyun)" />
+      <node id="Ye-Yo" label="Ye-Yo" />
+      <node id="고요" label="고요" />
+      <node id="정준일(JungJoonIl)" label="정준일(JungJoonIl)" />
+      <node id="Noheul" label="Noheul" />
+      <node id="최준영" label="최준영" />
+      <node id="에피톤프로젝트(EpitoneProject)" label="에피톤프로젝트(EpitoneProject)" />
+      <node id="안녕하신가영(HelloGa-young)" label="안녕하신가영(HelloGa-young)" />
+      <node id="하은(포맨)" label="하은(포맨)" />
+      <node id="휘현(HWIHYUN)" label="휘현(HWIHYUN)" />
+      <node id="줍에이(JoobA)" label="줍에이(JoobA)" />
+      <node id="CHEEZE" label="CHEEZE" />
+      <node id="윤토벤" label="윤토벤" />
+      <node id="경제환" label="경제환" />
+      <node id="사이" label="사이" />
+      <node id="숀(SHAUN)" label="숀(SHAUN)" />
+      <node id="T.PRETRO(타디스프로젝트舊)" label="T.PRETRO(타디스프로젝트舊)" />
+      <node id="정준일" label="정준일" />
+      <node id="송호일" label="송호일" />
+      <node id="죠지" label="죠지" />
+      <node id="LAGOON" label="LAGOON" />
+      <node id="정수민" label="정수민" />
+      <node id="윤결" label="윤결" />
+      <node id="스트레이" label="스트레이" />
+      <node id="매드클라운" label="매드클라운" />
+      <node id="밤그늘" label="밤그늘" />
+      <node id="주시크(Joosiq)" label="주시크(Joosiq)" />
+      <node id="최상언" label="최상언" />
+      <node id="검정치마" label="검정치마" />
+      <node id="학선" label="학선" />
+      <node id="오왠" label="오왠" />
+      <node id="김기태" label="김기태" />
+      <node id="DOKO" label="DOKO" />
+      <node id="두번째별" label="두번째별" />
+      <node id="권박사" label="권박사" />
+      <node id="L.NDN" label="L.NDN" />
+      <node id="데이먼스이어" label="데이먼스이어" />
+      <node id="박지환" label="박지환" />
+      <node id="가가멜" label="가가멜" />
+      <node id="NikoBlank" label="NikoBlank" />
+      <node id="문성욱(MoonSeongWook)" label="문성욱(MoonSeongWook)" />
+      <node id="김영철" label="김영철" />
+      <node id="잔나비" label="잔나비" />
+      <node id="노틸러스(nautilus)" label="노틸러스(nautilus)" />
+      <node id="박문치" label="박문치" />
+      <node id="한국인" label="한국인" />
+      <node id="멜로망스(MeloMance)" label="멜로망스(MeloMance)" />
+      <node id="손박사" label="손박사" />
+      <node id="스무살(20YEARSOFAGE)" label="스무살(20YEARSOFAGE)" />
+      <node id="뎁트" label="뎁트" />
+      <node id="스탠딩에그(StandingEgg)" label="스탠딩에그(StandingEgg)" />
+      <node id="적재(Jukjae)" label="적재(Jukjae)" />
+      <node id="줍에이" label="줍에이" />
+      <node id="B.a.B" label="B.a.B" />
+      <node id="우디" label="우디" />
+      <node id="이래언" label="이래언" />
+      <node id="어쿠루브(Acourve)" label="어쿠루브(Acourve)" />
+      <node id="구름" label="구름" />
+      <node id="HONEST" label="HONEST" />
+      <node id="마크툽(MAKTUB)" label="마크툽(MAKTUB)" />
+      <node id="에이치코드(H:CODE)" label="에이치코드(H:CODE)" />
+      <node id="김동휘" label="김동휘" />
+      <node id="GodieWatch" label="GodieWatch" />
+      <node id="검정치마(TheBlackSkirts)" label="검정치마(TheBlackSkirts)" />
+      <node id="오동준" label="오동준" />
+      <node id="고요(GOYO)" label="고요(GOYO)" />
+      <node id="빌리어코스티" label="빌리어코스티" />
+      <node id="오반" label="오반" />
+      <node id="마크툽" label="마크툽" />
+      <node id="SCORE" label="SCORE" />
+      <node id="오반(OVAN)" label="오반(OVAN)" />
+      <node id="한희준" label="한희준" />
+      <node id="오혁" label="오혁" />
+      <node id="정지찬" label="정지찬" />
+      <node id="문문(MoonMoon)" label="문문(MoonMoon)" />
+      <node id="CHEEZE(치즈)" label="CHEEZE(치즈)" />
+      <node id="스트레이(TheStray)" label="스트레이(TheStray)" />
+      <node id="안성현" label="안성현" />
+      <node id="박기훈" label="박기훈" />
+      <node id="에이브" label="에이브" />
+      <node id="O.YEON" label="O.YEON" />
+      <node id="장경준" label="장경준" />
+      <node id="결" label="결" />
+      <node id="바닐라맨" label="바닐라맨" />
+      <node id="이윤혁" label="이윤혁" />
+      <node id="매드클라운(MadClown)" label="매드클라운(MadClown)" />
+      <node id="로키드(Lokid)" label="로키드(Lokid)" />
+      <node id="주시크" label="주시크" />
+      <node id="혁오" label="혁오" />
+      <node id="더필름" label="더필름" />
+      <node id="Naiv" label="Naiv" />
+      <node id="KyumLYK" label="KyumLYK" />
+      <node id="전태원" label="전태원" />
+      <node id="프리든" label="프리든" />
+      <node id="안예은" label="안예은" />
+      <node id="정효빈(JeongHyoBean)" label="정효빈(JeongHyoBean)" />
+      <node id="김기림" label="김기림" />
+      <node id="PL(피엘)" label="PL(피엘)" />
+      <node id="양정승" label="양정승" />
+      <node id="잠골버스(잠자는골방의버스커들)" label="잠골버스(잠자는골방의버스커들)" />
+      <node id="에피톤프로젝트" label="에피톤프로젝트" />
+      <node id="CSP" label="CSP" />
+      <node id="BAEKLYK" label="BAEKLYK" />
+      <node id="로브" label="로브" />
+      <node id="EggPlant" label="EggPlant" />
+      <node id="고석영" label="고석영" />
+      <node id="빅가이로빈" label="빅가이로빈" />
+      <node id="10CM" label="10CM" />
+      <node id="탑현(Tophyun)" label="탑현(Tophyun)" />
+      <node id="이치원" label="이치원" />
+      <node id="스무살" label="스무살" />
+      <node id="NODAY" label="NODAY" />
+      <node id="이승표" label="이승표" />
+      <node id="데이먼스이어(Damonsyear)" label="데이먼스이어(Damonsyear)" />
+      <node id="뎁트(Dept)" label="뎁트(Dept)" />
+      <node id="황종하" label="황종하" />
+      <node id="오안" label="오안" />
+      <node id="멜로망스" label="멜로망스" />
+      <node id="에이치코드" label="에이치코드" />
+      <node id="하현상" label="하현상" />
+      <node id="정일호" label="정일호" />
+      <node id="카더가든" label="카더가든" />
+      <node id="똘아이박" label="똘아이박" />
+      <node id="박민지" label="박민지" />
+      <node id="권디엘" label="권디엘" />
+      <node id="공기남(Airman)" label="공기남(Airman)" />
+      <node id="818" label="818" />
+      <node id="정동환" label="정동환" />
+      <node id="Megatone" label="Megatone" />
+      <node id="김혜광" label="김혜광" />
+      <node id="어깨깡패" label="어깨깡패" />
+      <node id="윤딴딴(YUNDDanDdan)" label="윤딴딴(YUNDDanDdan)" />
+      <node id="죠지(george)" label="죠지(george)" />
+      <node id="이라온(LEERAON)" label="이라온(LEERAON)" />
+      <node id="마틴스미스(MartinSmith)" label="마틴스미스(MartinSmith)" />
+      <node id="basecamp" label="basecamp" />
+      <node id="TripleSynergy" label="TripleSynergy" />
+      <node id="강봄" label="강봄" />
+      <node id="볼빨간사춘기(BOL4)" label="볼빨간사춘기(BOL4)" />
+      <node id="권영찬" label="권영찬" />
+      <node id="고닥" label="고닥" />
+      <node id="이요한" label="이요한" />
+      <node id="유영현" label="유영현" />
+      <node id="전준" label="전준" />
+      <node id="안지영" label="안지영" />
+      <node id="공기남" label="공기남" />
+      <node id="원모어찬스(onemorechance)" label="원모어찬스(onemorechance)" />
+      <node id="최현석" label="최현석" />
+      <node id="숀" label="숀" />
+      <node id="김지수" label="김지수" />
+      <node id="정동원(JeongDongWon)" label="정동원(JeongDongWon)" />
+      <node id="방인재" label="방인재" />
+      <node id="우디(Woody)" label="우디(Woody)" />
+      <node id="센티멘탈시너리" label="센티멘탈시너리" />
+      <node id="잔나비(Jannabi)" label="잔나비(Jannabi)" />
+      <node id="경제환(Jehwwn)" label="경제환(Jehwwn)" />
+      <node id="Clam" label="Clam" />
+      <node id="이종한" label="이종한" />
+      <node id="안예은(AHNYEEUN)" label="안예은(AHNYEEUN)" />
+      <node id="결(KYUL)" label="결(KYUL)" />
+      <node id="VAN.C" label="VAN.C" />
+      <node id="사승호" label="사승호" />
+      <node id="이라온" label="이라온" />
+      <node id="KZ" label="KZ" />
+      <node id="장덕철(JANGDEOKCHEOL)" label="장덕철(JANGDEOKCHEOL)" />
+      <node id="이승윤(LeeSeung-yoon)" label="이승윤(LeeSeung-yoon)" />
+      <node id="문성욱" label="문성욱" />
+      <node id="윤토벤(YounToven)" label="윤토벤(YounToven)" />
+      <node id="Egg3" label="Egg3" />
+      <node id="델리스파이스(DeliSpice)" label="델리스파이스(DeliSpice)" />
+      <node id="이종혁" label="이종혁" />
+      <node id="PL" label="PL" />
+      <node id="SonnyZero" label="SonnyZero" />
+      <node id="바버렛츠(TheBarberettes)" label="바버렛츠(TheBarberettes)" />
+      <node id="잔나비최정훈" label="잔나비최정훈" />
+      <node id="FineFive" label="FineFive" />
+      <node id="피아노맨(PIANOMAN)" label="피아노맨(PIANOMAN)" />
+      <node id="권브라더스" label="권브라더스" />
+      <node id="하현상(HAHYUNSANG)" label="하현상(HAHYUNSANG)" />
+      <node id="피아노맨" label="피아노맨" />
+      <node id="피터팬" label="피터팬" />
+      <node id="권태훈" label="권태훈" />
+      <node id="스탠딩에그" label="스탠딩에그" />
+      <node id="런치(LUNCH)" label="런치(LUNCH)" />
+    </nodes>
+    <edges>
+      <edge source="김C" target="델리스파이스(DeliSpice)" id="0" weight="18.479951397326854" />
+      <edge source="김C" target="멜로망스(MeloMance)" id="1" weight="27.91993302535757" />
+      <edge source="달총" target="CHEEZE(치즈)" id="2" weight="15.657917661300358" />
+      <edge source="순순희(SOONSOONHEE)" target="김기태" id="3" weight="51.12929919834497" />
+      <edge source="순순희(SOONSOONHEE)" target="이래언" id="4" weight="8.70523376125092" />
+      <edge source="순순희(SOONSOONHEE)" target="조영수" id="5" weight="51.12929919834497" />
+      <edge source="BLANCC" target="줍에이(JoobA)" id="6" weight="152.55941358024694" />
+      <edge source="런치" target="런치(LUNCH)" id="7" weight="910.5388157894748" />
+      <edge source="런치" target="오반(OVAN)" id="8" weight="910.5388157894748" />
+      <edge source="보라미유(BORAMIYU)" target="Noheul" id="9" weight="64.5862616081012" />
+      <edge source="박종득" target="오왠(O.WHEN)" id="10" weight="20.006056663775656" />
+      <edge source="유현진" target="데이먼스이어(Damonsyear)" id="11" weight="51.86894277255181" />
+      <edge source="SweetPumpkin" target="안녕하신가영(HelloGa-young)" id="12" weight="142.2570665022099" />
+      <edge source="고범준" target="델리스파이스(DeliSpice)" id="13" weight="18.479951397326854" />
+      <edge source="고범준" target="뜨거운감자(HotPotato)" id="14" weight="20.603185708969114" />
+      <edge source="고범준" target="멜로망스(MeloMance)" id="15" weight="27.91993302535757" />
+      <edge source="Egg2" target="스탠딩에그(StandingEgg)" id="16" weight="8.91328344367449" />
+      <edge source="J.Litz" target="오반(OVAN)" id="17" weight="19.00002745631015" />
+      <edge source="StandingEgg" target="스탠딩에그(StandingEgg)" id="18" weight="26.147607262284865" />
+      <edge source="추대관" target="적재(Jukjae)" id="19" weight="11.820533624856944" />
+      <edge source="이아일" target="10CM(십센치)" id="20" weight="220.4905209494982" />
+      <edge source="10CM(십센치)" target="10CM" id="21" weight="2.076694080452785" />
+      <edge source="10CM(십센치)" target="FineFive" id="22" weight="12.160678669021447" />
+      <edge source="10CM(십센치)" target="NODAY" id="23" weight="220.4905209494982" />
+      <edge source="10CM(십센치)" target="박기훈" id="24" weight="20.15170355270821" />
+      <edge source="10CM(십센치)" target="박문치" id="25" weight="220.4905209494982" />
+      <edge source="10CM(십센치)" target="방인재" id="26" weight="6.639636743936136" />
+      <edge source="10CM(십센치)" target="성수용" id="27" weight="3.487063524657282" />
+      <edge source="10CM(십센치)" target="오안" id="28" weight="17.21480901028646" />
+      <edge source="10CM(십센치)" target="이요한" id="29" weight="3.487063524657282" />
+      <edge source="10CM(십센치)" target="이윤혁" id="30" weight="3.4526932633490666" />
+      <edge source="10CM(십센치)" target="한국인" id="31" weight="427.1663580246916" />
+      <edge source="윤딴딴" target="윤딴딴(YUNDDanDdan)" id="32" weight="7.308351155115513" />
+      <edge source="#안녕" target="KZ" id="33" weight="52.492566183721465" />
+      <edge source="#안녕" target="Noise_bo2" id="34" weight="52.492566183721465" />
+      <edge source="#안녕" target="김혜광" id="35" weight="52.492566183721465" />
+      <edge source="#안녕" target="두번째별" id="36" weight="11.379582809172605" />
+      <edge source="#안녕" target="리트너" id="37" weight="7.508294815875703" />
+      <edge source="#안녕" target="임정규" id="38" weight="7.508294815875703" />
+      <edge source="#안녕" target="정수민" id="39" weight="52.492566183721465" />
+      <edge source="김선민" target="로키드(Lokid)" id="40" weight="47.03228327726238" />
+      <edge source="이날치(LEENALCHI)" target="이날치" id="41" weight="62.97292747292747" />
+      <edge source="VIP" target="하은(포맨)" id="42" weight="36.965332122539465" />
+      <edge source="강화성" target="정준일(JungJoonIl)" id="43" weight="103.16951174058892" />
+      <edge source="오왠(O.WHEN)" target="권혁호" id="44" weight="20.006056663775656" />
+      <edge source="오왠(O.WHEN)" target="김기림" id="45" weight="197.94322082379867" />
+      <edge source="오왠(O.WHEN)" target="김지용" id="46" weight="20.006056663775656" />
+      <edge source="오왠(O.WHEN)" target="빌리어코스티" id="47" weight="20.006056663775656" />
+      <edge source="오왠(O.WHEN)" target="어깨깡패" id="48" weight="197.94322082379867" />
+      <edge source="오왠(O.WHEN)" target="오왠" id="49" weight="19.226491630200737" />
+      <edge source="오왠(O.WHEN)" target="이요한" id="50" weight="575.4756756756758" />
+      <edge source="Sukiee" target="로키드(Lokid)" id="51" weight="47.03228327726238" />
+      <edge source="Egg1" target="스탠딩에그(StandingEgg)" id="52" weight="8.91328344367449" />
+      <edge source="이현정" target="스탠딩에그(StandingEgg)" id="53" weight="164.13887571157497" />
+      <edge source="혁오(HYUKOH)" target="오혁" id="54" weight="7.441362438840798" />
+      <edge source="혁오(HYUKOH)" target="카더가든" id="55" weight="14.305993136525261" />
+      <edge source="혁오(HYUKOH)" target="혁오" id="56" weight="14.305993136525261" />
+      <edge source="리트너" target="정동원(JeongDongWon)" id="57" weight="23.124795321637425" />
+      <edge source="ASHLEYALISHA" target="뎁트(Dept)" id="58" weight="1035.167539267017" />
+      <edge source="김도형" target="잔나비(Jannabi)" id="59" weight="4.655059448732825" />
+      <edge source="김홍준" target="정효빈(JeongHyoBean)" id="60" weight="104.83404029692474" />
+      <edge source="적재" target="적재(Jukjae)" id="61" weight="8.30938214828201" />
+      <edge source="nineoff" target="윤딴딴(YUNDDanDdan)" id="62" weight="15.184971034845962" />
+      <edge source="낯선아이" target="볼빨간사춘기(BOL4)" id="63" weight="12.374991058655224" />
+      <edge source="Vovo" target="잔나비(Jannabi)" id="64" weight="282.395225464191" />
+      <edge source="덕인" target="장덕철(JANGDEOKCHEOL)" id="65" weight="13.499200202875368" />
+      <edge source="2soo" target="임재현(LimJaeHyun)" id="66" weight="8.42891247815151" />
+      <edge source="이승윤" target="이승윤(LeeSeung-yoon)" id="67" weight="0.03921184197627692" />
+      <edge source="김민규" target="잔나비(Jannabi)" id="68" weight="218.99034810126585" />
+      <edge source="제인스" target="하현상(HAHYUNSANG)" id="69" weight="1035.167539267017" />
+      <edge source="임정규" target="T.PRETRO(타디스프로젝트舊)" id="70" weight="127.04415274463011" />
+      <edge source="임정규" target="정동원(JeongDongWon)" id="71" weight="23.124795321637425" />
+      <edge source="임정규" target="학선" id="72" weight="127.04415274463011" />
+      <edge source="문문" target="문문(MoonMoon)" id="73" weight="21.095278014876236" />
+      <edge source="또라이박" target="어쿠루브(Acourve)" id="74" weight="79.17275899548082" />
+      <edge source="임재현(LimJaeHyun)" target="LAGOON" id="75" weight="36.33358710490391" />
+      <edge source="임재현(LimJaeHyun)" target="문성욱" id="76" weight="36.33358710490391" />
+      <edge source="Ye-Yo" target="매드클라운(MadClown)" id="77" weight="107.97464503042596" />
+      <edge source="고요" target="고요(GOYO)" id="78" weight="290.76029411764705" />
+      <edge source="정준일(JungJoonIl)" target="권영찬" id="79" weight="39.30755467196819" />
+      <edge source="정준일(JungJoonIl)" target="정준일" id="80" weight="9.331555597508022" />
+      <edge source="Noheul" target="스탠딩에그" id="81" weight="98.14345482910225" />
+      <edge source="Noheul" target="안녕하신가영(HelloGa-young)" id="82" weight="142.2570665022099" />
+      <edge source="Noheul" target="어쿠루브(Acourve)" id="83" weight="79.17275899548082" />
+      <edge source="최준영" target="정효빈(JeongHyoBean)" id="84" weight="388.7693820224721" />
+      <edge source="최준영" target="주시크(Joosiq)" id="85" weight="388.7693820224721" />
+      <edge source="에피톤프로젝트(EpitoneProject)" target="에피톤프로젝트" id="86" weight="217.71574642126788" />
+      <edge source="안녕하신가영(HelloGa-young)" target="똘아이박" id="87" weight="142.2570665022099" />
+      <edge source="안녕하신가영(HelloGa-young)" target="피터팬" id="88" weight="142.2570665022099" />
+      <edge source="휘현(HWIHYUN)" target="강봄" id="89" weight="74.70684443484832" />
+      <edge source="휘현(HWIHYUN)" target="양정승" id="90" weight="74.70684443484832" />
+      <edge source="줍에이(JoobA)" target="가가멜" id="91" weight="152.55941358024694" />
+      <edge source="줍에이(JoobA)" target="줍에이" id="92" weight="152.55941358024694" />
+      <edge source="줍에이(JoobA)" target="프리든" id="93" weight="152.55941358024694" />
+      <edge source="CHEEZE" target="CHEEZE(치즈)" id="94" weight="253.29776720351387" />
+      <edge source="윤토벤" target="노틸러스(nautilus)" id="95" weight="106.98971861471863" />
+      <edge source="윤토벤" target="윤토벤(YounToven)" id="96" weight="320.00439306358385" />
+      <edge source="경제환" target="경제환(Jehwwn)" id="97" weight="211.17165090021362" />
+      <edge source="사이" target="뎁트(Dept)" id="98" weight="1035.167539267017" />
+      <edge source="숀(SHAUN)" target="숀" id="99" weight="6.958331029004378" />
+      <edge source="T.PRETRO(타디스프로젝트舊)" target="최현석" id="100" weight="12.980370273109244" />
+      <edge source="T.PRETRO(타디스프로젝트舊)" target="학선" id="101" weight="127.04415274463011" />
+      <edge source="송호일" target="우디(Woody)" id="102" weight="44.80765993265994" />
+      <edge source="죠지" target="죠지(george)" id="103" weight="8.63958925060083" />
+      <edge source="LAGOON" target="문성욱(MoonSeongWook)" id="104" weight="36.33358710490391" />
+      <edge source="윤결" target="잔나비(Jannabi)" id="105" weight="215.00994251980737" />
+      <edge source="스트레이" target="스트레이(TheStray)" id="106" weight="17.180830726451163" />
+      <edge source="매드클라운" target="매드클라운(MadClown)" id="107" weight="107.97464503042596" />
+      <edge source="밤그늘" target="윤딴딴(YUNDDanDdan)" id="108" weight="15.091255043070548" />
+      <edge source="주시크(Joosiq)" target="안성현" id="109" weight="25.31356195701875" />
+      <edge source="주시크(Joosiq)" target="주시크" id="110" weight="27.290131124913735" />
+      <edge source="최상언" target="정효빈(JeongHyoBean)" id="111" weight="104.83404029692474" />
+      <edge source="검정치마" target="검정치마(TheBlackSkirts)" id="112" weight="26.554979949730424" />
+      <edge source="학선" target="최현석" id="113" weight="127.04415274463011" />
+      <edge source="학선" target="학선" id="114" weight="127.04415274463011" />
+      <edge source="DOKO" target="CHEEZE(치즈)" id="115" weight="13.800307112445035" />
+      <edge source="DOKO" target="마크툽(MAKTUB)" id="116" weight="9.281990235265715" />
+      <edge source="DOKO" target="장덕철(JANGDEOKCHEOL)" id="117" weight="13.499200202875368" />
+      <edge source="DOKO" target="적재(Jukjae)" id="118" weight="11.368646295383604" />
+      <edge source="DOKO" target="탑현(Tophyun)" id="119" weight="81.03630189121144" />
+      <edge source="권박사" target="잔나비(Jannabi)" id="120" weight="8.81776653627085" />
+      <edge source="L.NDN" target="스트레이(TheStray)" id="121" weight="17.180830726451163" />
+      <edge source="데이먼스이어" target="데이먼스이어(Damonsyear)" id="122" weight="51.86894277255181" />
+      <edge source="박지환" target="노틸러스(nautilus)" id="123" weight="106.98971861471863" />
+      <edge source="박지환" target="윤토벤(YounToven)" id="124" weight="320.00439306358385" />
+      <edge source="NikoBlank" target="뎁트(Dept)" id="125" weight="1035.167539267017" />
+      <edge source="문성욱(MoonSeongWook)" target="문성욱" id="126" weight="36.33358710490391" />
+      <edge source="김영철" target="문문(MoonMoon)" id="127" weight="21.095278014876236" />
+      <edge source="잔나비" target="잔나비(Jannabi)" id="128" weight="5.400375367758952" />
+      <edge source="노틸러스(nautilus)" target="O.YEON" id="129" weight="106.98971861471863" />
+      <edge source="노틸러스(nautilus)" target="고석영" id="130" weight="3530.6607142857188" />
+      <edge source="노틸러스(nautilus)" target="손박사" id="131" weight="106.98971861471863" />
+      <edge source="박문치" target="죠지(george)" id="132" weight="19.963348142164786" />
+      <edge source="멜로망스(MeloMance)" target="멜로망스" id="133" weight="7.191502296676573" />
+      <edge source="멜로망스(MeloMance)" target="정동환" id="134" weight="4.508366749297205" />
+      <edge source="손박사" target="CHEEZE(치즈)" id="135" weight="13.800307112445035" />
+      <edge source="스무살(20YEARSOFAGE)" target="818" id="136" weight="1434.2165803108828" />
+      <edge source="스무살(20YEARSOFAGE)" target="바닐라맨" id="137" weight="15.619924158634856" />
+      <edge source="스무살(20YEARSOFAGE)" target="스무살" id="138" weight="1434.2165803108828" />
+      <edge source="뎁트" target="뎁트(Dept)" id="139" weight="1035.167539267017" />
+      <edge source="스탠딩에그(StandingEgg)" target="Egg3" id="140" weight="8.91328344367449" />
+      <edge source="스탠딩에그(StandingEgg)" target="오동준" id="141" weight="164.13887571157497" />
+      <edge source="적재(Jukjae)" target="Megatone" id="142" weight="28.202119205298015" />
+      <edge source="적재(Jukjae)" target="SCORE" id="143" weight="28.202119205298015" />
+      <edge source="적재(Jukjae)" target="사승호" id="144" weight="11.368646295383604" />
+      <edge source="B.a.B" target="윤토벤(YounToven)" id="145" weight="11.95665771081527" />
+      <edge source="우디" target="우디(Woody)" id="146" weight="12.950127721688364" />
+      <edge source="어쿠루브(Acourve)" target="고닥" id="147" weight="643.4304974430497" />
+      <edge source="어쿠루브(Acourve)" target="에이브" id="148" weight="406.9447221405471" />
+      <edge source="어쿠루브(Acourve)" target="이치원" id="149" weight="406.9447221405471" />
+      <edge source="구름" target="CHEEZE(치즈)" id="150" weight="15.79948401237457" />
+      <edge source="HONEST" target="PL(피엘)" id="151" weight="1783.5296391752577" />
+      <edge source="마크툽(MAKTUB)" target="TripleSynergy" id="152" weight="4.326424902859965" />
+      <edge source="마크툽(MAKTUB)" target="마크툽" id="153" weight="2.28969354262345" />
+      <edge source="마크툽(MAKTUB)" target="박민지" id="154" weight="4.326424902859965" />
+      <edge source="마크툽(MAKTUB)" target="이라온" id="155" weight="3.1031329104700145" />
+      <edge source="에이치코드(H:CODE)" target="에이치코드" id="156" weight="7.062258258748608" />
+      <edge source="에이치코드(H:CODE)" target="이승표" id="157" weight="16.73804830263524" />
+      <edge source="에이치코드(H:CODE)" target="한희준" id="158" weight="16.73804830263524" />
+      <edge source="김동휘" target="우디(Woody)" id="159" weight="18.694622668269556" />
+      <edge source="GodieWatch" target="우디(Woody)" id="160" weight="1201.4053819444464" />
+      <edge source="오반" target="런치(LUNCH)" id="161" weight="14.210661957224856" />
+      <edge source="오반" target="오반(OVAN)" id="162" weight="3.9451309372122783" />
+      <edge source="마크툽" target="이라온(LEERAON)" id="163" weight="11.009792535081301" />
+      <edge source="오반(OVAN)" target="CSP" id="164" weight="910.5388157894748" />
+      <edge source="오반(OVAN)" target="VAN.C" id="165" weight="3.923657002242464" />
+      <edge source="오반(OVAN)" target="안성현" id="166" weight="135.60836762688618" />
+      <edge source="오반(OVAN)" target="주시크" id="167" weight="135.60836762688618" />
+      <edge source="오반(OVAN)" target="피아노맨" id="168" weight="19.00002745631015" />
+      <edge source="정지찬" target="원모어찬스(onemorechance)" id="169" weight="46.217157550257134" />
+      <edge source="정지찬" target="잔나비(Jannabi)" id="170" weight="218.99034810126585" />
+      <edge source="CHEEZE(치즈)" target="사승호" id="171" weight="13.800307112445035" />
+      <edge source="스트레이(TheStray)" target="센티멘탈시너리" id="172" weight="17.180830726451163" />
+      <edge source="안성현" target="정효빈(JeongHyoBean)" id="173" weight="388.7693820224721" />
+      <edge source="O.YEON" target="윤토벤(YounToven)" id="174" weight="320.00439306358385" />
+      <edge source="장경준" target="잔나비(Jannabi)" id="175" weight="215.00994251980737" />
+      <edge source="결" target="결(KYUL)" id="176" weight="1434.2165803108828" />
+      <edge source="바닐라맨" target="볼빨간사춘기(BOL4)" id="177" weight="1.0" />
+      <edge source="매드클라운(MadClown)" target="권브라더스" id="178" weight="107.97464503042596" />
+      <edge source="더필름" target="정동원(JeongDongWon)" id="179" weight="23.124795321637425" />
+      <edge source="Naiv" target="하현상(HAHYUNSANG)" id="180" weight="1035.167539267017" />
+      <edge source="KyumLYK" target="PL(피엘)" id="181" weight="1783.5296391752577" />
+      <edge source="전태원" target="마틴스미스(MartinSmith)" id="182" weight="173.76258631512871" />
+      <edge source="안예은" target="안예은(AHNYEEUN)" id="183" weight="195.01465407918843" />
+      <edge source="정효빈(JeongHyoBean)" target="빅가이로빈" id="184" weight="104.83404029692474" />
+      <edge source="PL(피엘)" target="BAEKLYK" id="185" weight="1783.5296391752577" />
+      <edge source="PL(피엘)" target="PL" id="186" weight="1783.5296391752577" />
+      <edge source="잠골버스(잠자는골방의버스커들)" target="정일호" id="187" weight="37.709634352351365" />
+      <edge source="CSP" target="런치(LUNCH)" id="188" weight="910.5388157894748" />
+      <edge source="로브" target="우디(Woody)" id="189" weight="44.80765993265994" />
+      <edge source="EggPlant" target="바버렛츠(TheBarberettes)" id="190" weight="1201.4053819444464" />
+      <edge source="탑현(Tophyun)" target="사승호" id="191" weight="81.03630189121144" />
+      <edge source="데이먼스이어(Damonsyear)" target="전준" id="192" weight="51.86894277255181" />
+      <edge source="뎁트(Dept)" target="Clam" id="193" weight="1035.167539267017" />
+      <edge source="뎁트(Dept)" target="SonnyZero" id="194" weight="1035.167539267017" />
+      <edge source="황종하" target="볼빨간사춘기(BOL4)" id="195" weight="42.21887011164664" />
+      <edge source="하현상" target="하현상(HAHYUNSANG)" id="196" weight="1035.167539267017" />
+      <edge source="권디엘" target="우디(Woody)" id="197" weight="1201.4053819444464" />
+      <edge source="공기남(Airman)" target="공기남" id="198" weight="161.47695718119238" />
+      <edge source="Megatone" target="마틴스미스(MartinSmith)" id="199" weight="173.76258631512871" />
+      <edge source="윤딴딴(YUNDDanDdan)" target="권태훈" id="200" weight="537.2744565217391" />
+      <edge source="죠지(george)" target="basecamp" id="201" weight="15.29860612156919" />
+      <edge source="이라온(LEERAON)" target="이라온" id="202" weight="11.009792535081301" />
+      <edge source="볼빨간사춘기(BOL4)" target="김지수" id="203" weight="71.01903735632182" />
+      <edge source="볼빨간사춘기(BOL4)" target="안지영" id="204" weight="1.0589750731095948" />
+      <edge source="유영현" target="잔나비(Jannabi)" id="205" weight="10.811465933413531" />
+      <edge source="숀" target="피아노맨(PIANOMAN)" id="206" weight="135.39610643709645" />
+      <edge source="잔나비(Jannabi)" target="잔나비최정훈" id="207" weight="4.573515610542734" />
+      <edge source="이종한" target="이승윤(LeeSeung-yoon)" id="208" weight="0.03921184197627692" />
+      <edge source="VAN.C" target="런치(LUNCH)" id="209" weight="13.93592983798697" />
+      <edge source="이종혁" target="피아노맨(PIANOMAN)" id="210" weight="50.156519533231865" />
+      <edge source="피아노맨(PIANOMAN)" target="피아노맨" id="211" weight="36.21569499685995" />
+    </edges>
+  </graph>
+</gexf>
